@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.4.1-22817" Modified="2013-07-31 19:27:39 +0100">
+    <Binder>
+        <BinderItem ID="0" Type="DraftFolder" Created="2013-07-02 17:21:02 +0100" Modified="2013-07-02 17:21:02 +0100">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="6" Type="Text" Created="2013-07-02 17:22:31 +0100" Modified="2013-07-02 17:24:38 +0100">
+                    <Title>Recent history of the upper-most level</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" Type="Text" Created="2013-07-02 17:24:36 +0100" Modified="2013-07-02 17:24:44 +0100">
+                    <Title>Wandering Monsters inside corridors </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" Type="Text" Created="2013-07-02 17:24:42 +0100" Modified="2013-07-02 17:25:05 +0100">
+                    <Title>Approaching the dungeon </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>4827,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" Type="Text" Created="2013-07-02 17:25:02 +0100" Modified="2013-07-02 17:48:06 +0100">
+                    <Title>Grubby Dog Goblin tribe </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>514,40</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" Type="Text" Created="2013-07-02 17:25:11 +0100" Modified="2013-07-02 17:32:30 +0100">
+                    <Title>Running The Grubby Dogs </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>754,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" Type="Text" Created="2013-07-02 17:25:16 +0100" Modified="2013-07-03 14:32:05 +0100">
+                    <Title>Horse Gutter's domain (1-16)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>21666,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="12" Type="Text" Created="2013-07-02 17:25:28 +0100" Modified="2013-07-03 14:31:56 +0100">
+                    <Title>Angry Owlbear (17-18)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3343,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="13" Type="Text" Created="2013-07-02 17:25:33 +0100" Modified="2013-07-03 14:31:47 +0100">
+                    <Title>Playground Of Osenzenein (19-29)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>15815,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="14" Type="Text" Created="2013-07-02 17:25:45 +0100" Modified="2013-07-03 14:31:49 +0100">
+                    <Title>The Pit : wind, depth (30)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>833,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="54" Type="Text" Created="2013-07-03 14:31:15 +0100" Modified="2013-07-03 14:31:17 +0100">
+                    <Title>Forgotten Chambers Of Ancient Seers (31-34)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,45</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="16" Type="Text" Created="2013-07-02 17:27:35 +0100" Modified="2013-07-02 17:31:22 +0100">
+                    <Title>Fungus Caves (35-46) </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>18281,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="17" Type="Text" Created="2013-07-02 17:28:15 +0100" Modified="2013-07-03 13:20:32 +0100">
+                    <Title>Domain Of The First To Eat Clan (47-65) </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>7265,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="18" Type="Text" Created="2013-07-02 17:28:37 +0100" Modified="2013-07-03 14:38:23 +0100">
+                    <Title>Crawling Warrens (66-76) </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5149,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="19" Type="Text" Created="2013-07-02 17:29:54 +0100" Modified="2013-07-03 14:30:42 +0100">
+                    <Title>Star Trap Gnomes (77)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1230,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="20" Type="Text" Created="2013-07-02 17:30:00 +0100" Modified="2013-07-02 17:30:20 +0100">
+                    <Title>The Absent Necromancer (78-82) </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1825,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="21" Type="Text" Created="2013-07-02 17:30:14 +0100" Modified="2013-07-03 14:30:50 +0100">
+                    <Title>The Obelisk Of Insanity (83)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1971,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="22" Type="Text" Created="2013-07-02 17:30:23 +0100" Modified="2013-07-02 17:30:29 +0100">
+                    <Title>The Bountifully Orange Tree</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>866,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="23" Type="Text" Created="2013-07-02 17:30:27 +0100" Modified="2013-07-02 17:30:33 +0100">
+                    <Title>Lost and forgotten Freya</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2912,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="24" Type="Text" Created="2013-07-02 17:30:31 +0100" Modified="2013-07-02 17:30:48 +0100">
+                    <Title>Screaming Two Skulls Pig Faced Orcs </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>552,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="25" Type="Text" Created="2013-07-02 17:30:39 +0100" Modified="2013-07-02 17:30:48 +0100">
+                    <Title>Tomb Of Judder</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>99,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="26" Type="Text" Created="2013-07-02 17:30:46 +0100" Modified="2013-07-02 17:30:56 +0100">
+                    <Title>Room within a room</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>96,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="29" Type="Text" Created="2013-07-02 17:35:01 +0100" Modified="2013-07-02 17:36:19 +0100">
+                    <Title>Alternative AD&amp;D combat rules.</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1009,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="30" Type="Text" Created="2013-07-02 17:36:17 +0100" Modified="2013-07-02 17:36:27 +0100">
+                    <Title>Star Trap History</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3314,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="31" Type="Text" Created="2013-07-02 17:36:25 +0100" Modified="2013-07-02 17:36:34 +0100">
+                    <Title>Suggested Players introduction, the turbo version.</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1189,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="32" Type="Text" Created="2013-07-02 17:36:32 +0100" Modified="2013-07-02 17:36:44 +0100">
+                    <Title>Alternative quests and mini-adventures</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1465,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="33" Type="Text" Created="2013-07-02 17:36:39 +0100" Modified="2013-07-02 17:37:01 +0100">
+                    <Title>Alternative AD&amp;D Character creation rules.</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3643,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="34" Type="Text" Created="2013-07-02 17:36:53 +0100" Modified="2013-07-02 17:37:01 +0100">
+                    <Title>Rumours tables </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>4979,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="35" Type="Text" Created="2013-07-02 17:36:59 +0100" Modified="2013-07-02 17:37:06 +0100">
+                    <Title>Running a Star Trap Dungeon campaign</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3928,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="36" Type="Text" Created="2013-07-02 17:37:04 +0100" Modified="2013-07-02 17:37:49 +0100">
+                    <Title>Experience points and buying training.</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>733,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="37" Type="Text" Created="2013-07-02 17:37:44 +0100" Modified="2013-07-02 17:38:05 +0100">
+                    <Title>Stat checks</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>597,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="38" Type="Text" Created="2013-07-02 17:37:52 +0100" Modified="2013-07-02 17:38:05 +0100">
+                    <Title>Doors</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>512,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="39" Type="Text" Created="2013-07-02 17:37:55 +0100" Modified="2013-07-02 17:38:05 +0100">
+                    <Title>Running encounters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>539,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="40" Type="Text" Created="2013-07-02 17:37:59 +0100" Modified="2013-07-02 17:38:05 +0100">
+                    <Title>Entrances to the Dungeon</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1312,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="41" Type="Text" Created="2013-07-02 17:38:03 +0100" Modified="2013-07-03 13:32:47 +0100">
+                    <Title>Known Levels</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1247,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="45" Type="Text" Created="2013-07-03 11:16:04 +0100" Modified="2013-07-05 10:45:08 +0100">
+                    <Title>Monster Manual</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3219,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="46" Type="Folder" Created="2013-07-03 13:12:25 +0100" Modified="2013-07-03 13:14:18 +0100">
+                    <Title>npcs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="52" Type="Folder" Created="2013-07-03 13:15:23 +0100" Modified="2013-07-03 13:15:26 +0100">
+                            <Title>goblins</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="48" Type="Text" Created="2013-07-03 13:14:18 +0100" Modified="2013-07-03 13:14:37 +0100">
+                                    <Title>Grodsnik Heart Chewer</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>21,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="49" Type="Text" Created="2013-07-03 13:14:32 +0100" Modified="2013-07-03 13:14:37 +0100">
+                                    <Title>Reaping Madkin, the First To Eat shaman </Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>39,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="51" Type="Text" Created="2013-07-03 13:15:01 +0100" Modified="2013-07-03 13:16:16 +0100">
+                                    <Title>Snezak The Horned</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="53" Type="Text" Created="2013-07-03 13:16:14 +0100" Modified="2013-07-03 13:16:16 +0100">
+                                    <Title>Gutso The Fat</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="50" Type="Text" Created="2013-07-03 13:14:35 +0100" Modified="2013-07-03 13:15:03 +0100">
+                                    <Title>Horse Gutter</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,12</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" Type="ResearchFolder" Created="2013-07-02 17:21:02 +0100" Modified="2013-07-02 17:21:02 +0100">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="44" Type="Image" Created="2013-07-02 18:56:34 +0100" Modified="2013-07-02 18:56:36 +0100">
+                    <Title>Star Trap Lvl 1 (1)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1.0</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" Type="TrashFolder" Created="2013-07-02 17:21:02 +0100" Modified="2013-07-02 17:21:02 +0100">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="47" Type="Folder" Created="2013-07-03 13:13:58 +0100" Modified="2013-07-03 13:14:07 +0100">
+                    <Title>Reaping Madkin, the First To Eat shaman </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="A8F8FF0E-D9CA-4D1E-A57B-776DDBA037BB" Color="0.784753 0.815752 0.848702">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="86FF3EE4-1776-4F41-9FCF-D4278384CE29" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-07-02 17:21:02 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2013-07-31 19:18:44 +0100"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
