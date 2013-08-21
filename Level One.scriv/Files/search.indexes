@@ -609,7 +609,7 @@ Tomb complex of an ancient barbarian king guarded by various undead and unplunde
         </Document>
         <Document ID="51">
             <Title>Snezak The Horned</Title>
-            <Text>Snezak The Horned</Text>
+            <Text>Snezak The Horned - half devil, half goblin</Text>
         </Document>
         <Document ID="34">
             <Title>Rumours tables </Title>
@@ -1291,6 +1291,9 @@ Monsters = HD -1 So an Orc has +0 to hit. However additional pluses to hit point
 
 Fighters, rangers, paladins and monks get their level as a bonus. Clerics, druids, thieves and assassins get half their level rounded down as a bonus, Magic-users and illusionists get a third of their level rounded down as a bonus.</Text>
         </Document>
+        <Document ID="55">
+            <Title>Pig-faced orcs</Title>
+        </Document>
         <Document ID="38">
             <Title>Doors</Title>
             <Text>Doors
@@ -1302,6 +1305,11 @@ SB:</Text>
         <Document ID="47">
             <Title>Reaping Madkin, the First To Eat shaman </Title>
         </Document>
+        <Document ID="56">
+            <Title>Yigriznik</Title>
+            <Text>Yigriznik is the pig faced orc warlord
+</Text>
+        </Document>
         <Document ID="39">
             <Title>Running encounters</Title>
             <Text>Running encounters
@@ -1312,9 +1320,15 @@ SB END</Text>
             <Title>Grodsnik Heart Chewer</Title>
             <Text>Grodsnik Heart Chewer</Text>
         </Document>
+        <Document ID="57">
+            <Title>Gnomes</Title>
+        </Document>
         <Document ID="49">
             <Title>Reaping Madkin, the First To Eat shaman </Title>
             <Text>Reaping Madkin, the First To Eat shaman</Text>
+        </Document>
+        <Document ID="58">
+            <Title>Exio Coppertooth</Title>
         </Document>
         <Document ID="10">
             <Title>Running The Grubby Dogs </Title>
@@ -1327,13 +1341,16 @@ After an assault on the tribe by the party the goblin leaders thrown in their lo
 Disdainful
 The goblins see the party as any other competitor for the limited pickings found in the dungeon. When encountered they will attack if they feel they are likely to surprise or overwhelm the character and flee if not. Cornered goblins might barter for their lives with small bits of information they have gleaned about the dungeon.</Text>
         </Document>
+        <Document ID="59">
+            <Title>Tivolak Keystaff</Title>
+        </Document>
         <Document ID="11">
             <Title>Horse Gutter's domain (1-16)</Title>
             <Text>Region one - Horse Gutter's domain
 1. Long entrance corridor : door, smell, goblins, murals
 The door to Horse Gutter's domain is barred from the inside. If the door is smashed in it will be repaired and reinforced if the majority of Horse Gutter's goblins still live between extended rests, at which point the check to break the barricade in becomes 6+ on a D6+Str and 12 hps to be open again. Smashing in the door will alert those inside. It is possible to bluff or use diplomacy to get the doors open, both require talking in Goblin and 5+ on a D6+Chr. Intimidation will only cause the goblins to get reinforcements, who may even scale down the outside and ambush the party from two sides.
 
-This long 10 feet wide corridor is both rubbish strewn and smelly. The floor is hewed stone and painted murals on the walls seem to depict ranks of bowmen raining arrows down on fleeing knights. In the gloom you make out several green-skinned short and crooked figures, clutching weapons and mustering to attack. 
+This long 10 feet wide corridor is both rubbish strewn and smelly. The floor is hewed stone and painted murals on the walls seem to depict ranks of bowmen raining arrows down on fleeing knights. Your torches pick out the forms of several green-skinned short and crooked humanoids all with overlarge ragged and pointy ears. They are clutching weapons and mustering to attack! 
 
 A 4+ on D6+Int or Wis check, or being a Dwarf will identify the smell and trappings of goblins, although this maybe obvious given the guards who keep watch here. Unless the party have already made a name for themselves amongst the goblin tribe, the warriors here believe they are up to the task of fighting off the adventurers and thus the rewards of picking the through the bodies of their kill for food, treasures and weapons. Tactically the goblins warriors will charge forward and attack, but shift back if possible to avoid potential counter attacks. The acolyte will scream orders and use ranged attacks, pushing back any who get through the warrior ranks. The sharpshooter will continue to launch arrows until closed in on, when it will attempt to flee towards the guard room in room 8. The debris has nothing of value hidden amongst it and is made up of discard bones, mud and leaves. The goblins in room 8 are likely to make an appearance after 3 or 4 rounds, especially if they can slip behind the party if the goblins here have retreated.
 
@@ -1343,7 +1360,7 @@ Spear, hand axe, club or short sword, Shield.
 Goblin archer (AC 7/13, HD 1-1, hp 3, At 1d6 or 1d4, Mv 90/30, Sv 0h, Mr 7, Al CE) Humanoid
 +1 to hit with their short bows due to dexterity adjustment, dagger. Short bow, 1d12 arrows, daggers.
 Goblin acolyte (AC 7/13, HD 1, hp 4, At 1d6 or spell, Mv 90/30, Sv C1, Mr 8, Al CE) Humanoid
-May cast randomly 1-2 Command, 3-4 Curse, 5-6 Remove Fear once per day. May use devices as a cleric.  Sacred club, ritual dagger.
+May cast randomly 1-2 Command, 3-4 Curse, 5-6 Cause Fear once per day. May use devices as a cleric.  Sacred club, ritual dagger.
 
 
 
@@ -1352,10 +1369,12 @@ May cast randomly 1-2 Command, 3-4 Curse, 5-6 Remove Fear once per day. May use 
 
 Awkwardly shaped but well lit, this chamber seems to contain living quarters and occupants as straw beds, stools and a table are apparent. Daylight streams in from two windows set into the far wall, making silhouettes of the handful of goblins standing before you and who are holding bows or other weapons ready. Crude skulls are daubed near the windows and seemed ranked against what might be names. 
 
+Several goblin creatures armed with hunting bows lurk in darker parts of the room, led by a large and unsavoury goblin armed with a black iron battle axe and well used shield. 
+
 Ungully Headbreaker, a mean and hated underboss lairs here. He is in charge of shooting down anything or anyone approaching the dungeon entrance that doesn't seem too powerful. He never orders attacks on those who exit the dungeon, fearing retribution from below. He has a wary respect for the bowmen of the First To Eat clan and they generally share the spoils of animals or others that the two groups manage to kill out the dungeon, despite orders to the contrary. This is mostly to stop the other side from shooting his bowmen when the go out to fetch kills. He considers himself a tough veteran, who will order his sharpshooters to engage in combat to maximize the others ability to shoot while he picks his moments carefully. Sounds of combat will draw him and his men to the second gallery should the party approach from that direction. He will fight to the death, but if he dies before his followers they will flee towards 4.  
 The windows give a good view onto the area before the entrance doors are narrow, but small creatures, such as goblins and halflings can fit through. There are coils of rope around to help with the climb down, should anyone do so succeeds on a 2+ on D6+Dex. 
 
-4 goblin archers, 1 goblin bully. 1 potion of healing, cheaply jeweled dagger worth 50 gp.
+4 goblin archers, 1 goblin bully with a cheaply jeweled dagger worth 50 gp.
 
 Goblin archer (AC 7/13, HD 1-1, hp 3, At 1d6 or 1d4, Mv 90/30, Sv 0h, Mr 7, Al CE) Humanoid
 +1 to hit with their short bows due to dexterity adjustment, dagger. Short bow, 1d12 arrows, daggers.
@@ -1366,7 +1385,7 @@ Battleaxe, shield.
 
  
 3. Second gallery : goblins, window
-The second gallery is nondescript except for a patch of fresco that shows thin figures dancing around a strange spike of black rock. Two further windows light the chamber and are just big enough to climb out. Rope lies coiled in a corner.
+The second gallery is nondescript except for a patch of fresco that shows thin figures dancing around a strange spike of black rock. Two further windows light the chamber and are just big enough to climb out. Rope lies coiled in a corner. 
 
 The goblins here will probably be encountered in the shooting gallery (area 2) or at the guard station (area 4) unless they are surprised. They are universally cowards, so if they think they can get away with not being caught will flee or surrender.
 
@@ -1377,7 +1396,7 @@ Goblin archer (AC 7/13, HD 1-1, hp 3, At 1d6 or 1d4, Mv 90/30, Sv 0h, Mr 7, Al C
 
 
 4. Guard station : guards, goblins, bully, flee
-This square chamber ends in a heavy wooden door. Goblin drawings litter the walls showing scenes of violence and theft, while ceiling mold makes the room smell musty and damp. Two young looking goblin warriors are proudly clutching weapons in defence, while a larger and fatter goblin seems to opening the door behind them.
+This square chamber ends in a heavy wooden door. Goblin drawings litter the walls showing scenes of violence and theft, while ceiling mould makes the room smell musty and damp. Two young looking goblin warriors are proudly clutching knives in defence, while a larger and fatter goblin seems to opening the door behind them.
 
 The guard station is here more to prevent light fingered goblins sneaking into Horse Gutters living area and store rooms than prevent a determined group. If a party appear without masking their approach the goblin bully Sloba Kneeeater will flee towards the Awaiting chamber (area 6) after commanding the young, brave and stupid runts to stop them. Sloba knows about the pit trap at 5. and will avoid it.
 4 goblin runts, 1 goblin bully
@@ -1386,6 +1405,7 @@ Goblin runts (AC 7/13, HD 1-1, hp 1, At 1d4, Mv 90/30, Sv h0, Mr 6, Al CE) Human
 Knife or improvised weapon.
 Goblin bully (AC 6/14, HD 2, hp 10, At 1d8, Mv 90/30, Sv F1, Mr 8, Al CE) Humanoid
 Battleaxe, shield.
+
 5. Horse Gutters entrance way : gruesome, rug, trap, pit, skeletons
 
 This small chamber is furnished with numerous heads on poles, Skulls stacked in pile, while foul smelling incense fills the place with smoke and moth-eaten rugs line the entire floor. Badly cast bells line the walls with ropes made from strips of leather and horse hair. Two severed horses heads on poles frame a large double door, rotting away and attracting flies.
@@ -1397,8 +1417,7 @@ Double damage from smashing weapons, half damage from slashing and piercing. Han
 
 
 6. Awaiting chamber : goblins, wizard, wolf, arcane symbols, chair, wand
-Vivid purple and green runes and arcane symbols cover the walls of this large chamber. A chair of unusual design sits throne-like against one wall while threadbare rugs are laid out to mimic those of a royal chamber. The goblin inhabitants, seven in total, are bolstered by a large grey wolf that's growling at you. The goblin sat on the chair appears to wear robes suited to a wizard, an image enhanced by the wand he holds, that glows with a white flame.
-
+Vivid purple and green runes and arcane symbols cover the walls of this large chamber. A chair of unusual design sits throne-like against one wall while threadbare rugs are laid out to mimic those of a royal chamber. The goblin inhabitants, seven in total, are bolstered by a large grey wolf that growls at you. The goblin sat on the chair appears to wear robes suited to a wizard, an image enhanced by the wand he holds, that glows with a white flame.
 
 Nadso Wildbiter, the crafty goblin hexamancer who lives here lords it over anyone wishing to to visit Horse Gutter, whom he acts as chamberlain. He is something of a coward and is reluctant to leave this chamber so is very unlikely to move to engage the party even if the goblins hear fighting from elsewhere. Nadso is the one who has covered the room in what he claims are arcane runes and symbols using purple and green inks, but they are mostly just random lines and circles, an arcane DC of 15 reveals that that are mostly fake and those at are true magical symbols have no power. However it impresses the others and it is generally believed by the tribe that Nadso can detect lies spoken here because of them. Nadso might strike a deal with a party that scares him, but otherwise believes his powers and allies are more than equal to the task of killing the characters. Nadso is somewhat susceptible to flattery (diplomacy or bluff) but will work to betray the adventurers to the betterment of himself. Nadso is armed with a wand of magic missiles with 5 charges.
 1 wolf, 1 goblin hexer, 3 goblin warriors, 3 goblin runts.
