@@ -1,7 +1,15 @@
 platform=mac
+<<<<<<< HEAD
 host=Sashas-MacBook-Pro
 user=Alexander Bilton
 uuid=EDEAEE62-6397-4078-978D-F8E9A1775538
 app=Scrivener
 project_path=/Users/SashaBilton/Documents/StarTrap/StarTrap/Level One.scriv
+=======
+host=GL04075M
+user=Alexander Bilton
+uuid=7690A091-D123-4362-A96C-CF9245712D7F
+app=Scrivener
+project_path=/Users/sasha.bilton/StarTrap/Level One.scriv
+>>>>>>> fdcc5311d2db81a9c4c90b08cf81a408b8e2d13f
 app_path=/Applications/Scrivener.app

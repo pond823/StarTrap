@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<<<<<<< HEAD
 <ScrivenerProject Version="1.0" Creator="SCRMAC-2.4.1-22817" Modified="2013-08-22 15:09:49 +0100">
+=======
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.4.1-22817" Modified="2013-08-30 17:45:29 +0100">
+>>>>>>> fdcc5311d2db81a9c4c90b08cf81a408b8e2d13f
     <Binder>
         <BinderItem ID="0" Type="DraftFolder" Created="2013-07-02 17:21:02 +0100" Modified="2013-07-02 17:21:02 +0100">
             <Title>Draft</Title>
@@ -147,14 +151,14 @@
                         <TextSelection>2850,16</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="20" Type="Text" Created="2013-07-02 17:30:00 +0100" Modified="2013-07-02 17:30:20 +0100">
+                <BinderItem ID="20" Type="Text" Created="2013-07-02 17:30:00 +0100" Modified="2013-08-30 17:45:22 +0100">
                     <Title>The Absent Necromancer (78-82) </Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1825,0</TextSelection>
+                        <TextSelection>2226,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="21" Type="Text" Created="2013-07-02 17:30:14 +0100" Modified="2013-08-21 15:55:41 +0100">
@@ -327,34 +331,34 @@
                         <TextSelection>400,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="40" Type="Text" Created="2013-07-02 17:37:59 +0100" Modified="2013-07-02 17:38:05 +0100">
+                <BinderItem ID="40" Type="Text" Created="2013-07-02 17:37:59 +0100" Modified="2013-08-30 16:36:43 +0100">
                     <Title>Entrances to the Dungeon</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1312,0</TextSelection>
+                        <TextSelection>1448,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="41" Type="Text" Created="2013-07-02 17:38:03 +0100" Modified="2013-07-03 13:32:47 +0100">
+                <BinderItem ID="41" Type="Text" Created="2013-07-02 17:38:03 +0100" Modified="2013-08-30 17:06:35 +0100">
                     <Title>Known Levels</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1247,0</TextSelection>
+                        <TextSelection>1003,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="45" Type="Text" Created="2013-07-03 11:16:04 +0100" Modified="2013-08-21 16:59:46 +0100">
+                <BinderItem ID="45" Type="Text" Created="2013-07-03 11:16:04 +0100" Modified="2013-08-30 17:42:17 +0100">
                     <Title>Monster Manual</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>7451,0</TextSelection>
+                        <TextSelection>6357,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="60" Type="Text" Created="2013-08-21 15:06:06 +0100" Modified="2013-08-21 15:06:25 +0100">
@@ -367,14 +371,14 @@
                         <TextSelection>33,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="61" Type="Text" Created="2013-08-21 16:24:17 +0100" Modified="2013-08-21 16:25:26 +0100">
+                <BinderItem ID="61" Type="Text" Created="2013-08-21 16:24:17 +0100" Modified="2013-08-30 16:32:32 +0100">
                     <Title>Magic Items</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>460,0</TextSelection>
+                        <TextSelection>224,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="46" Type="Folder" Created="2013-07-03 13:12:25 +0100" Modified="2013-07-03 13:14:18 +0100">
@@ -522,7 +526,7 @@
                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                     </MetaData>
                     <MediaSettings>
-                        <ImageScaleFactor>1.0</ImageScaleFactor>
+                        <ImageScaleFactor>1.32478</ImageScaleFactor>
                         <ImageRotation>None</ImageRotation>
                         <ImageScalesProportionally>No</ImageScalesProportionally>
                     </MediaSettings>
@@ -580,7 +584,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-07-02 17:21:02 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+<<<<<<< HEAD
         <PreviousSession Words="0" Characters="0" Date="2013-08-22 15:08:49 +0100"></PreviousSession>
+=======
+        <PreviousSession Words="361" Characters="1964" Date="2013-08-30 17:05:10 +0100"></PreviousSession>
+>>>>>>> fdcc5311d2db81a9c4c90b08cf81a408b8e2d13f
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
