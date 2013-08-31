@@ -894,13 +894,13 @@ This room is filled waste high in ancient a brittle bones. Travelling through is
             <Comments>needs changing to AD&amp;D
 </Comments>
         </Document>
-        <Document ID="44">
-            <Title>Star Trap Lvl 1 (1)</Title>
-        </Document>
         <Document ID="61">
             <Title>Magic Items</Title>
             <Text>Staves and wands are iconic items for wizards, and yet only the mightiest magical devices improve the magical ability of wizards. To rectify this modify saving throw roll the wizard makes against spells cast by other wizards and magical effects by the plus of the staff or wand they carry. Also, when a wizard casts a spell through a magic staff or wand any saving throw the target gets is reduced by the same amount. Of course wands do not count as weapons. 
 </Text>
+        </Document>
+        <Document ID="44">
+            <Title>Star Trap Lvl 1 (1)</Title>
         </Document>
         <Document ID="53">
             <Title>Gutso The Fat</Title>
