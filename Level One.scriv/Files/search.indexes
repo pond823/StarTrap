@@ -187,15 +187,13 @@ The secret door requires a standard roll to spot. It is possible to climb down t
             <Title>Entrances to the Dungeon</Title>
             <Text>Entrances to the Dungeon.
 
-There are four surface routes into the first level of the dungeon. The front doors are the first and are commonly watched by creatures within. If the goblins that occupy the halls around the entrance are removed other, more powerful denizens will move it such as the Pig Faced Orcs of the first level, Ogres from the Black Iron mercenary outfit, Duergar slavers or even trolls from the depths might decide to move up. This is area 1 on the map of the first level.  
+There are four surface routes into the dungeon. The front doors are the first and are commonly watched by creatures within. If the goblins that occupy the halls around the entrance are removed other, more powerful denizens will move it such as the Pig Faced Orcs of the first level, Ogres from the Black Iron mercenary outfit, Duergar slavers or even trolls from the depths. This is area 1 on the map of the first level.  
 
 The second entrance is the huge shaft that runs down into the lowest levels of the dungeon and is open to the surface. All manner of winged creatures use this to move between the dungeon and the outside, most notably a black dragon who would happily eat a party of adventurers abseiling down between levels. This is area 30 on the map of the first level. 
 
-The most secretive way in currently is through the collapsed ceiling that leads to the Fungal people’s domain in area 38. However the Shriekers there will alert the Mushroom King and his people. It also requires some climbing and is very difficult to find from the surface as the collapse is hidden in a wooded dell.
+The most secretive way in currently is through the collapsed ceiling that leads to the Fungal people’s domain in area 38. However the Shriekers there will alert the Mushroom King and his people. It also requires some climbing.
 
-The fourth way in is found 3 miles from the main gate, and is a narrowing winding tunnel that leads to the ancient temple complex currently occupied by the Pig Faced Orcs. It’s guarded by the orcs and unless they are wholly wiped out will always lead to confrontation if used. 
-
-</Text>
+The fourth way in is found 3 miles from the main gate, and is a narrowing winding tunnel that leads to the ancient temple complex currently occupied by the Pig Faced Orcs. It’s guarded by the orcs and unless they are wholly wiped out will always lead to confrontation if used.</Text>
         </Document>
         <Document ID="23">
             <Title>Lost and forgotten Freya</Title>
@@ -898,10 +896,8 @@ This room is filled waste high in ancient a brittle bones. Travelling through is
         </Document>
         <Document ID="61">
             <Title>Magic Items</Title>
-            <Text>Staves and wands are iconic items for wizards, and yet only the mightiest magical devices improve the magical ability of wizards. To rectify this modify saving throw roll the wizard makes against spells cast by other wizards by the plus of the staff or wand they carry. Also, when a wizard casts a spell through a magic staff or wand any saving throw the target gets is reduced by the same amount. Of course wands do not count as weapons. </Text>
-        </Document>
-        <Document ID="44">
-            <Title>Star Trap Lvl 1 (1)</Title>
+            <Text>Staves and wands are iconic items for wizards, and yet only the mightiest magical devices improve the magical ability of wizards. To rectify this modify saving throw roll the wizard makes against spells cast by other wizards and magical effects by the plus of the staff or wand they carry. Also, when a wizard casts a spell through a magic staff or wand any saving throw the target gets is reduced by the same amount. Of course wands do not count as weapons. 
+</Text>
         </Document>
         <Document ID="44">
             <Title>Star Trap Lvl 1 (1)</Title>
