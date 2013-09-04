@@ -187,13 +187,15 @@ The secret door requires a standard roll to spot. It is possible to climb down t
             <Title>Entrances to the Dungeon</Title>
             <Text>Entrances to the Dungeon.
 
-There are four surface routes into the dungeon. The front doors are the first and are commonly watched by creatures within. If the goblins that occupy the halls around the entrance are removed other, more powerful denizens will move it such as the Pig Faced Orcs of the first level, Ogres from the Black Iron mercenary outfit, Duergar slavers or even trolls from the depths. This is area 1 on the map of the first level.  
+There are four surface routes into the first level of the dungeon. The front doors are the first and are commonly watched by creatures within. If the goblins that occupy the halls around the entrance are removed other, more powerful denizens will move it such as the Pig Faced Orcs of the first level, Ogres from the Black Iron mercenary outfit, Duergar slavers or even trolls from the depths might decide to move up. This is area 1 on the map of the first level.  
 
 The second entrance is the huge shaft that runs down into the lowest levels of the dungeon and is open to the surface. All manner of winged creatures use this to move between the dungeon and the outside, most notably a black dragon who would happily eat a party of adventurers abseiling down between levels. This is area 30 on the map of the first level. 
 
-The most secretive way in currently is through the collapsed ceiling that leads to the Fungal people’s domain in area 38. However the Shriekers there will alert the Mushroom King and his people. It also requires some climbing.
+The most secretive way in currently is through the collapsed ceiling that leads to the Fungal people’s domain in area 38. However the Shriekers there will alert the Mushroom King and his people. It also requires some climbing and is very difficult to find from the surface as the collapse is hidden in a wooded dell.
 
-The fourth way in is found 3 miles from the main gate, and is a narrowing winding tunnel that leads to the ancient temple complex currently occupied by the Pig Faced Orcs. It’s guarded by the orcs and unless they are wholly wiped out will always lead to confrontation if used.</Text>
+The fourth way in is found 3 miles from the main gate, and is a narrowing winding tunnel that leads to the ancient temple complex currently occupied by the Pig Faced Orcs. It’s guarded by the orcs and unless they are wholly wiped out will always lead to confrontation if used. 
+
+</Text>
         </Document>
         <Document ID="23">
             <Title>Lost and forgotten Freya</Title>
@@ -314,7 +316,7 @@ The King Of Slight - The demi-god of petty revenge is wandering the halls of Sta
 
 Tear Garden - Fruit trees watered by tears of Angels, Devils &amp; Gods. 
 
-Black Iron Ogres – mercenary band
+Black Iron Ogres – mercenary band, with Hobgoblin auxiliaries. Ruled by a feared warlord who has a pact of sorts with Hell. 
 Duergar Slavers – provide weapons and slaves to many within the dungeon.
 Derro – Camped around the obelisk, hated and at war with everyone but with Aberrant allies. They live in square tower blocks in huge chambers. 
 The Nystix Commune – Arcanists looting ancient Toolizith artifacts, studying the Obelisk and exploring the dungeon.
@@ -896,8 +898,7 @@ This room is filled waste high in ancient a brittle bones. Travelling through is
         </Document>
         <Document ID="61">
             <Title>Magic Items</Title>
-            <Text>Staves and wands are iconic items for wizards, and yet only the mightiest magical devices improve the magical ability of wizards. To rectify this modify saving throw roll the wizard makes against spells cast by other wizards and magical effects by the plus of the staff or wand they carry. Also, when a wizard casts a spell through a magic staff or wand any saving throw the target gets is reduced by the same amount. Of course wands do not count as weapons. 
-</Text>
+            <Text>Staves and wands are iconic items for wizards, and yet only the mightiest magical devices improve the magical ability of wizards. To rectify this modify saving throw roll the wizard makes against spells cast by other wizards by the plus of the staff or wand they carry. Also, when a wizard casts a spell through a magic staff or wand any saving throw the target gets is reduced by the same amount. Of course wands do not count as weapons. </Text>
         </Document>
         <Document ID="44">
             <Title>Star Trap Lvl 1 (1)</Title>
@@ -945,7 +946,7 @@ Exio Coppertooth - Star Trap Gnome, Tivolak Keystaff - Star Trap Gnome</Text>
 	5.	Beetle, Boring
 	6.	Brain In A Jar
 	7.	Centipede, Giant  
-	8.	Crawling Claw
+	8.	Crawling Claw/Severed Hand
 	9.	Demonic Two-Headed Warthog
 	10.	Dimension Shambler
 	11.	Farspawn Returned
@@ -995,9 +996,11 @@ Exio Coppertooth - Star Trap Gnome, Tivolak Keystaff - Star Trap Gnome</Text>
 	55.	Vile Creeper, Barbed
 	56.	Vile Creeper, Suckered
 	57.	Wolf
-	58.	Zombie
-	59.	Zombie Rotter
-	60.	Zombie, Famine
+	58.	Wraith
+	59.	Zombie
+	60.	Zombie Rotter
+	61.	Zombie, Famine
+
 
 Monster types.
 
@@ -1016,7 +1019,7 @@ Insect
 Insects have very low, instinctive intelligence. They usually enjoy lowlight vision. 
 
 Undead
-Spirits that have either failed to enter the realm of the dead or have been summoned back are very often malign and hateful of the living. Depending on the strength of will undead go from being of low intelligence to supra-geniuses. They are immune to mind effecting spells such as charm and suggestion. Undead also take 1d8 points of damage from being splashed by holy or blessed water.  
+Spirits that have either failed to enter the realm of the dead or have been summoned back are very often malign and hateful of the living. Depending on the strength of will undead go from being of low intelligence to supra-geniuses. They are immune to mind effecting spells such as charm and suggestion. Undead also take 1d8 points of damage per level of the creator from being splashed by holy or blessed water.  
 
 Aberration
 Aberrations are beings from the horror dimensions that exist at the furtherest edges of reality. They some how interface with the dreams of those who come from the material realm, are related to star beings and astronomy. They come is sizes from tiny to unimaginably vast. Because of their alien nature they are immune to mind affecting spells.  
@@ -1049,15 +1052,16 @@ If you’ve never seen a fire beetle fire up, you’ll rightly run away the firs
 Beetle, Boring (AC 3/17, HD 5, Hp 22, At +4 5d4, Mv 60/20, Sv F5, Mr 7 Al N) Insect
 Boring beetles are huge, 9 feet long and dark blue with rainbow sheen. It’s mouthpart is a riot of hooks and mandibles, but apart from that they are nothing special.  
 
-Brain In A Jar (AC 0/20, HD 1, Hp 5, At none, Mv 90/30, Sv M5, Mr 8 Al CE) Undead
-The Brain is a 5th level wizard, and can cast the following spells: Charm Person x2, Unseen Servant, Amnesia, Ray Of Enfeeblement, Suggestion. The Jar acts as a Broach Of Shield with 101 charges. Communicates via Telepathy and believes incorrectly it can read minds.
-Insane, paranoid, egomanical and delusional the brain in a jar is more fun than a chest full of kittens.  
+Brain In A Jar (AC 0/20, HD 3, Hp 12, At none, Mv 90/30 levitation, Sv M5, Mr 8 Al CE) Undead
+The Brain is a 5th level wizard, and can cast the following spells: Charm Person x2, Unseen Servant, Amnesia, Ray Of Enfeeblement, Suggestion. The Jar acts as a Broach Of Shield with 101 charges. Communicates via Telepathy and believes incorrectly it can read minds. He can use the Unseen Servant to throw objects that have +0 to hit and do 1d4 damage if they strike the target, up to a range of 20 ft feet away.
+Insane, paranoid, ego-manical and delusional the brain in a jar is more fun to play with than a box full of kittens.  
 
 Centipede, Giant (AC 8/12, HD 1d4, Hp 1, At +0 1d4 + poison, Mv 60/20, Sv H0, Mr 7, Al N) Insect
 A giant centipede’s poison cause the it’s victim to be sick for 1d6 days, and they half all their to dice rolls and movement rates while affected. The poison is mild, so +1 to save and takes 1d4 rounds to take affect.
-So many legs walking all over you.
+One day these feet are going to walk all over you.
 
-Crawling Claw (AC 6/14, HD 1d4, Hp 2, At -1 1d4,Mv 60/20,  Sv F1, Mr 12, Al NE) Undead
+Crawling Claw/Severed Hand (AC 6/14, HD 1d4, Hp 2, At -1 1d4,Mv 60/20,  Sv F1, Mr 12, Al NE) Undead
+Up to 5 Claws can occupy a single spot adjacent to an opponent before leaping onto them.
 Bothersome on their own, a plague of claws can overwhelm the mightiest of heroes.
 
 Demonic Two-Headed Warthog (AC 7/13, HD 3+3, At +3 2d4/2d4/2d4,Mv 90/30, Sv F3, Mr 9, Al CE) Lesser Demon, Animal
@@ -1574,13 +1578,18 @@ Describe this corridor as you normally would. Half way along the it a pressure p
         <Document ID="20">
             <Title>The Absent Necromancer (78-82) </Title>
             <Text>The Absent Necromancer (78-82)
-The most recent occupant of these tile-floored chambers was Thandrak The Black, a Necromancer of some note. He used these chambers as his lair and carried out horrific experiments on anyone who he caught. For a time he wander the night, with packs of severed hands following him everywhere, seeking out loan travellers to enslave and work upon.  Some ten years ago he disappeared, exploring deeper sections of the dungeon, however because of his device in room 80, his legacy 'lives' on. Thandrak himself can be encountered on level 3. The door that leads to this chambers is locked and very strong. 
+The most recent occupant of these tile-floored chambers was Thandrak The Black, a Necromancer of some note. He used these chambers as his lair and carried out horrific experiments on anyone who he caught. For a time he wander the night, with packs of animated severed hands following him everywhere, seeking out loan travellers to enslave and work upon.  Some ten years ago he disappeared, exploring deeper sections of the dungeon, however because of his device in room 80 which he left working, his legacy 'lives' on. Thandrak himself can be encountered on level 3. The door that leads to this chambers is locked and very strong. 
 
 78. Frescos Of Pain
-This room holds a number of wooden benches that are covered in dust and ancient blood stains. The walls are painted in extremely vivid and accurate details, depicting the dismemberment of bodies and the creation of undead. Anyone studying them is cursed for 24 hours such that all attack and skill rolls against undead are at -2. 
+This room holds a number of wooden benches that are covered in dust and ancient blood stains. You can only wonder at the hours that must have gone into painting the walls that show in extremely vivid and accurate detail the dismemberment of bodies and the creation of undead of various sorts. In fact they are so detailed your find yourself disturbed just looking at them. There is a ornate door in the north wall, depicting a the thin face of glowering hooded man.     
+
+Anyone studying the walls for longer than a turn is cursed for 24 hours such that all dice rolls against undead are at -2 (to hit, to damage, to save etc). However if they are spell casters who have, or will have, access to the Animate Dead spell, they can create Severed Hands instead of the normal undead types. 
 
 79. Horrid Jars 
-Shelves line all the walls in this chamber and are used to store jars containing embalmed body parts, some of which are still animate.
+This room is a jumble of shelves and horrid alchemy instruments. Hundreds of jars, both large and small fill the room, containing all manner of body parts, eyes, arms, brains and worse. Many have yellowed with age, and some of the contents have completed dissolved forming fleshy sediment at the bottom of them. A few work books, empty jars, saws and hooked rods also can be made out in the clutter. 
+
+The animated brain of an early rival to Thandrak floats in one of the jars. Driven mad by his condition, Phzulta (Fah-zool-ta) has plotted his revenge for half a century. Powers from beyond have taken note of his condition and provided him with the means to use magic again. Initial he’ll remain hidden amongst the other jars, having summoned an Unseen Servant when the door first opens. He’ll use telepathy to offer information and power in return for a number of random seeming objects. In actuality he hopes to create a golem that he can inhabit. However his insanity and paranoia will probably bring any party cooperating into conflict with him eventually.   
+
 Brain in a Jar
 
 80. The Necromancers Device
