@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.4.1-22817" Modified="2013-09-04 09:47:35 +0100">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.4.1-22817" Modified="2013-09-04 09:59:36 +0100">
     <Binder>
         <BinderItem ID="0" Type="DraftFolder" Created="2013-07-02 17:21:02 +0100" Modified="2013-07-02 17:21:02 +0100">
             <Title>Draft</Title>
@@ -134,7 +134,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>5149,0</TextSelection>
+                        <TextSelection>8885,185</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="19" Type="Text" Created="2013-07-02 17:29:54 +0100" Modified="2013-07-03 14:30:42 +0100">
@@ -147,14 +147,14 @@
                         <TextSelection>2850,16</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="20" Type="Text" Created="2013-07-02 17:30:00 +0100" Modified="2013-08-30 17:45:22 +0100">
+                <BinderItem ID="20" Type="Text" Created="2013-07-02 17:30:00 +0100" Modified="2013-09-04 09:59:25 +0100">
                     <Title>The Absent Necromancer (78-82) </Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2290,0</TextSelection>
+                        <TextSelection>7082,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="21" Type="Text" Created="2013-07-02 17:30:14 +0100" Modified="2013-08-21 15:55:41 +0100">
@@ -367,6 +367,16 @@
                         <TextSelection>33,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="67" Type="Text" Created="2013-09-04 09:56:12 +0100" Modified="2013-09-04 09:59:36 +0100">
+                    <Title>Treasure list</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1902,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem ID="61" Type="Text" Created="2013-08-21 16:24:17 +0100" Modified="2013-08-30 16:32:32 +0100">
                     <Title>Magic Items</Title>
                     <MetaData>
@@ -545,6 +555,62 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="64" Type="Text" Created="2013-09-04 09:55:32 +0100" Modified="2013-09-04 09:55:32 +0100">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="65" Type="Text" Created="2013-09-04 09:55:51 +0100" Modified="2013-09-04 09:55:51 +0100">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="66" Type="Text" Created="2013-09-04 09:55:52 +0100" Modified="2013-09-04 09:55:52 +0100">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="63" Type="Folder" Created="2013-09-04 09:48:39 +0100" Modified="2013-09-04 09:48:39 +0100">
+            <Title>_Recovered Files</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>62</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="62" Type="Text" Created="2013-09-04 09:48:39 +0100" Modified="2013-09-04 09:48:39 +0100">
+                    <Title>Recovered File [62]</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,2090</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -580,7 +646,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-07-02 17:21:02 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2013-09-04 09:47:33 +0100"></PreviousSession>
+        <PreviousSession Words="507" Characters="2743" Date="2013-09-04 09:55:20 +0100"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
