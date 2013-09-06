@@ -4,7 +4,7 @@
         <Document ID="39">
             <Title>Running encounters</Title>
             <Text>Running encounters
-Some encounter or groups include variations on how to run them, mostly defined as helpful, harmful or disdainful. This idea, stolen shamelessly from Robin D. Laws’ Armitage Files book, allows a GM to tailor the pace and style of the dungeon to the needs of her group. Do the PC’s need allies? Use the helpful variant. Are the players mostly interested in fighting? Use the harmful one. Do you want to introduce some themes, or knowledge but want to retain the chance to fight the monsters later? Use the disdainful version.
+Some encounter or groups include variations on how to run them, mostly defined as helpful, harmful or disdainful. This idea, stolen shamelessly from Robin D. Laws’ Armitage Files sourcebook, allows a GM to tailor the pace and style of the dungeon to the needs of her group. Do the PC’s need allies? Use the helpful variant. Are the players mostly interested in fighting? Use the harmful one. Do you want to introduce some themes, or knowledge but want to retain the chance to fight the monsters later? Use the disdainful version. It breaks up the relentless fighting that can be prevalent in mega-dungeons, and allows players who have want to do more roleplaying have their moments. It also serves to create greater tension in the build up to the fights, often giving more reason to why the characters should go off hunting down one particular band of monsters over another.   
 </Text>
         </Document>
         <Document ID="61">
@@ -132,7 +132,7 @@ Chest three : Feather token (whip), a bag of 7 small emeralds worth 50 g.p each,
             <Text>There are a number of regional languages spoken with the Star Trap dungeon, and it’s universe. 
 
 Eastern Common Trade Tongue
-The language the player characters all speak is known as the eastern common trade tongue, or common for short. It’s a language evolved from several different human sources and has the advantage of being easy to learn as a language to trade with other peoples and races. Many non-human races will have speakers and tribal leaders who speak common to some degree. 
+The language the player characters all speak is known as the eastern common trade tongue, or common for short. It’s a language evolved from several different human sources and has the advantage of being easy to learn as a language to trade with other peoples and races. Many non-human races will have speakers and tribal leaders who speak common to some degree. It’s now so universal that many humans and halflings only speak common. 
 
 Draconic 
 Draconic is an ancient and utterly unchanging language. Dragons set it down thousands of years ago as a way to leave warnings to their kin who might have been born centuries before or after them. Wizards have adopted it also as a way to preserve knowledge and it’s a rare thing indeed to find a wizard who doesn’t at least read it. Pronunciation is hard, but no impossible for human-like mouths. Draconic writing is a complex mixture of alphabetic characters mixed with tense and emotion symbols. 
@@ -143,7 +143,7 @@ Elves are taught High Elven and their own regional language, which they use on a
 Uldorian Elfish is the local eleven common tongue, and it’s this elven that non-elves will speak. It’s a beautifully scripted alphabet.
 
 Wosternik
-This is the dwarven language of the region and is very old. Spoken by all dwarves and gnomes, it is closely related to the ur-language of the first dwarves and therefore partially understood duegar, who speak their own degenerate form called Klisternik and derro whose deranged howling language is also based upon it, although only savants will speak Wosternik back. Wosternik is a symbol-rune language when written down, rather than a pure alphabetical langauge like Common.       
+This is the dwarven language of the region and is very old. Spoken by all dwarves and gnomes, it is closely related to the ur-language of the first dwarves and therefore partially understood duegar, who speak their own degenerate form called Klisternik and derro whose deranged howling language is also based upon it, although only savants will speak Wosternik back. Wosternik is a symbol-rune language when written down, rather than a pure alphabetical language like Common.       
 
 Red Hills Goblin
 Goblins, hobgoblins, bugbears, many ogres and hill giants speak Red Hills Goblin, names after the broad geographical name that many of these goblinoids and related creatures came from. It’s a symbolic language without much sophistication.  
@@ -151,6 +151,22 @@ Goblins, hobgoblins, bugbears, many ogres and hill giants speak Red Hills Goblin
 Gunderdash
 The orcish language Gunderdash is spoken by local orcs and their allies, such as ogres and trolls. It’s a brutal language that has elements of the dark tongue, allowing more intelligent speakers to converse with those who speak the dark tongue. It’s an alphabetic language, only using dark tongue characters.  
 
+Dark Tongue
+Dark Tongue is the language of Hell and The Abyss. It’s spoken by evil planar creatures, as often as a basis for other languages of racially evil creatures. Creatures like Manticore, Gnolls, Medusa, Minotaurs often speak Dark Tongue. It’s also a favoured language of evil giants and dragons. As a magical language, it grates and is repellent to non-evil creatures. In it’s written form it is alphabetic and foreboding. 
+
+Northern Giantish
+Almost all giants of the northern continent speak this ancient language, along with some ogres, cyclops and minotaurs. In written form it uses the same rune symbols as Wosternik, and those that understand that can usually make out more simple sentences.
+
+Under Tongue. 
+Another trade language, but used by races that exist far below the surface. It’s an amalgamation of a number of deep languages and is difficult for human mouths to pronounce. It’s an alphabetic language and one that’s well suited to carve into rock. Duegar, drow, derro, troglodytes and many aberrant races are likely to speak Under Tongue as well as their own languages.    
+</Text>
+        </Document>
+        <Document ID="69">
+            <Title>Words of Demogorgon</Title>
+            <Text>He is mentioned in Edmund Spenser's The Faerie Queene:
+A bold bad man, that dar'd to call by name Great Gorgon, Prince of darknesse and dead night, At which Cocytus quakes, and Styx is put to flight. (Canto I, stanza 37)
+And:
+Downe in the bottome of the deepe Abysse Where Demogorgon in dull darknesse pent, Farre from the view of Gods and heauens blis, The hideous Chaos keepes, their dreadfull dwelling is. (Book IV, Canto ii, stanza 47)
 </Text>
         </Document>
         <Document ID="6">
@@ -161,7 +177,13 @@ The most recent group to call the dungeon home are the pig faced orcs of the Scr
         </Document>
         <Document ID="7">
             <Title>Wandering Monsters inside corridors </Title>
-            <Text>Wandering Monsters inside corridors
+            <Text>Wandering monsters
+
+Why have wandering monsters at all? Wandering monsters have fallen out of favour in some games, but for me they exist for the dungeon masters enjoyment, adding an element of randomness to their experience in running the dungeon. As the dungeon master, as ever, you should decide if it’s an element you want.  
+
+It's not an exact science judging when to make checks for these wandering monsters, however as a rule of thumb you might consider rolling a d6 once every 30 minutes of actual non-combat play. A 1 indicates a random encounter or wandering monster is nearby. Given that encounters can take a hour, you can change this to a 1 or 2 after an encounter or noisy event to see if the fighting has drawn the attention of other dungeon dwellers. However it's advised that you don't check after a wandering monster encounter as it can lead to a chain of encounters without any exploration occurring. As always use intuition over dice rolls, if the party are in a chamber that was extremely difficult to get into, or that has laid undiscovered for centuries there is no reason for wandering monster to find it straight away.
+
+Wandering Monsters inside corridors
 
 	1.	An Ochre Jelly, oozing along.
 	2.	1d3 Green Slimes, hiding on the ceiling. 
@@ -1210,12 +1232,13 @@ Exio Coppertooth - Star Trap Gnome, Tivolak Keystaff - Star Trap Gnome</Text>
         <Document ID="41">
             <Title>Known Levels</Title>
             <Text>Known Levels
-(1-3) First Level - Goblinhome, Realm of The Fungus King, The Necromancers Device, The Pig-Faced Orcs, The Orange Tree, The Tomb Of Judder. 
+First Level - Goblinhome, Realm of The Fungus King, The Necromancers Device, The Pig-Faced Orcs, The Orange Tree, The Tomb Of Judder. 
 Sub level - The Toolizith Coven outpost
-(4-6) Second level - The Black Iron Mercenary Band, Lair Of The Serpent Queen, The Poison Wells, The Meeting Post, Null Zone.
-(7-9) Third Level - The Troll Maze, The Necromancers Domain, The Otherworldly Machine, The Deep Market
+Second level - The Black Iron Mercenary Band, Lair Of The Serpent Queen, The Poison Wells, The Meeting Post, Null Zone, The Apple Tree, The Last Temple Of The Spider God
+Third Level - The Troll Maze, The Necromancers Domain, The Otherworldly Machine, The Deep Market, The Pear Tree. 
+Fourth Level - The Lair Of The Purple Dragon, Firehome, The Crystal Caves, The Arena, Death Trap
+Fifth Level -  
 
-The Lair Of The Black Wyrm
 The Oubliette Of The Inverted Pyramid
 The Tomb of Toolizith 
 Hashthazadroon, The City of The Derro  
@@ -1319,15 +1342,16 @@ Dungeoneering. (Dwarves)
             <Title>Running a Star Trap Dungeon campaign</Title>
             <Text>Running a Star Trap Dungeon campaign
 
-Star Trap Dungeon is aimed at groups wishing to play in the more whimsical and deadly style of the earlier days of old school roleplaying games. New adventurers are less young heroes and more ordinary folk in search of tremendous wealth by risking death at every turn. The monsters that inhabit the depths can be beyond the strengths of the party when they first encounter them. The traps here are often deadly and the specter of cursed magical items also appears to afflict the unwary. While the background to the dungeon and the reasoning behind it's inhabitants residencies tend to have some cohesion, there are places that exist that seem to make little sense. If you and your players need a reason, blame it on the waves of reality bending madness that sometimes roll out from the Obelisk.   
+Star Trap Dungeon is aimed at groups wishing to play in the more whimsical and deadly style of the earlier days of old school roleplaying games. New adventurers are less young heroes and more ordinary folk in search of tremendous wealth by risking death at every turn. The monsters that inhabit the depths can be beyond the strengths of the party when they first encounter them. The traps here are often deadly and the spectre of cursed magical items also appears to afflict the unwary. While the background to the dungeon and the reasoning behind it's inhabitants residencies tend to have some cohesion, there are places that exist that seem to make little sense. If you and your players need a reason, blame it on the waves of reality bending madness that sometimes roll out from the Obelisk.   
 
 Dungeon Masters are encouraged to have their players create truly random characters. This can be achieved by rolling using the standard method of rolling 4d6 and keeping the best 3 dice rolls for attributes, but rolling them in order of the ability scores as they appear on the character sheet. From this players can construct characters that are unusual to their common preferences and with bonuses that don't always fit archetypes, e.g. dwarves with high charisma, sickly paladins, etc,. Parties will take odd shapes too, for example groups that consist of mostly thieves will benefit from hit and run tactics, while a party of fighters can spend a great deal of time adventuring before having to rest. Natural selection may end up balancing things out as weak or unwanted characters are less likely to survive, through suicidal risk taking or their impractical and ill-suited nature. Allow characters to be swapped if the players want to, let them hire henchman or recruit companions.
 
-Star Trap Dungeon is a living city for those who dwell in it. Loose alliances are formed between distant groups and powerful leaders will often suffer weaker allies that they know about living in their vicinity rather than taking these areas for themselves and having to spread their own number thin. Better the devils you know than the demons you don't is a common saying amongst the dungeon legions. With this co-existence comes trade and travel, so the party can expect to meet various clans out wandering from their own bases. Of course there are unremitting predators that hunt the miles of corridors too and to them the characters are a food source just like any other.
+Star Trap is a classic mega dungeon. It’s level and sub levels are filled with twisting corridors, strange chambers, pits, traps and creatures. It’s so vast and complex it’s more like a metropolis, and indeed it is home to many communities and races who treat the place as a city. Loose alliances are formed between distant groups and powerful leaders will often suffer weaker allies that they know about living in their vicinity rather than taking these areas for themselves and having to spread their own number thin. Better the devils you know than the demons you don't is a common saying amongst the dungeon legions. With this co-existence comes trade and travel, so the party can expect to meet various clans out wandering from their own bases. Of course there are unremitting predators that hunt the miles of corridors too and to them the characters are a food source just like any other.
 
-The huge main hallways, usually 20ft both wide and tall, floored in ancient and seemingly self repairing checkered tiles, serve as main roads through the dungeon and are used extensively to travel up and down the levels. Beasts know to avoid them as inhabitants who might otherwise be enemies will quickly join together to kill or repel serious threats to their highways. The party should be wary traveling along these routes too, as creatures from the depths maybe about their business in regions higher up than normal in these areas. A party of first level adventurers make tasty and easy work for a band of trolls returning from an outdoor hunt.  
+The huge main hallways, usually 20ft both wide and tall, floored in ancient and seemingly self repairing checkered tiles, serve as main roads through the dungeon and are used extensively to travel up and down the levels. At the ends of each of this always are a set of stairs that either go up or down, and are equally wide. However the two sets of steps sit side by side, one for human sized feet and one three times are large, big enough for giants. Beasts know to avoid these corridors as inhabitants who might otherwise be enemies will quickly join together to kill or repel serious threats to their highways. The party should be wary traveling along these routes too, as creatures from the depths maybe about their business in regions higher up than normal in these areas. A party of first level adventurers make tasty and easy work for a band of trolls returning from an outdoor hunt.  
 
-It's not an exact science judging when to make checks for these wandering monsters, however as a rule of thumb you might consider rolling a d6 once every 30 minutes of actual play. A 1 indicates a random encounter or wandering monster is nearby. Given that encounters can take a hour, you can roll twice after an encounter to see if the fighting has drawn the attention of other dungeon dwellers. However it's advised that you don't check after a wandering monster encounter as it can lead to a chain of encounters without any exploration occurring. As always use intuition over dice rolls, if the party are in a chamber that was extremely difficult to get into, or that has laid undiscovered for centuries there is no reason for wandering monster to find it straight away.</Text>
+
+</Text>
         </Document>
         <Document ID="50">
             <Title>Horse Gutter</Title>
@@ -1397,41 +1421,43 @@ SB END</Text>
 	25.	Goblin Skull Cleavers
 	26.	Goblin Stabbers
 	27.	Goblin Warrior
-	28.	Green Slime
-	29.	Grey Ooze
-	30.	Horrible Black Tentacles
-	31.	Iron Hound
-	32.	Killer Bees
-	33.	Maggot Wraith
-	34.	Pig-faced Orc Killer 
-	35.	Pig-faced Orc Bannerman
-	36.	Pig-faced Orc Sticker
-	37.	Pig-faced Orc Shieldboy
-	38.	Pig-faced Orc Demon Warriors
-	39.	Pig-faced Orc Murderers
-	40.	Pig-faced Orc Heart Eaters 
-	41.	Pig-faced Orc Champion
-	42.	Pig-faced Orc Warlord
-	43.	Pig-faced Orc Teeth Caster 
-	44.	Rat, Giant
-	45.	Rat, Swarm
-	46.	Rat, Corpse Swarm
-	47.	Rot spider
-	48.	Shrieker
-	49.	Skeleton
-	50.	Skeleton Archer
-	51.	Skeleton Legionnaire
-	52.	Skeleton, Ramshackle 
-	53.	Skeleton, Skullspider
-	54.	Snake, Pit Viper
-	55.	Vile Creeper, Barbed
-	56.	Vile Creeper, Suckered
-	57.	Wolf
-	58.	Wraith
-	59.	Zombie
-	60.	Zombie Rotter
-	61.	Zombie, Famine
-
+	28.	Grarthrax The Meddler, Lesser Demon 
+	29.	Green Slime
+	30.	Grey Ooze
+	31.	Horrible Black Tentacles
+	32.	Iron Hound
+	33.	Killer Bees
+	34.	Maggot Wraith
+	35.	Ochre Jelly 
+	36.	Pig-faced Orc Killer 
+	37.	Pig-faced Orc Bannerman
+	38.	Pig-faced Orc Sticker
+	39.	Pig-faced Orc Shieldboy
+	40.	Pig-faced Orc Demon Warriors
+	41.	Pig-faced Orc Murderers
+	42.	Pig-faced Orc Heart Eaters 
+	43.	Pig-faced Orc Champion
+	44.	Pig-faced Orc Warlord
+	45.	Pig-faced Orc Teeth Caster 
+	46.	Rat, Giant
+	47.	Rat, Swarm
+	48.	Rat, Corpse Swarm
+	49.	Rot spider
+	50.	Shrieker
+	51.	Skeleton
+	52.	Skeleton Archer
+	53.	Skeleton Legionnaire
+	54.	Skeleton, Ramshackle 
+	55.	Skeleton, Skullspider
+	56.	Snake, Pit Viper
+	57.	Vile Creeper, Barbed
+	58.	Vile Creeper, Suckered
+	59.	Wolf
+	60.	Wraith
+	61.	Zombie
+	62.	Zombie Rotter
+	63.	Zombie, Famine
+	64.	
 
 Monster types.
 
@@ -1491,7 +1517,7 @@ Centipede, Giant (AC 8/12, HD 1d4, Hp 1, At +0 1d4 + poison, Mv 60/20, Sv H0, Mr
 A giant centipede’s poison cause the it’s victim to be sick for 1d6 days, and they half all their to dice rolls and movement rates while affected. The poison is mild, so +1 to save and takes 1d4 rounds to take affect.
 One day these feet are going to walk all over you.
 
-Crawling Claw/Severed Hand (AC 6/14, HD 1d4, Hp 2, At -1 1d4,Mv 60/20,  Sv F1, Mr 12, Al NE) Undead
+Crawling Claw/Severed Hand (AC 6/14, HD 1d4, Hp 1, At -1 1d4,Mv 60/20,  Sv F1, Mr 12, Al NE) Undead
 Up to 5 Claws can occupy a single spot adjacent to an opponent before leaping onto them.
 Bothersome on their own, a plague of claws can overwhelm the mightiest of heroes.
 
@@ -1581,7 +1607,7 @@ Grey Ooze (AC 8/12, HD 3, hp 11, At +2 2d8, Mv 10/3, Sv F2, Mr 12, Al N) Ooze
 The first hit from a Grey Ooze doesn’t do damage but destroys the armour of the victim, if they are wearing any. They are immune to mind affecting spells, disease, fire and cold.  Grey is the colour of stone and grey is the colour of your doom.
 
 Horrible Black Tentacles (AC 5/15, HD 1, Hps 1, At +0 1d6 + slow, Mv special, Sv F1, Mr 12, Al N) Aberration
-Successful hits by the black tentacles cause the target to be slowed as per the spell. Tentacles cannot travel on their own and are anchored in place by the magic that summoned. However they are 20 feet long end to end so can reach far from their anchor point.
+Successful hits by the black tentacles cause the target to be slowed as per the spell if they fail a save versus spells. Tentacles cannot travel on their own and are anchored in place by the magic that summoned. However they are 20 feet long end to end so can reach far from their anchor point.
 The wizard who wishes to summon these things must make pinpricks in reality to left them worm their way in. What remains on the other side remains a mystery and those that have successfully cast the spell pray it will remain so.   
 
 Iron Hound (AC 3/17, HD 1, hp 4, At +0 1d6, Mv 150/50, Sv F1, Mr 12, Al N) Construct
@@ -1705,6 +1731,9 @@ SB END
 
 SB:</Text>
         </Document>
+        <Document ID="46">
+            <Title>npcs</Title>
+        </Document>
         <Document ID="60">
             <Title>New Spells</Title>
             <Text>Contact Zhulbluhb'Tck'Nere
@@ -1713,9 +1742,6 @@ SB:</Text>
         <Document ID="53">
             <Title>Gutso The Fat</Title>
             <Text>Gutso The Fat</Text>
-        </Document>
-        <Document ID="46">
-            <Title>npcs</Title>
         </Document>
     </Documents>
 </SearchIndexes>
