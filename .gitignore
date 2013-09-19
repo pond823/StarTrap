@@ -2,3 +2,5 @@
 *.lock
 
 Level One.scriv/QuickLook/Thumbnail.jpg
+
+.DS_Store
