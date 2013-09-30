@@ -9,7 +9,11 @@ Some encounter or groups include variations on how to run them, mostly defined a
         </Document>
         <Document ID="61">
             <Title>Magic Items</Title>
-            <Text>Staves and wands are iconic items for wizards, and yet only the mightiest magical devices improve the magical ability of wizards. To rectify this modify saving throw roll the wizard makes against spells cast by other wizards by the plus of the staff or wand they carry. Also, when a wizard casts a spell through a magic staff or wand any saving throw the target gets is reduced by the same amount. Of course wands do not count as weapons. </Text>
+            <Text>Staves and wands are iconic items for wizards, and yet only the mightiest magical devices improve the magical ability of wizards. To rectify this modify saving throw roll the wizard makes against spells cast by other wizards by the plus of the staff or wand they carry. Also, when a wizard casts a spell through a magic staff or wand any saving throw the target gets is reduced by the same amount. Of course wands do not count as weapons. 
+
+Brooch Of Shielding
+Potions resistance to fire, lightning and cold, 2 potions of neutralise poison, 2 fire breathing potions
+</Text>
         </Document>
         <Document ID="54">
             <Title>Forgotten Chambers Of Ancient Seers (31-34)</Title>
@@ -21,7 +25,7 @@ The corridor behind the hidden door is dusty and the air feels old and stale. Th
 
 Each door can only be opened if the moonstones align to form the correct star constellation. Characters who are involved in astrology will probably make the connection easily. If the wrong constellation is displayed will cause a trap to go off. Thieves may disarm trap and allow the door to open. Any attempt to open a door that hasn't been unlocked causes the 10 feet square area in front of the doors to be filled with lightning. Anyone in this area is subject to psychic attack doing 6d6 damage, save vs spells for half. It's also possible for the players to buy a map of the stars (40 g.p.) that will make disarming the trap and unlocking the door easily. Such a map maybe hard to find or expensive. Note the ceiling of room 15 is painted to represent the constellation of the Unicorn and opens the door to 32. The door to room 33 requires the constellation of the Sleeping Beast, while the the door to 34 needs the constellation of the Axe. 
 
-32. The Cloak Room : Obelisk key, clock
+32. The Cloak Room : Obelisk key, cloaks
 
 This chamber is clean, although the air is also stale. The magical door kept the dust at bay and everything in here seems almost held in stasis. A wooden rack on the south wall is covered in pegs and from ten of these hang midnight blue cloaks, all perfectly clean and unblemished. A long desk runs across the west wall and apart from a strange looking key it is empty. The key is large, angular and looks like it is made from smokey glass.
 
@@ -42,6 +46,13 @@ If the bar is moved, the characters can lift open the double doors revealing a s
         </Document>
         <Document ID="47">
             <Title>Reaping Madkin, the First To Eat shaman </Title>
+        </Document>
+        <Document ID="55">
+            <Title>Pig-faced orcs</Title>
+        </Document>
+        <Document ID="48">
+            <Title>Grodsnik Heart Chewer</Title>
+            <Text>Grodsnik Heart Chewer</Text>
         </Document>
         <Document ID="62">
             <Title>Recovered File [62]</Title>
@@ -70,13 +81,6 @@ If the bar is moved, the characters can lift open the double doors revealing a s
 80. 445 g.p. 1213 s.p. 6 pieces of topaz worth 35 g.p. Each, a potion of invisibility and a rope of climbing.  
 83. +1 short sword, a scroll of Sleep, Magic Missile and Comprehend Languages all cast at 7th level, a well made battle axe, a suit of dwarven sized chainmail, several daggers and a lizardskin bag containing 400 s.p. and 580 g.p. as well as another two Obelisk keys</Text>
         </Document>
-        <Document ID="55">
-            <Title>Pig-faced orcs</Title>
-        </Document>
-        <Document ID="48">
-            <Title>Grodsnik Heart Chewer</Title>
-            <Text>Grodsnik Heart Chewer</Text>
-        </Document>
         <Document ID="56">
             <Title>Yigriznik</Title>
             <Text>Yigriznik is the pig faced orc warlord
@@ -86,14 +90,26 @@ If the bar is moved, the characters can lift open the double doors revealing a s
             <Title>Reaping Madkin, the First To Eat shaman </Title>
             <Text>Reaping Madkin, the First To Eat shaman</Text>
         </Document>
+        <Document ID="63">
+            <Title>_Recovered Files</Title>
+        </Document>
         <Document ID="57">
             <Title>Gnomes</Title>
+        </Document>
+        <Document ID="64">
+            <Title>Untitled</Title>
         </Document>
         <Document ID="58">
             <Title>Exio Coppertooth</Title>
         </Document>
+        <Document ID="65">
+            <Title>Untitled</Title>
+        </Document>
         <Document ID="59">
             <Title>Tivolak Keystaff</Title>
+        </Document>
+        <Document ID="66">
+            <Title>Untitled</Title>
         </Document>
         <Document ID="67">
             <Title>Treasure list</Title>
@@ -140,7 +156,8 @@ Draconic is an ancient and utterly unchanging language. Dragons set it down thou
 High Elven
 Elves are taught High Elven and their own regional language, which they use on a day to day instance and in front of non-elves. Pure High Elven is also used by many fairy folk, but is otherwise guarded jealously and rarely taught to non-elves. The language itself is slightly magical and adjusts itself so that no matter what it’s intended recipients hear it clearly, but never loudly no matter what the conditions. Written it’s an alphabet that, like Draconic, can also be used for scrolls.   
 
-Uldorian Elfish is the local eleven common tongue, and it’s this elven that non-elves will speak. It’s a beautifully scripted alphabet.
+Uldorian Elfish 
+This is the local eleven common tongue, and it’s this elven that non-elves will speak. It’s a beautifully scripted alphabet.
 
 Wosternik
 This is the dwarven language of the region and is very old. Spoken by all dwarves and gnomes, it is closely related to the ur-language of the first dwarves and therefore partially understood duegar, who speak their own degenerate form called Klisternik and derro whose deranged howling language is also based upon it, although only savants will speak Wosternik back. Wosternik is a symbol-rune language when written down, rather than a pure alphabetical language like Common.       
@@ -262,18 +279,21 @@ A huge corridor stretches into the darkness far in front of you. Twenty feet wid
 
 While the Purple Bruise and First To Eat clan leaders are fighting a cold war against each other, the rank and file freely mix and often swap sides depending on who has less work and more food. If the party are winning against one group, the others will know about it and react accordingly, most likely becoming better organised and bolstering their defences with snipers and traps. The DM is advised to have the goblins take pot shots at them, lead them into traps and generally become more organised as the party overcomes their lairs.  
 
-Goblins of the Grubby Dog tribe enjoy having lots of pockets and occasionally have items of worth in them. Roll 1d8 on the Goblin Pockets table to see what a goblin is carrying, adding the HD-1 of the goblin to the roll. Goblin runts are not powerful or crafty enough to keep hold of items, so don't roll for them.
+Goblins of the Grubby Dog tribe enjoy having lots of pockets and occasionally have items of worth in them. Roll 1d8 on the Goblin Pockets table to see what a goblin is carrying, adding the hit dice  minus 1 of the goblin to the roll. Goblin runts are not powerful or crafty enough to keep hold of items, so don't roll for them.
 
-1.      Dried rats tails, beetle shells, a brass wheel, part-boiled sprouts or shriveled eyes.
-2.      Moldy bread, 6 arrow heads, 6 iron spikes or a pair of small lenses.
-3.      Tough string, 3 tiny bells or useless keys.
+1.      Dried rats tails, beetle shells, a brass wheel, part-boiled sprouts or shrivelled eyes, strawman fetish, fishbones wrapped in old cloth, a necklace of mouse skulls.
+2.      Mouldy bread, d6 arrow heads, d6 iron spikes, a thumbscrew or a pair of small lenses.
+3.      20 ft of tough string, 3 tiny bells or useless keys.
 4.      Liquorish roots, hard boiled eggs or a small jar of cooked beans.
 5.      1d10 copper pieces
 6.      An empty potion vial or a scroll case with several pieces of blank paper
 7.      2d10 silver pieces, a good tinderbox, lockpicks or a working compass
 8.      1d8 electrum pieces
 9.      1d8 gold pieces
-10+.   2d6 gold pieces</Text>
+10+.   2d6 gold pieces
+
+The goblin’s weapons are surprisingly well made, if not well looked after, having been purchased in the deep market three levels down. Dwarves will notice the designs appear to be dwarven although of an unknown and alien clan.
+</Text>
         </Document>
         <Document ID="11">
             <Title>Horse Gutter's domain (1-16)</Title>
@@ -420,7 +440,7 @@ Knife or improvised weapon.
 10. Quarters and shrine : statue, shrine, blessing, amulet, goblins
 Again straw beds cover the floors in this red painted square room, however a wooden stand and 2 feet tall crude clay statue are against the far north wall. The statue has goblin-like proportions and a delicate golden chain fixed to some kind of orange amulet is draped around it.
 
-The goblins use this as quarters for the acolytes and a shrine to their prancing god. The statue is of the god, which can be identified on a 3+ rolled on a d6+Wis and is and practically worthless to anyone but followers of the god who count as being blessed as per the spell when standing with 10’ of the statue. Smashing the statue, might curse those who destroy it in some way. The chain is worth 50 g.p. and the amulet is a +1 amulet of protection.
+The goblins use this as quarters for the acolytes and a shrine to their prancing god. The statue is of the god, which can be identified on a 3+ rolled on a d6+Wis and is and practically worthless to anyone but followers of the god who count as being blessed as per the spell when standing with 10’ of the statue. Smashing the statue, might curse those who destroy it in some way. The chain is worth 50 g.p. and the amulet is a +1 amulet of protection, which functions like a cloak of protection.
 1 goblin acolyte, 1 goblin stabber, 2 archers, 2 runts.
 
 
@@ -476,7 +496,7 @@ Battleaxe, shield.
 15. Forgotten chamber : ancient, star map, moonstones, curse
 As you enter the hidden room a huge sense of age overwhelms you. Inside you find as small square room in which the air is stale and only dust remains. Further inspection reveals evidence that once books were stored here, but nothing more than that can be recovered. However the painted ceiling is still vibrant, depicting a darkening nights sky and a shining constellation of seven moonstone stars.
 
-The ceiling is painted with a star constellation that opens the door in area 31 and can be easily copied down. The seven moonstones can be removed if the ceiling is reached, but they carry a magic curse meaning anyone carrying one feels highly emotional and a little paranoid immediately. This manifests in a -2 penalty to saves. If the curse, which was cast at 10th level, is removed the non-magical moonstone is worth 50 g.p.
+The ceiling is painted with a star constellation that opens the door in area 31 and can be easily copied down. The seven moonstones can be removed if the ceiling is reached, but they carry a magic curse of lunacy, meaning anyone carrying one feels highly emotional and a little paranoid immediately. This manifests in a -2 penalty to saves. If the curse, which was cast at 10th level, is removed the non-magical moonstone is worth 50 g.p.
 
 16. Trapped escape corridor : trap
 Describe this corridor as you normally would. Half way along the it a pressure plate releases a two foot thick stone wall from the ceiling that may crash into the the first people who walk along the corridor. A 7+ on a d6+Dex perception check or find traps will spot the plate or the slight change in the ceiling at the spot. Those under the trap can dodge out the way a +6 on a d6+dex or they take 2d6 points of crushing damage. If they dodge the trap they will be on the far side, otherwise they'll end up trapped beneath the stone and the floor, taking ongoing 1d4 crushing damage a round. The party can raise the stone enough to allow escape on a 7+ on a d6 + Str check, The trap also exposes the mechanism that resets the trap, but it'll take a remove traps check to understand it and followed by 5+ on a d6+Str check to start raising the stone enough to stop ongoing damage using this method. Four such checks are required to allow passage through and a further one to reset the trap completely.</Text>
@@ -503,9 +523,9 @@ Anyone searching the room may find a suit of normal sized +1 leather armour on a
 18. Owlbear's lair : Owlbear, treasure
 A huge birds nest of branches, fur, feathers and leaves is the most outwardly obvious thing in the chamber. It takes up much of the north west corner, and although empty of life you can see golden reflections glittering in and around the nest. Painted on the walls are scenes of strange dwarf-like figures stood around a black tower in what appears to be communion.
 
-The Owlbear is almost always found here (a 1 in 20 chance otherwise) and will have sensed the approach of the party unless they have managed to travel perfectly quietly, as the Owlbear as a passive perception of 22. It lurks hidden in the south west corner when it hears someone approaching, otherwise it maybe asleep on it's nest. It will try and surprise anyone entering and can be extremely quiet after all it's years of hunting these passages. It should be noted again that the Owlbear maybe be too challenging a monster for the players when they first encounter it, but it moves relatively slowly and can be fled from. It makes for a fearsome protagonist throughout the level, seeking out the adventurers and you might, if you wish, use it to herd them into areas you particularly want them to experience.
+The Owlbear is almost always found here (a 1 in 20 chance otherwise) and will have sensed the approach of the party unless they have managed to travel perfectly quietly. It lurks hidden in the south west corner when it hears someone approaching, otherwise it maybe asleep on it's nest. It will try and surprise anyone entering and can be extremely quiet after all it's years of hunting these passages. It should be noted again that the Owlbear maybe be too challenging a monster for the players when they first encounter it, but it moves relatively slowly and can be fled from. It makes for a fearsome protagonist throughout the level, seeking out the adventurers and you might, if you wish, use it to herd them into areas you particularly want them to experience.
 
-The treasure trove of the Owlbear is significant and counts as a major reward, so the dungeon master is advised to ensure they face it in combat if they somehow win the treasure first.
+The treasure trove of the Owlbear is significant and counts as a major reward, so the dungeon master is advised to ensure they face it in combat if they somehow win the treasure first. A +1 mace that’s head is golden and represents the sun, a potion of polymorph self, a +1 shield with a gryphon motif, 10 +1 crossbow bolts, a dusty clerics scroll with the spells Cure Disease and Remove Curse on them cast at 9th level. 850 gold pieces, 650 silver pieces and a pair of ornate leather bracers in with silver and diamond dust worth 300 g.p. each.   
 
 Angry Owlbear (AC 5/15 HD 5, hp 25, At 1d8/1d8/1d6 or screech, Mv 60/20, Mr 8, Al N)
 Screech attack: All within 10ft radius of Owlbear makes save versus paralysis or be held for a 1d3 rounds) Monster</Text>
@@ -660,9 +680,7 @@ Wraith.  </Text>
         </Document>
         <Document ID="21">
             <Title>The Obelisk Of Insanity (83)</Title>
-            <Text>The Obelisk Of Insanity is a huge spike of condensed mind matter from the Far Realm. It runs through many levels of the dungeon, growing in width and function. Various sages have proposed that the origins of the very first areas of the dungeon were to study or worship the Obelisk. While its powers vary from region to region, it acts as a doorway to things from the Far Realm and many of the aberrant creatures found in the deeps owe it their existence in the mortal world. The Toolizith Coven built magical doors to the chambers that surround the Obelisk and locked them with magical Obelisk keys. Each door requires a number of Obelisk keys to open, the deeper doors needing more keys, so that only the highest members of the order may access the chambers. The obelisk itself appears as huge monolith of dark crystal, run through with veins of purple, shifting mists of deep red and filled with captured stars. It is these very stars that the dungeon gets it's common name from, although this fact is rarely know. While the majority of it's vertical shape is four sided, sections sometimes have up to seven sides. Peering into it for more than a minute causes the local surface to become more and more mirrored, although the reflection is warped, often with enlarged craniums and horrible alien eyes. 
-
-83. Obelisk of Insanity level 1 - Chamber Of Violent Runes.
+            <Text>83. Obelisk of Insanity level 1 - Chamber Of Violent Runes.
 
 As you push open the huge and intimidating doors stale air fills your lungs and for a moment you hear, or think you hear, whispers. You’re confronted by a huge semi octagonal chamber, lit by floating cold blue lights throughout. Four coiled pillars of green stone support the room, while the floor is covered in the same white and bloodstone tiles as the main corridors outside. The room is dominated by a huge obelisk in its centre. Cut from some strange crystal, the obelisk’s deep purple and blue surface seems to suck in the light somewhat. Looking directly at the crystal creates a buzzing and squelching in your head that is both unpleasant and seductive at the same time. As you take more of the room in you realise strange rune-like objects orbiting slowly around the obelisk some five feet from the ground. These runes glisten slightly and have soft curves, as if they were made from something organic. Dust and debris litter the floor, suggesting this room is incredibly ancient and has been rarely disturbed.          
 
@@ -672,8 +690,9 @@ Engraved on the crystal is the second level spell Contact Zhulbluhb'Tck'Nere. It
 
 If the door to this chamber is left open for a long duration Dimension Shamblers will start to gather here over time, wandering in from the wider dungeon, and at any point 1d6 Dimension Shamblers will be encountered. Destroyed Farspawn will return after 1d4 days, with an extra hit dice and 4 hit points. 
 
-4 Farspawn Mind Worms, 4 Farspawn Teeth Eels. 
-</Text>
+6 Farspawn Mind Worms, 6 Farspawn Teeth Eels. 
+
+The Obelisk Of Insanity is a huge spike of condensed mind matter from the Far Realm. It runs through many levels of the dungeon, growing in width and function. Various sages have proposed that the origins of the very first areas of the dungeon were to study or worship the Obelisk. While its powers vary from region to region, it acts as a doorway to things from the Far Realm and many of the aberrant creatures found in the deeps owe it their existence in the mortal world. The Toolizith Coven built magical doors to the chambers that surround the Obelisk and locked them with magical Obelisk keys. Each door requires a number of Obelisk keys to open, the deeper doors needing more keys, so that only the highest members of the order may access the chambers. The obelisk itself appears as huge monolith of dark crystal, run through with veins of purple, shifting mists of deep red and filled with captured stars. It is these very stars that the dungeon gets it's common name from, although this fact is rarely know. While the majority of it's vertical shape is four sided, sections sometimes have up to seven sides. Peering into it for more than a minute causes the local surface to become more and more mirrored, although the reflection is warped, often with enlarged craniums and horrible alien eyes. </Text>
         </Document>
         <Document ID="14">
             <Title>The Pit : wind, depth (30)</Title>
@@ -772,9 +791,6 @@ If the characters manage to enter the mushroom kingdom without detection they’
 4 Shriekers (AC 7/13, HD 3, Hp 16, At none, Mv 9/3, Sv F1, Mr 12, Al N) Fungoid
 If a Shrieker detects light within 60 feet or movement within 30 feet it will emitting a loud piercing sound for 1d3 rounds, that will attract Fungal folk. The sound might even stun creatures sensitive to loud noise. Save vs Spells or be held for 1d4 rounds.
 
-
-
-
 39. Sinkhole : collapsing floor
 As this narrowing cave ends the murky slurry of water seems to disappear into the floor. Moving closer you can see an area of collapse ahead of you and that the stream actually falls into a pit or chamber below. 
 
@@ -847,7 +863,7 @@ A giant centipede’s poison cause the it’s victim to be sick for 1d6 days, an
 
 
 
-45. Cave Of The Beetle Herder
+45. Cave Of The Beetle Herder : Banshaer, beetles, potions
 Yet more debris litters this chamber, although what appears to be a circular tent dominates your view. All around scuttle more insects and the floor seems almost to be moving. The tent is made from wooden branches and covered in mouldy cloth.   
 
 A moody Banshaer hermit tends her flock of giant beetles and brews strange concoctions in her tent to sell in the deep market. The beetles are unlikely to attack unless provoked as the hermit keeps them well fed, however she will react using her druidic magic if the players act aggressively, with the beetles rushing to defend her. She makes and keeps numerous potions (2 healing, one each of resistance to fire, lightning and cold, 2 potions of neutralise poison, 2 fire breathing potions). The Banshaer keeps hidden beneath loose rocks 280 g.p.
@@ -1039,19 +1055,19 @@ The bizarre tunnels between rooms in this area are unlike anywhere else on this 
 Farspawn Returned (AC 4/16, HD 4, At 1d4/1d4/1d6, Mv 90/30, Sv F2 Mr 12, Al CE) Aberration
 Attacks with two claws and a bite. The returned has the abilities of a 4th level thief and also may cast confusion once a day as a 10ht level magic user. It may use it’s backstab ability on all it’s attacks when able to do so.
 
-66. Goblin Corpse Montage
+66. Goblin Corpse Montage : tree of bodies
 A repugnant sight greets you in middle of this twisting corridor. A tree, made from what looks like limbs and torsos of goblins reaches up almost to ceiling. It is adorned with shrivelled heads, hung like apples from the branches of the construction. 
 
 The goblins bodies are decomposing and some are in an advanced stage of rot. 
 
-67. The Smiling Skulls Trap
+67. The Smiling Skulls Trap : skulls in roof, trap
 Otherwise unremarkable, the odd shaped area has a huge skull motif covering much of the ceiling. As you look up further you realise that skull pattern itself is made up from real skulls. Several different races are represented in the artwork, if that’s what it can be called. As you stare up at them, you also notice the glint of gold.
 
 The skulls that form the eye sockets appear to have been blackened with fire and they themselves have gold pieces jammed into their eye sockets. Somehow the Returned has trapped this coins so that if coins are removed the skulls all tumble to the floor and explode in necrotic fire when they hit anything. Anyone standing beneath the mural, is struck by blast of negative energy and fire, doing 1d10 negative energy damage and 1d10 fire damage. Save versus breath weapons for half damage. 
 
 There are 60 gold coins in total. 
 
-68. Hidden Map Room
+68. Hidden Map Room : maps
 This circular chamber is empty and feels very ancient. A thick layer of grime covers all the floors celling and walls, although the source isn’t clear.
 
 The grime covers a map that was painted onto the walls long before the collapse of the Mushroom King area. Most notable on this map is room mark in archaic common as leading to the tomb of Judder (area 46 on the dungeon map). It also depicts a chair or throne in that chamber. The teleportation magic that should take the characters to the Tomb has failed, unless the DM wants to transport the players there. 
@@ -1059,35 +1075,56 @@ The grime covers a map that was painted onto the walls long before the collapse 
 This is a map room, and if the dungeon master wishes they may link maps and paintings to other 3rd party places. 
 HANDOUT - Map painting showing teleport to tomb of Judder
 
-69. Starchamber
+69. Starchamber : star map, wizards chamber
 The dominant feature of this round room, carved out of the rock like one half of a sphere is the star map painted on the curved surface. It’s old and in places the paint as peeled, but you can recognise some well known constellations and disturbing a few that are utterly alien to you. There is a strange and out of place sense of eerie peace here compared to the other chambers in this section of the dungeon. 
 
-Star pact warlocks, or anyone who is interested in astronomy can make observations about the star patterns on an arcana DC of 12. Star pact warlocks who spend time in here, at least 15 minutes, contemplating the stars find the veil lies between them and their patrons is thin here. They regain the use of daily power because of this, although re-powering can only take place once a day. However the thinness of reality also means that contact might draw an aberrant creature from the far realm. There is 1 in 6 chance that something steps through, once the Warlock has regain their power. On d8 1-4 results in 1d4 Dimension Shamblers, 5-7 results in 1d4 Grell Stranglers and on an 8 a single Grick steps out from the walls. All will attack the party immediately.   
+Anyone with an interest in astrology and and astronomy can study the sky map, and doing so will   give the character a 50% chance of immediately recognising the constellation of the unicorn, needed to open the door in room 31. They’ll also start to feel like they are being drawn into the stars or that the distant between them and the void is shrinking. A wizard who has cast Contact Zhulbluhb'Tck'Nere (see new spells) previously fill find that they randomly relearn one of their already cast spells when they do so. However any kind of studying thins the veil between the material world and the far realm. There is a 1 in 6 chance creatures will step through. Roll a d4 On a 1 1d4 dimension shamblers will appear, on a 2 1d6 Farspawn Mind Worms, on a 3 1d6 Farspawn Teeth Eels and on a 4 1d4 of each.  
 
-
-70. Chamber Of Black Tentacles 
+70. Chamber Of Black Tentacles : door, tentacles
 You’ve reached what appears to be a cross roads of tunnels, and for once the floor is fairly even. The south wall has be carved flat and is dominated by a large imposing double iron door. Decals depict skulls, demons and abstract symbols, while the frame has been carved to appear as if sharp stone teeth protrude from the stone. Door knockers, shaped like winged skulls add to the grotesque appearance. 
 
 The door is locked and trapped, anyone attempting to knock or open the door in any other way without saying the password, a long lost and forgotten phrase, will be attacked by horrible black tentacles that appear out of the wall.
 
 10 Horrible Black Tentacles (AC 5/15, HD 1, Hps 1, At 1d6 + slow, Mv special, Sv F1, Mr 12, Al N) Aberration, Minion
-Successful hits by the black tentacles cause the target to be slowed as per the spell. Tentacles cannot travel on their own and are anchored in place by the magic that summoned. However they are 20 feet long end to end so can reach far from their anchor point.
+Successful hits by the black tentacles cause the target to be slowed as per the spell if they fail a save versus spells. Tentacles cannot travel on their own and are anchored in place by the magic that summoned. However they are 20 feet long end to end so can reach far from their anchor point.
 
 
-71. Dead Larvae
-Giant insect larvae have been killed, preserved and arranged in spiral patterns. Undead wraith maggots. 
-72. Rotting Oranges
-Several rotting oranges from the magical orange tree. The Returned collects them, but can’t eat them.  
-73. Awaiting Room
-Magical symbols adorn this chamber, carved from green soapstone. They repel intruders and cause fear.
-74. The Long Dead Wizard
-The bones of a long dead wizard crumble on a chair in this chamber that appears to be both a workshop and sleeping area. A trapped minor demon will plead to be release and will serve for a year and a day it’s rescuer. Magic items, rituals. 
+71. Dead Larvae : undead maggots
+Lying on the floor appear to be dead giant maggots, each a foot long and something has arranged them into a spiral pattern. A green glowing light appears from them, as you look on semi corporeal forms start to peel of from the bodies, inching and squirming towards you.  
+
+Giant insect larvae have been killed, preserved and arranged in spiral patterns by the Farspawn Returned. The alien magic here has animated them as wraith like creatures. 12 wraith maggots. 
+
+72. Rotting Oranges : rotting oranges
+
+You first notice the faint smell of rotting fruit before you see scattered here dozens of large oranges in various stages of decomposition. 
+ 
+These oranges are from the magical orange tree found further into the dungeon. The Returned collects them, but can’t eat them. The very freshest fruit still has some healing power and will restore 1d4 hit points. Other fruit will cause the consumer to be taken ill (-1 on all dice rolls) for a day with stomach cramps if they fail a save versus poison.  
+
+73. Awaiting Room : magic symbols
+This chamber is adorned with magical symbols, formula and runes, while mouldering furniture rots in the centre of it. Set in each wall are large green soapstone pentacles, carved with runes in a worming script. The chamber feels oppressive and as if a blanket of silence was thrown over it, muffling sound.  
+
+The chamber is heavily enchanted against planar creatures, including elementals, demons, devils and undead. Any such being, including familiars will cry out in fear, and must indeed make a save versus spells without any bonuses other than there hit dice level or flee in terror. The green soapstone pentacles can be pried off the walls with a combined strength of 20 working at it. They are extremely heavy, and require a combined strength of 23 to carry, so it’s a two or three person job. However they’d sell for at least 1000 g.p. each to the right wizard or in the deep market below. 
+
+74. The Long Dead Wizard : demon, spell
+The centre point to this room is the partially collapsed skeleton of man sat in an impressive chair, wearing fading finery. To the skeleton’s left is a large open book, sat on a book stand. in front of the skeleton is a firebowl that’s floating purple fire illuminates the room. As you you enter, a demonic face appears in the flame and starts to speak.  
+
+A lesser demon, Grarthrax The Meddler, was trapped in the fire by the long dead wizard who died of a heart attack while questioning the demon. Seventy years have passed and the demon wants to be free, which can be achieved by smashing the bowl. The demon will offer to contact it’s patron lord on behalf of the players and answer three questions as if they’d cast a Contact Other Plane spell, only there is no chance of insanity, with a 20% chance of not knowing the answer and 85% chance of a true answer. If the characters agree to the pact, the demon will honour it and disappear once the bowl is broken. However if they don’t break the bowl, the patron will be angered and will release the demon itself who will attack the party.
+
+Grarthrax The Meddler  
+
+The wizards book contains the spells Summon Horrible Black Tentacles (see new spells) and Ray Of Enfeeblement, which wizards could copy into their own spell book. The wizard has a ring of spell storing, which has rolled under the chair. The ring has the following spells stored in it Protection From Evil, Levitate and Monster Summoning 1. All cast at 12th level. 
+
 75. Weapons Racks
-Huge rusting battle handed cleavers and mauls line this chamber
+This chamber is dominated by massive weapons racks holding huge warcleavers and battle mauls. The weapons are dull and a little rusty but look deadly and fit for the hands of ogres of giants rather than humans. 
+
+There are 12 warcleavers and 17 battle mauls, which are all very heavy. 
+
 76. Chamber Of Bones
-This room is filled waste high in ancient a brittle bones. Travelling through is painful for the unarmed, as well as unsettling.</Text>
-            <Comments>needs changing to AD&amp;D
-</Comments>
+Note pushing the doors open is extra difficult here because of the bones.
+
+Once you finally get the doors open to this chamber, it’s plainly obvious why it was so difficult. The room is filled, to human waist height, in bone shards. They appear to be mostly humanoid and human sized, but some are also larger or smaller. Most are broken with sharp edges. A single door on the other side of the door is the only other thing of note in the chamber.
+
+The bones are entirely normal and nothing untoward will happen if the party enters the room. However characters without heavy armour will find the bones painful and sustain 1d6 points of damage travelling through the room. </Text>
         </Document>
         <Document ID="40">
             <Title>Entrances to the Dungeon</Title>
@@ -1213,7 +1250,6 @@ Room contains a large square hollow cube of translucent skin. Trap? Creature?</T
 The Star Trap Gnomes are an clan of gnomes that have lived and been changed by the dungeon over the coarse of hundreds of years. Their immense stealth and natural invisibility means they have travelled vast swaths of the dungeon without ever being notice. In the background they help maintain the status quo within it’s depths and have seen many factions, and many adventuring parties, rise and fall. Occasionally they will aid some against others. Their real power base is many levels down, but they maintain outposts on each level and secret caches of magic and treasure to use as they see fit.
 
 Two Star Trap Gnomes are currently living on the first level and relatively inexperienced. While they see the Pig-Faced orcs are dangerous, they assume that they will blow themselves out quite quickly if they grow confident enough to descend further into the dungeon. They hope though that the orcs might be strong enough to destroy the necromantic device of Thandrak The Black before they do and are scheming to make that happen. They don’t care much for the goblins who they consider a pest, but consider the Myconids to be a benign addition the dungeon ecosystem.     
- 
 The Gnomes dress in large black cloaks with deep, pointed hoods. They move silently and appear almost to float across the ground, and actually some of the more powerful Gnomes levitate naturally at will. 
 
 Running the Star Trap Gnomes
@@ -1731,17 +1767,38 @@ SB END
 
 SB:</Text>
         </Document>
-        <Document ID="46">
-            <Title>npcs</Title>
-        </Document>
         <Document ID="60">
             <Title>New Spells</Title>
             <Text>Contact Zhulbluhb'Tck'Nere
-2nd MU</Text>
+2nd level Magic User or Illusionist spell
+Duration 1 round
+Range 0
+
+When this spell is cast it forms a bond briefly with the star being Zhulbluhb'Tck'Nere, who is trapped in the obelisk that runs through the Star Trap dungeon. The caster receives a sending projected by The One Who Gathers Whispers. The DM rolls a d8 on the rolling table and reveals what Zhulbluhb'Tck'Nere sends.
+
+	1.	Trivial thought - the name of by a long dead nobleman’s favourite concubine, how many sheep a farmer lost one winter,  
+	2.	Strange Lore - the secret to making a rare potion, the powers of a rare creature, a dead language, the shape of worlds in another plane of existence, the name of a demon
+	3.	Ancient History - a fragment of Star Traps history, the bloodline of one of the PC’s that goes back a thousand years to a great hero, the machinations of devilish princess 
+	4.	Something close by - secret doors, approaching monsters, the place of a lost treasure
+	5.	Terrible vision - scenes of torture, the killing of innocents, the chambers of a demon prince
+	6.	Maddening secret - the birth of chaos gods, the something the god of secrets wishes to keep unknown
+	7.	Utterly alien - unknowable colours, every bending spiral paths that could unravel the universe, a glimpse of the far realm
+	8.	Ignored
+
+If a 5,6 or 7 is rolled then the caster must make a save versus mind affecting spells or be at −1 to all rolls until they rest, due to the horror and unease of what they saw. Each time this spell is cast it creates a greater and greater connection to the being, which will mean more and more beneficial visions as the caster starts to feel the compulsion of wanting to free the star being.  
+
+Summon Horrible Black Tentacles 
+3rd level Magic Users spell
+Duration until used.
+
+This spell is cast upon an object and creates a magical trap upon. Unless a password is spoken while touching the object, horrible black tentacles appear out of the it, one for each level of the caster and attack anyone nearby. The object must be large enough to support the tentacles, which are 6 inches across. The spell lasts until it is activated and the wizard can only have one such spell in operation at a time. See horrible black tentacles in the Star Trap monster manual.  </Text>
         </Document>
         <Document ID="53">
             <Title>Gutso The Fat</Title>
             <Text>Gutso The Fat</Text>
+        </Document>
+        <Document ID="46">
+            <Title>npcs</Title>
         </Document>
     </Documents>
 </SearchIndexes>
