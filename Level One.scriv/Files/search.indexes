@@ -145,16 +145,16 @@ Chest three : Feather token (whip), a bag of 7 small emeralds worth 50 g.p each,
         </Document>
         <Document ID="68">
             <Title>Languages</Title>
-            <Text>There are a number of regional languages spoken with the Star Trap dungeon, and it’s universe. 
+            <Text>There are a number of regional languages spoken with the Star Trap dungeon, and it’s universe. All of these are available to player characters, if they have good reason. So for example only elves, half-elves or druids can start with High Elven, and dwarves or gnomes can speak Under Tongue. 
 
 Eastern Common Trade Tongue
 The language the player characters all speak is known as the eastern common trade tongue, or common for short. It’s a language evolved from several different human sources and has the advantage of being easy to learn as a language to trade with other peoples and races. Many non-human races will have speakers and tribal leaders who speak common to some degree. It’s now so universal that many humans and halflings only speak common. 
 
 Draconic 
-Draconic is an ancient and utterly unchanging language. Dragons set it down thousands of years ago as a way to leave warnings to their kin who might have been born centuries before or after them. Wizards have adopted it also as a way to preserve knowledge and it’s a rare thing indeed to find a wizard who doesn’t at least read it. Pronunciation is hard, but no impossible for human-like mouths. Draconic writing is a complex mixture of alphabetic characters mixed with tense and emotion symbols. 
+Draconic is an ancient and utterly unchanging language. Dragons set it down thousands of years ago as a way to leave warnings to their kin who might have been born centuries before or after them. Wizards have adopted it also as a way to preserve knowledge and it’s a rare thing indeed to find a wizard who doesn’t at least read it. Pronunciation is hard, but no impossible for human-like mouths. Draconic writing is a complex mixture of alphabetic characters mixed with tense and emotion symbols. Scrolls are usually written in Draconic and it’s believed it is a subtle magically language. 
 
 High Elven
-Elves are taught High Elven and their own regional language, which they use on a day to day instance and in front of non-elves. Pure High Elven is also used by many fairy folk, but is otherwise guarded jealously and rarely taught to non-elves. The language itself is slightly magical and adjusts itself so that no matter what it’s intended recipients hear it clearly, but never loudly no matter what the conditions. Written it’s an alphabet that, like Draconic, can also be used for scrolls.   
+Elves are taught High Elven and their own regional language, which they use on a day to day instance and in front of non-elves. Pure High Elven is also used by many fairy folk, but is otherwise guarded jealously and rarely taught to non-elves. The language itself is slightly magical and adjusts itself so that no matter what it’s intended recipients, who still need to be in hearing range, hear it clearly, but never loudly no matter what the conditions or how quietly it’s whispered.  It’s an alphabet language that, like Draconic, can also be used for scrolls.   
 
 Uldorian Elfish 
 This is the local eleven common tongue, and it’s this elven that non-elves will speak. It’s a beautifully scripted alphabet.
@@ -163,19 +163,30 @@ Wosternik
 This is the dwarven language of the region and is very old. Spoken by all dwarves and gnomes, it is closely related to the ur-language of the first dwarves and therefore partially understood duegar, who speak their own degenerate form called Klisternik and derro whose deranged howling language is also based upon it, although only savants will speak Wosternik back. Wosternik is a symbol-rune language when written down, rather than a pure alphabetical language like Common.       
 
 Red Hills Goblin
-Goblins, hobgoblins, bugbears, many ogres and hill giants speak Red Hills Goblin, names after the broad geographical name that many of these goblinoids and related creatures came from. It’s a symbolic language without much sophistication.  
+Goblins, hobgoblins, bugbears, many ogres and hill giants speak Red Hills Goblin, names after the broad geographical name that many of these goblinoids and related creatures originally came from. It’s a symbolic language without much sophistication.  
 
 Gunderdash
 The orcish language Gunderdash is spoken by local orcs and their allies, such as ogres and trolls. It’s a brutal language that has elements of the dark tongue, allowing more intelligent speakers to converse with those who speak the dark tongue. It’s an alphabetic language, only using dark tongue characters.  
 
 Dark Tongue
-Dark Tongue is the language of Hell and The Abyss. It’s spoken by evil planar creatures, as often as a basis for other languages of racially evil creatures. Creatures like Manticore, Gnolls, Medusa, Minotaurs often speak Dark Tongue. It’s also a favoured language of evil giants and dragons. As a magical language, it grates and is repellent to non-evil creatures. In it’s written form it is alphabetic and foreboding. 
+Dark Tongue is the language of Hell and The Abyss. It’s spoken by evil planar creatures, as often as a basis for other languages of racially evil creatures. Creatures like Manticore, Gnolls, Medusa, Minotaurs often speak Dark Tongue. Drow use Dark Tongue exclusively, although they also have a secret language known only to high ranking members of their society. It’s also a favoured language of evil giants and dragons. As a magical language, it grates and is repellent to non-evil creatures. In it’s written form it is alphabetic and foreboding. It can be used to make magical scrolls. 
 
 Northern Giantish
 Almost all giants of the northern continent speak this ancient language, along with some ogres, cyclops and minotaurs. In written form it uses the same rune symbols as Wosternik, and those that understand that can usually make out more simple sentences.
 
 Under Tongue. 
 Another trade language, but used by races that exist far below the surface. It’s an amalgamation of a number of deep languages and is difficult for human mouths to pronounce. It’s an alphabetic language and one that’s well suited to carve into rock. Duegar, drow, derro, troglodytes and many aberrant races are likely to speak Under Tongue as well as their own languages.    
+
+Ul-Zoorish
+The primary eastern language of intelligent reptiles such as lizardmen, kobolds, naga, some troglodytes, medusa, yuan-ti, etc,. It’s very difficult to master by those with human-like tongues. In written form it is a simplistic form of Dragonic. 
+
+Elemental
+Elemental is the single language that binds beings of the elemental planes together. It is similar to a trade tongue, and is quite simplistic in form. It is runic in written form, and often styled differently based on the element it is associated. Higher beings, such as Djinn and Efreets who live on the elemental planes often have their own racial or regional languages.  
+
+There are other languages used by the denizens of Star Trap, but none of these are accessible to player characters to start with. These includes 
+
+Kro Kzin Kenup, the howling and echoed language of the derro.
+Cthiseptuul, the language of intelligent beings from the far realm when they are talking to those who they do not wish to have direct mental contact with. 
 </Text>
         </Document>
         <Document ID="69">
@@ -642,7 +653,7 @@ Anyone studying the walls for longer than a turn is cursed for 24 hours such tha
 79. Horrid Jars : jars, brain in a jar
 This room is a jumble of shelves and horrid alchemy instruments. Hundreds of jars, both large and small fill the room, containing all manner of body parts, eyes, arms, brains and worse. Many have yellowed with age, and some of the contents have completed dissolved forming fleshy sediment at the bottom of them. A few work books, empty jars, saws and hooked rods also can be made out in the clutter. 
 
-The animated brain of an early rival to Thandrak floats in one of the jars. Driven mad by his condition, Phzulta (Fah-zool-ta) has plotted his revenge for half a century. Powers from beyond have taken note of his condition and provided him with the means to use magic again. Initial he’ll remain hidden amongst the other jars, having summoned an Unseen Servant when the door first opens. He’ll use telepathy to offer information and power in return for a number of random seeming objects. In actuality he hopes to create a golem that he can inhabit. However his insanity and paranoia will probably bring any party cooperating into conflict with him eventually.   
+The animated brain of an early rival to Thandrak floats in one of the jars. Driven mad by his condition, Phzulta (Fh-zool-ta) has plotted his revenge for half a century. Powers from beyond have taken note of his condition and provided him with the means to use magic again. Initial he’ll remain hidden amongst the other jars, having summoned an Unseen Servant when the door first opens. He’ll use telepathy to offer information and power in return for a number of random seeming objects. In actuality he hopes to create a golem that he can inhabit. However his insanity and paranoia will probably bring any party cooperating into conflict with him eventually. Alternatively, Phzulta could make for an interesting long term patron for a party that is  
 
 Brain in a Jar
 
@@ -682,11 +693,11 @@ Wraith.  </Text>
             <Title>The Obelisk Of Insanity (83)</Title>
             <Text>83. Obelisk of Insanity level 1 - Chamber Of Violent Runes.
 
-As you push open the huge and intimidating doors stale air fills your lungs and for a moment you hear, or think you hear, whispers. You’re confronted by a huge semi octagonal chamber, lit by floating cold blue lights throughout. Four coiled pillars of green stone support the room, while the floor is covered in the same white and bloodstone tiles as the main corridors outside. The room is dominated by a huge obelisk in its centre. Cut from some strange crystal, the obelisk’s deep purple and blue surface seems to suck in the light somewhat. Looking directly at the crystal creates a buzzing and squelching in your head that is both unpleasant and seductive at the same time. As you take more of the room in you realise strange rune-like objects orbiting slowly around the obelisk some five feet from the ground. These runes glisten slightly and have soft curves, as if they were made from something organic. Dust and debris litter the floor, suggesting this room is incredibly ancient and has been rarely disturbed.          
+As you push open the huge and intimidating doors stale air fills your lungs and for a moment you hear, or think you hear, whispers all about you. You’re confronted by a huge semi octagonal chamber, lit by floating cold blue lights throughout. Four coiled pillars of green stone support the room, while the floor is covered in the same white and bloodstone tiles as the main corridors outside. The room is dominated by a huge obelisk in its centre. Cut from some strange crystal, the obelisk’s deep purple and blue surface seems to suck in the light somewhat. Looking directly at the crystal creates a buzzing and squelching in your head that is both unpleasant and seductive at the same time. As you take more of the room in you realise strange rune-like objects orbiting slowly around the obelisk some five feet from the ground. These runes glisten slightly and have soft curves, as if they were made from something organic. Dust and debris litter the floor, suggesting this room is incredibly ancient and has been rarely disturbed.          
 
-Two Obelisk keys are required to open the door, three of which can be found on the first level. Inside is the room is very top of the huge purple obelisk that runs through many of the levels of the dungeon and  Floating around the obelisk are eight Farspawn, which appear as runes, held in stasis. If anyone, with or without gloves, touches the Obelisk, the runes awaken, investigate the party and after 1d4 rounds they attack. The touching character is dazed (-2 to all rolls for 1d4 rounds) as their heads swims with misty visions of the Far Realm. They loses a point of Wisdom but randomly gains 1 point in another stat for 2d4 turns at which point they make a save vs. Spells. A failed save means the change lasts until the end of the next day, while a third fail at this point means the change is permanent and no further saving rolls will help. The character may choose to fail all saves. Each time these runes are destroyed, new, bigger runes will form over a period of several days, until then the transformation power of the obelisk is too weak to function again. The bones of adventurers, along with their equipment lie moulding here. Amongst the debris is a +1 short sword, a scroll of Sleep, Magic Missile and Comprehend Languages all cast at 7th level, a well made battle axe, a suit of dwarven sized chainmail, several daggers and a lizardskin bag containing 400 s.p. and 580 g.p. as well as another two Obelisk keys. The obelisk radiates strongly with psychic power and taints of madness. The floating lights are insubstantial and cannot be moved. 
+Two Obelisk keys are required to open the door, three of which can be found on the first level. Inside is the room is the very top of the huge purple obelisk that runs through many of the levels of the dungeon and floating around the obelisk are 12 Farspawn, which appear as runes, held in stasis. If anyone, with or without gloves, touches the Obelisk, the runes awaken, uncurling into their natural shapes, and after 1d4 rounds they attack unless attacked first. The touching character is dazed (-2 to all rolls for 1d4 rounds) as their heads swims with misty visions of the Far Realm. They loses a point of Wisdom but randomly gain 1 point in another stat for 2d4 turns at which point they make a save vs. Spells. A failed save means the change lasts until the end of the next day, while a third fail at this point means the change is permanent and no further saving rolls will help. The character may choose to fail all saves. Each time these runes are destroyed, new, bigger runes will form over a period of several days, until then the transformation power of the obelisk is too weak to function again. The bones of adventurers, along with their equipment lie moulding here. Amongst the debris is a +1 short sword, a scroll of Sleep, Magic Missile and Comprehend Languages all cast at 7th level, a well made battle axe, a suit of dwarven sized chainmail, several daggers and a lizardskin bag containing 400 s.p. and 580 g.p. as well as another two Obelisk keys. The obelisk radiates strongly with psychic power and taints of madness. The floating lights are insubstantial and cannot be moved. 
 
-Engraved on the crystal is the second level spell Contact Zhulbluhb'Tck'Nere. It requires a Read Magic spell or similar to be cast to decipher it’s worm-like script. 
+Engraved on the crystal in an unknown language is the second level spell Contact Zhulbluhb'Tck'Nere. It requires a Read Magic spell or similar to be cast to decipher it’s worm-like script. 
 
 If the door to this chamber is left open for a long duration Dimension Shamblers will start to gather here over time, wandering in from the wider dungeon, and at any point 1d6 Dimension Shamblers will be encountered. Destroyed Farspawn will return after 1d4 days, with an extra hit dice and 4 hit points. 
 
@@ -909,7 +920,7 @@ The goblins have converted an old cart they captured, boarded up the back end an
 
 The cart can only travel as far as the door and is relatively easy to avoid, unless of course the players are being chased into the corridor. However to get passed the adventurers need to hack and move around the wood for a round, making them vulnerable to attacks from the goblins behind.
 
-If the characters faced down the cart, they are attacked at +2 doing 1d12 damage. It’s very difficult to get passed, and takes two combat rounds before a character can engage in hand to hand combat, during which they’ll be peppered by arrows. 
+If the characters face down the cart, they are each attacked at +1 doing 1d10 damage. It’s very difficult to get passed, and takes two combat rounds before a character can engage in hand to hand combat, during which they’ll be peppered by arrows. 
 
 4 Goblin warriors (AC 6/14, HD 1-1, hp 4, At 1d6, Mv 90/30, Sv 0h, Mr 7, Al CE) Humanoid
 Spear, hand axe, club or short sword, Shield. 
@@ -917,7 +928,7 @@ Spear, hand axe, club or short sword, Shield.
 2 Goblin archers (AC 7/13, HD 1-1, hp 3, At 1d6 or 1d4, Mv 90/30, Sv 0h, Mr 7, Al CE) Humanoid
 +1 to hit with their short bows due to dexterity adjustment, dagger. Short bow, 1d12 arrows, daggers.
 
-48. Eastern Shooting Gallery
+48. Eastern Shooting Gallery : archers
 
 This odd shaped and tidy area is decorated by recently painted naive but attractive landscape drawings on the wall. Light floods in through arrow slights in the western wall illuminating rows of hay beds, pots and what appears to be paints. Four goblins clutch crossbows, bolts aimed at you, stand in the far corner of the room.
 
@@ -926,7 +937,7 @@ One of the goblins here is responsible for the paintings and the group are rathe
 4 Goblin archers (AC 7/13, HD 1-1, hp 3, At 1d6 or 1d4, Mv 90/30, Sv 0h, Mr 7, Al CE) Humanoid
 +1 to hit with their short bows due to dexterity adjustment, dagger. Short bow, 1d12 arrows, daggers.
 
-49. More Archers
+49. More Archers : archers
 Mold and damp have permeated the walls of this rooms and an immediate unpleasant musky smell hits your nostrils. Light from overgrown arrow slits provides some illumination. More goblins cower in towards the back of the room, bows half-heartedly drawn.
 
 The goblins here are have been using a corner of their room for their toilet. 
@@ -937,7 +948,7 @@ The goblins here are have been using a corner of their room for their toilet.
 50. Goblin Reinforcements
 The chamber appears to be a guard room, with tables, bunks and sword racks. Several goblins are here reaching for their weapons, and it seems you have disturbed an unpleasant game of chance involving dice, hammers and live mice. 
 
-The goblins here are lead by a seasoned under boss and will attack the party to the best of their abilities. Hidden in one of the bunks is a gaudy, but gold and pearl earring worth 150 gp. The small door in the north east corner is badly hidden behind and any search of the room will reveal it on DC 12 perception check. The unlocked door and corridor are roughly cut, narrow and low hanging. A dwarf or anyone with similar experience will identify it as a fairly recent addition.   
+The goblins here are led by a seasoned under boss and will attack the party to the best of their abilities. Hidden in one of the bunks is a gaudy, but gold and pearl earring worth 150 gp. The small door in the north east corner is badly hidden behind and any search of the room will reveal it on DC 12 perception check. The unlocked door and corridor are roughly cut, narrow and low hanging. A dwarf or anyone with similar experience will identify it as a fairly recent addition.   
 
 Goblin bully (AC 6/14, HD 2, hp 10, At 1d8, Mv 90/30, Sv F1, Mr 8, Al CE) Humanoid
 Battleaxe, shield.
@@ -992,15 +1003,32 @@ Before you is a scene of utter chaos. A huge goblin brawl is unfolding in the la
 
 There are 1d6 warriors, 1d6 archers, 1d4 stabbers and 4d4 runts involved in the mass brawl, while the goblin king, Grodsnuk and 4 goblin skull cleavers sit at the back enjoying the fight.  
 
-King’s Court : 
+King’s Court : From behind the close doors you can make out the unusually deep voice of single goblin, speaking with some confidence. The doors muffle the sound so you can’t make out exactly what is being spoken about. 
+
+When you open the doors you see a large group of goblins sitting and standing in a huge hall. They all appear to be listening, almost intently, to a large goblin sat on a wooden throne, flanked by axe wielding guards. In front of him stand a vastly fat goblin wearing robes that would suggest he visits a silk merchant often, and a read skinned goblin who seems to have horns. A wild-eyed goblin shaman, dances from foot to foot while the king speaks.
+
+There are 2d6 warriors, 1d6 archers, 1d4 stabbers and 4d6 runts listen to the latest proclamations, while the goblin king, Grodsnuk and 6 goblin skull cleavers sit at the back with Reaping Madkin, Chamberlin Gutso and Snezak The Horned nearby. If this turns to a fit, it could easily wipe out a low level party of adventurers so use with caution. Most notably Reaping Madkin is here, and will announce the party are the ones from his visions regarding the pig-faced orcs.   
 
 54. Goblin living quarters
+Scattered cots, straw beds, hammocks, blankets, rubbish and small bones litter this room. A number of goblins of various ages and size scatter when you enter and cringe in the corners of the room while a few braver types cluck weapons and eye you expectantly. 
 
-
+This living chamber contains 2d6 runts and 1d4 goblin warriors. It has nothing of value otherwise.
 
 
 55. Snezak The Horned’s room
-Somewhere in Snezaks bloodline is something a little devilish, and he has inherited his horns and fire magic from his devilish lineage. He acts as the kings warlord, and is always accompanied by goblin skull cleavers. He has little interest in rule, and is generally given whatever he wants by the king. If the King aligns with the party Snezak will vocally against the plan, and if the party shows any weakness or failure will seek to overthrown the king, kill the PCs and place another king in charge.
+This chamber is occupied by five goblins, clustered around a table on top of which sits a what might be a map with crudely carved wooden figures on it. Rudely made dice also litter on corner of the table. Four of the goblins quickly clutch their battleaxes and the fifth, a taller, straighter goblin whose slightly red skin and small goat horns make him look quite devilish holds a rapier in one hand while the other arm is bound in well oiled chain mail. At the back of the room are some crude beds. The walls are painted in abstract, repeating patterns which look like they’ve been fairly recently added to with spiked skull motifs. 
+
+Somewhere in Snezaks bloodline is something a little devilish, and he has inherited his horns and fire magic from his devilish lineage. He acts as the kings warlord, and is always accompanied by goblin skull cleavers. He has little interest in rule, and is generally given whatever he wants by the king. If the King aligns with the party Snezak will vocally against the plan, and if the party shows any weakness or failure will seek to overthrown the king, kill the PCs and place another king in charge. Snezak definitely wants to be the power behind the throne. 
+
+The map shows the two goblin areas, without the secret doors or areas beyond. The wooden pieces look vaguely humanoid, with some coloured red and some green. Hidden beneath Snezak’s bed is sack containing 113 g.p. and 5 pieces of platinum. Snezak’s rapier is magical and counts as +1 longsword. 
+
+Goblin strategist, 4 goblin skull cleavers
+Goblin Strategist (AC 4/17 HD 2+2, hp 12, At +2 1d8 +1, Mv 90/30 Sv F2, Mr 9, LE) Humanoid. 
+Longsword/rapier +1, chainmail. Half damage from fire. May cast Burning Hand once a day as a 3rd level magic user. 
+
+Goblin Skull Cleavers (AC 6/14, HD 1+1, hp 6, At +1 1d8, Mv 90/30, Sv F1, Mr 7, Al CE) Humanoid.
+Battleaxe, shield.
+
 
 56. Cooking chamber
 57. Goblin living quarters
@@ -1021,7 +1049,10 @@ This hidden door leads to a small chamber which appears to have had some sort of
 The chest is not trapped and the characters are free to take the treasure. Mixed in with the gold is large amounts of copper coins. The monetary treasure works out to 80 gold pieces and 400 copper. There are some simple pieces of jewellery worth 75 g.p., 50 g.p. and two worth 25 g.p., Also sticking out is a potion of healing.  
 The gnomes leave this treasure here in the hope that it’ll distract the curious from searching for the second secret door that leads to their watch post on this level. The potion is here for emergencies also. 
 
-65. Strange sigils</Text>
+65. Strange sigils
+Nothing marks this small, empty and unknown chamber as interesting except for the runes or sigils that are painted onto the walls. They are reminiscent of the Dwarven Wosternik script, but highly stylised and with odd additions.   
+
+Anyone who speaks Wosternik will think they can make out the symbol for goblin amongst the other unknown elements. </Text>
         </Document>
         <Document ID="32">
             <Title>Alternative quests and mini-adventures</Title>
@@ -1036,11 +1067,13 @@ Hanwell Birge 3rd level Alchemist (Magic User). S 9 I 14 W11 D 9 C 10 Ch 12. AC 
 
 Hanwell is likely to try and take too many oranges from the tree, activating the guardian elementals. You may also have him kidnaped by either goblin or, alternatively if don’t wish him to survive, the pig-faced orcs.     
 
-The reuniting of Freya
+
 * The quest to find the statue of Freya hidden in the far reaches of the first level.
 
+* Put an end to the raids of goblins, one way or another.
 
-* Put an end to the raids of goblins, one way or another.</Text>
+* The Astronomers of Amethyst Circle - longer adventure.
+This pits the adventurers against a group of wicked astronomers who are gaining influence in a local kingdom where the adventurers are based. These astronomers have penetrated the 2nd level of the dungeon and gained access to the enough obelisk keys into enter both the first and second levels of the chamber, and are in contact with Zhulbluhb'Tck'Nere. They use the visions to blackmail and forsee events that  </Text>
         </Document>
         <Document ID="25">
             <Title>Tomb Of Judder</Title>
@@ -1078,7 +1111,7 @@ HANDOUT - Map painting showing teleport to tomb of Judder
 69. Starchamber : star map, wizards chamber
 The dominant feature of this round room, carved out of the rock like one half of a sphere is the star map painted on the curved surface. It’s old and in places the paint as peeled, but you can recognise some well known constellations and disturbing a few that are utterly alien to you. There is a strange and out of place sense of eerie peace here compared to the other chambers in this section of the dungeon. 
 
-Anyone with an interest in astrology and and astronomy can study the sky map, and doing so will   give the character a 50% chance of immediately recognising the constellation of the unicorn, needed to open the door in room 31. They’ll also start to feel like they are being drawn into the stars or that the distant between them and the void is shrinking. A wizard who has cast Contact Zhulbluhb'Tck'Nere (see new spells) previously fill find that they randomly relearn one of their already cast spells when they do so. However any kind of studying thins the veil between the material world and the far realm. There is a 1 in 6 chance creatures will step through. Roll a d4 On a 1 1d4 dimension shamblers will appear, on a 2 1d6 Farspawn Mind Worms, on a 3 1d6 Farspawn Teeth Eels and on a 4 1d4 of each.  
+Anyone with an interest in astrology and and astronomy can study the sky map, and doing so will   give the character a 50% chance of immediately recognising the constellation of the unicorn, needed to open the door in room 31. They’ll also start to feel like they are being drawn into the stars or that the distant between them and the void is shrinking. A wizard who has cast Contact Zhulbluhb'Tck'Nere (see new spells) previously will find that they randomly relearn one of their already cast spells when they do so. However any kind of studying thins the veil between the material world and the far realm. There is a 1 in 6 chance creatures will step through. Roll a d4 On a 1 1d4 dimension shamblers will appear, on a 2 1d6 Farspawn Mind Worms, on a 3 1d6 Farspawn Teeth Eels and on a 4 1d4 of each.  
 
 70. Chamber Of Black Tentacles : door, tentacles
 You’ve reached what appears to be a cross roads of tunnels, and for once the floor is fairly even. The south wall has be carved flat and is dominated by a large imposing double iron door. Decals depict skulls, demons and abstract symbols, while the frame has been carved to appear as if sharp stone teeth protrude from the stone. Door knockers, shaped like winged skulls add to the grotesque appearance. 
@@ -1112,12 +1145,12 @@ A lesser demon, Grarthrax The Meddler, was trapped in the fire by the long dead 
 
 Grarthrax The Meddler  
 
-The wizards book contains the spells Summon Horrible Black Tentacles (see new spells) and Ray Of Enfeeblement, which wizards could copy into their own spell book. The wizard has a ring of spell storing, which has rolled under the chair. The ring has the following spells stored in it Protection From Evil, Levitate and Monster Summoning 1. All cast at 12th level. 
+The wizards book contains the spells Summon Horrible Black Tentacles (see new spells), Shield, Protection From Evil, Levitate, Monster Summoning 1, Find Familiar, Shocking Grasp and Ray Of Enfeeblement, which wizards could copy into their own spell book. The wizard has a ring of spell storing, which has rolled under the chair. The ring has the following spells stored in it Protection From Evil, Levitate and Monster Summoning 1. All cast at 12th level. 
 
 75. Weapons Racks
 This chamber is dominated by massive weapons racks holding huge warcleavers and battle mauls. The weapons are dull and a little rusty but look deadly and fit for the hands of ogres of giants rather than humans. 
 
-There are 12 warcleavers and 17 battle mauls, which are all very heavy. 
+There are 12 warcleavers and 17 battle mauls, which are all very heavy, weighing twice that of a two handed sword. These are two handed weapons that strike doing 1d10 damage, but at −1 initiative for anyone with less than 18 strength strength. They can be cleaned up and sold as novelties in above ground cities for 10 g.p. each or to ogres and giants for 20 g.p. each.
 
 76. Chamber Of Bones
 Note pushing the doors open is extra difficult here because of the bones.
@@ -1453,47 +1486,49 @@ SB END</Text>
 	21.	Goblin Acolyte
 	22.	Goblin Bully
 	23.	Goblin Hexamancer
-	24.	Goblin Runts
-	25.	Goblin Skull Cleavers
-	26.	Goblin Stabbers
-	27.	Goblin Warrior
-	28.	Grarthrax The Meddler, Lesser Demon 
-	29.	Green Slime
-	30.	Grey Ooze
-	31.	Horrible Black Tentacles
-	32.	Iron Hound
-	33.	Killer Bees
-	34.	Maggot Wraith
-	35.	Ochre Jelly 
-	36.	Pig-faced Orc Killer 
-	37.	Pig-faced Orc Bannerman
-	38.	Pig-faced Orc Sticker
-	39.	Pig-faced Orc Shieldboy
-	40.	Pig-faced Orc Demon Warriors
-	41.	Pig-faced Orc Murderers
-	42.	Pig-faced Orc Heart Eaters 
-	43.	Pig-faced Orc Champion
-	44.	Pig-faced Orc Warlord
-	45.	Pig-faced Orc Teeth Caster 
-	46.	Rat, Giant
-	47.	Rat, Swarm
-	48.	Rat, Corpse Swarm
-	49.	Rot spider
-	50.	Shrieker
-	51.	Skeleton
-	52.	Skeleton Archer
-	53.	Skeleton Legionnaire
-	54.	Skeleton, Ramshackle 
-	55.	Skeleton, Skullspider
-	56.	Snake, Pit Viper
-	57.	Vile Creeper, Barbed
-	58.	Vile Creeper, Suckered
-	59.	Wolf
-	60.	Wraith
-	61.	Zombie
-	62.	Zombie Rotter
-	63.	Zombie, Famine
-	64.	
+	24.	Goblin King
+	25.	Goblin Runts
+	26.	Goblin Skull Cleavers
+	27.	Goblin Stabbers
+	28.	Goblin Strategist
+	29.	Goblin Warrior
+	30.	Grarthrax The Meddler, Lesser Demon 
+	31.	Green Slime
+	32.	Grey Ooze
+	33.	Horrible Black Tentacles
+	34.	Iron Hound
+	35.	Killer Bees
+	36.	Maggot Wraith
+	37.	Ochre Jelly 
+	38.	Pig-faced Orc Killer 
+	39.	Pig-faced Orc Bannerman
+	40.	Pig-faced Orc Sticker
+	41.	Pig-faced Orc Shieldboy
+	42.	Pig-faced Orc Demon Warriors
+	43.	Pig-faced Orc Murderers
+	44.	Pig-faced Orc Heart Eaters 
+	45.	Pig-faced Orc Champion
+	46.	Pig-faced Orc Warlord
+	47.	Pig-faced Orc Teeth Caster 
+	48.	Rat, Giant
+	49.	Rat, Swarm
+	50.	Rat, Corpse Swarm
+	51.	Rot spider
+	52.	Shrieker
+	53.	Skeleton
+	54.	Skeleton Archer
+	55.	Skeleton Legionnaire
+	56.	Skeleton, Ramshackle 
+	57.	Skeleton, Skullspider
+	58.	Snake, Pit Viper
+	59.	Vile Creeper, Barbed
+	60.	Vile Creeper, Suckered
+	61.	Wolf
+	62.	Wraith
+	63.	Zombie
+	64.	Zombie Rotter
+	65.	Zombie, Famine
+	66.	
 
 Monster types.
 
@@ -1632,6 +1667,10 @@ Goblin Stabbers (AC 6/14, HD 1-1, hp 3, At −1 1d4, Mv 90/30, Sv T1, Mr 7, Al C
 Stabbers have the abilities of a 1st level thief. Daggers and throwing knives. 
 Goblin stabbers are the skulkiest, sneakiest goblins in a tribe, and thus highly revered. 
 
+Goblin Strategist (AC 4/17 HD 2+2, hp 12, At +2 1d8 +1, Mv 90/30 Sv F2, Mr 9, LE) Humanoid. 
+Longsword/rapier +1, chainmail. Half damage from fire. May cast Burning Hand once a day as a 3rd level magic user. 
+Devilishly cunning for a goblin, and what’s with the horns and red skin?
+
 Goblin Warrior (AC 6/14, HD 1-1, hp 4, At −1 1d6, Mv 90/30, Sv 0h, Mr 7, Al CE) Humanoid
 Spear, hand axe, club or short sword, Shield. 
 Goblin warriors make up the bulk of goblin forces, having survived enough clan brawls to be considered useful by their king. 
@@ -1644,7 +1683,7 @@ The first hit from a Grey Ooze doesn’t do damage but destroys the armour of th
 
 Horrible Black Tentacles (AC 5/15, HD 1, Hps 1, At +0 1d6 + slow, Mv special, Sv F1, Mr 12, Al N) Aberration
 Successful hits by the black tentacles cause the target to be slowed as per the spell if they fail a save versus spells. Tentacles cannot travel on their own and are anchored in place by the magic that summoned. However they are 20 feet long end to end so can reach far from their anchor point.
-The wizard who wishes to summon these things must make pinpricks in reality to left them worm their way in. What remains on the other side remains a mystery and those that have successfully cast the spell pray it will remain so.   
+The wizard who wishes to summon these things must make pinpricks in reality to let them worm their way in. What remains on the other side remains a mystery and those that have successfully cast the spell pray it will remain so.   
 
 Iron Hound (AC 3/17, HD 1, hp 4, At +0 1d6, Mv 150/50, Sv F1, Mr 12, Al N) Construct
 This golem-like construction is immune to mind affecting spells, poison and disease. 
@@ -1778,14 +1817,14 @@ When this spell is cast it forms a bond briefly with the star being Zhulbluhb'Tc
 
 	1.	Trivial thought - the name of by a long dead nobleman’s favourite concubine, how many sheep a farmer lost one winter,  
 	2.	Strange Lore - the secret to making a rare potion, the powers of a rare creature, a dead language, the shape of worlds in another plane of existence, the name of a demon
-	3.	Ancient History - a fragment of Star Traps history, the bloodline of one of the PC’s that goes back a thousand years to a great hero, the machinations of devilish princess 
-	4.	Something close by - secret doors, approaching monsters, the place of a lost treasure
+	3.	Ancient History - a fragment of Star Traps history, the bloodline of one of the PC’s that goes back a thousand years to a great hero, the machinations of devilish princess.  
+	4.	Something close by or local history - secret doors, approaching monsters, the place of a lost treasure, who stole the contents of the chest, why did a nobleman hire assassins to kill their wine merchant. 
 	5.	Terrible vision - scenes of torture, the killing of innocents, the chambers of a demon prince
 	6.	Maddening secret - the birth of chaos gods, the something the god of secrets wishes to keep unknown
 	7.	Utterly alien - unknowable colours, every bending spiral paths that could unravel the universe, a glimpse of the far realm
 	8.	Ignored
 
-If a 5,6 or 7 is rolled then the caster must make a save versus mind affecting spells or be at −1 to all rolls until they rest, due to the horror and unease of what they saw. Each time this spell is cast it creates a greater and greater connection to the being, which will mean more and more beneficial visions as the caster starts to feel the compulsion of wanting to free the star being.  
+If a 5,6 or 7 is rolled then the caster must make a save versus mind affecting spells or be at −1 to all rolls until they rest, due to the horror and unease of what they saw. If they fail a second save at this point, they lose a point of wisdom to madness. Each time this spell is cast it creates a greater and greater connection to the being, which will mean more and more beneficial visions as the caster starts to feel the compulsion of wanting to free the star being.  
 
 Summon Horrible Black Tentacles 
 3rd level Magic Users spell
