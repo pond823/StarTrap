@@ -1,13 +1,8 @@
+Level One.scriv/Files/binder.autosave
+Level One.scriv/Files/binder.backup
+Level One.scriv/Files/search.indexes
+Level One.scriv/Files/user.lock
+Level One.scriv/Files/Docs/docs.checksum
+Level One.scriv/QuickLook/
+Level One.scriv/Settings/ui.plist
 
-*.lock
-
-Level One.scriv/QuickLook/Thumbnail.jpg
-
-.DS_Store
-/Files/binder.autosave
-/Files/binder.backup
-/Files/search.indexes
-/Files/user.lock
-/Files/Docs/docs.checksum
-/QuickLook/
-/Settings/ui.plist
