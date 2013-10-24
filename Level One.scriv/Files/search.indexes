@@ -91,11 +91,60 @@ If the bar is moved, the characters can lift open the double doors revealing a s
             <Title>Reaping Madkin, the First To Eat shaman </Title>
             <Text>Reaping Madkin, the First To Eat shaman</Text>
         </Document>
+        <Document ID="71">
+            <Title>GUMSHOE investigative skills</Title>
+            <Text>In Robin D. Laws GUMSHOE roleplaying game system the need to roll a dice to successfully received information, often vital to the adventure, is dispensed with. This is an elegant and useful way of allowing the dungeon master to reveal facts, rumours and background colour to the players. However this information isn’t available to all players via their characters, the characters need to have relevant skills. In GUMSHOE information is divided into core clues and those that are not vital to progression. Core clues do not require spending any points from a characters skill pool, and as long as they have that skill or ability, they are given the information. Other information requires the character to spend points from their pool to receive this information. This skills can be refreshed by various means, both in and out of character.  
+
+Examples of these investigative abilities are astrology, religion and military history. 
+
+Since Star Trap Dungeon isn’t an investigative game in it’s most simple form, there are no core clues, and therefore all information could be considered at minimum a 1 point skill spend. However a dungeon master deem a piece of information trivial or so interesting to their vision of the dungeon that they give it to the player for free. There are also a number of suggested quests that the DM might choose use and allow information for those quests are core clues. 
+
+Skills used within Star Trap
+
+Astrology
+Alchemy
+Demonology (Demons and Devils)
+Necromancy
+Xenology (Aberrations and things from beyond)
+Religion
+Military history (Wars, famous battles, weapon types, tactics used by military units)
+Local history (Recent local history)
+Ancient history (Ancient world wide history)
+Natural history (Animals, plants and geology)
+Magical history (Magicians and spells)
+Magical beasts (Dragons, Manticore, Trolls)
+
+Appraisal of art and treasure
+Appraisal of arms and armour
+
+
+
+
+   </Text>
+        </Document>
         <Document ID="64">
             <Title>Untitled</Title>
         </Document>
         <Document ID="57">
             <Title>Gnomes</Title>
+        </Document>
+        <Document ID="72">
+            <Title>Fighters abilities</Title>
+            <Text>Fighters gain few benefits beyond their increased hit points and to-hit bonuses as they go up levels. Indeed their ability to do more damage doesn’t increase in the same way that all the other classes do. If dungeon masters feel they want to add the following abilities to fighters. Perhaps allowing the player to choose one new ability every 3 levels starting at 3rd level.
+
+Relentless strikes
+
+When the fighter successfully strikes a foe it spurs them on to hammer home more and more deadly blows. Each time they successfully hit the same foe as they did in the previous turn they do an extra die of damage. The second successive blow does +d4, the third does +d6, the forth +d8, the fifth +d10 and the sixth does +d12. After that the fighter is exhausted and stops doing the relentless damage. If the fighter is high enough level to have multiple attacks, they can use these extra attacks with Relentless Strikes 
+
+Cleave
+
+When fighters wield two handed weapons they can make huge sweeping attacks against gangs of inferior enemies. A fighter who is facing in hand to hand combat creature of half, rounded down their level or hit dice, may strike each one in combat. They only roll once to hit and for damage, and apply these results against all foes who are in striking range. Thus if they were fighting both lightly armoured goblins and heavily armoured orcs with shields they might only hit the goblins. 
+
+Precision Blows
+
+Highly skilled fighters can trade multiple attacks for greatly improved chances of hitting by focusing on a single strike. For each extra attack they forego they add +4 to their attack rolls. This ability can be used with missile weapons as well as in hand to hand combat.  
+
+</Text>
         </Document>
         <Document ID="65">
             <Title>Untitled</Title>
@@ -1031,9 +1080,9 @@ Battleaxe, shield.
 56. Cooking chamber : Cauldron, chef, magical dagger
 The smell of boiled cabbage overpowers all other smells in this cooking chamber. Physically the room is dominated by a huge cauldron that is so large the residence have constructed a stepped platform to reach into it. Currently two goblins stand on this, stirring with a giant copper spoon. Other goblins are rushing around with various foodstuff, all orchestrated by a tall, thin goblin whose apron and oddly tall hat mark him out at the chef. 
 
-The goblins here are unwilling combatants, and have volunteered to work in the dangerous conditions of the kitchen to avoid combat duty. They will though defend themselves. The head chef uses a magical dagger as his chef’s knife, and has become quite proficient with it. The two goblin runts on the platform together can use the copper spoon to bash the heads of the adventurers from a position of advantage, attack anyone near at +1 and doing 1d10 damage. They also are protected somewhat and are receive a +1 bonus to their armour class.
+The goblins here are unwilling combatants, and have volunteered to work in the dangerous conditions of the kitchen to avoid combat duty. They will defend themselves however. The head chef uses a magical dagger as his chef’s knife, and has become quite proficient with it. The two goblin runts on the platform together can use the copper spoon to bash the heads of the adventurers from a position of advantage, attack anyone near at +1 and doing 1d10 damage. They also are protected somewhat and are receive a +1 bonus to their armour class.
 
-The chef will though happily engage with anyone who show the slightest interest in his cooking, and is willing to pay small amounts of money, or provide acceptable rations to anyone who can provide interesting ingredients, with mushrooms, herbs and rabbit being a favourite.
+The chef will happily engage with anyone who shows the slightest interest in his cooking, and is willing to pay small amounts of money, or provide acceptable rations to anyone who can provide interesting ingredients, with mushrooms, herbs and rabbit being a favourite.
 
 There is enough food that would be edible by the adventurers for months, although much of it will perish over time.
 
@@ -1090,7 +1139,7 @@ Hanwell is likely to try and take too many oranges from the tree, activating the
 * Put an end to the raids of goblins, one way or another.
 
 * The Astronomers of Amethyst Circle - longer adventure.
-This pits the adventurers against a group of wicked astronomers who are gaining influence in a local kingdom where the adventurers are based. These astronomers have penetrated the 2nd level of the dungeon and gained access to the enough obelisk keys into enter both the first and second levels of the chamber, and are in contact with Zhulbluhb'Tck'Nere. They use the visions to blackmail and forsee events that  </Text>
+This pits the adventurers against a group of wicked astronomers who are gaining influence in a local kingdom where the adventurers are based. These astronomers have penetrated the 2nd level of the dungeon and gained access to the enough obelisk keys into enter both the first and second levels of the chamber, and are in contact with Zhulbluhb'Tck'Nere. They use the visions to blackmail and forsee events that give them political power.  </Text>
         </Document>
         <Document ID="25">
             <Title>Tomb Of Judder</Title>
@@ -1100,10 +1149,10 @@ Tomb complex of an ancient barbarian king guarded by various undead and unplunde
         <Document ID="18">
             <Title>Crawling Warrens (66-76) </Title>
             <Text>Region seven - Crawling Warrens (66-76)
-The bizarre tunnels between rooms in this area are unlike anywhere else on this level, being cylindrical rather than rectangular in shape. The appear, and indeed may have been, eaten out of the rock be huge worms rather than carved by the elementals and other workers who built much of the dungeon. A lone Farspawn Returned who coalesced in the dungeon because of the obelisk wanders these tunnels, building crude traps and adding to it's hideous art gallery. Other sinister forces once lived here and their influence too can be found. The DM is encourage to pick their moment well when the Returned attacks, and perhaps retreat before it is properly seen for the first encounter. The Farspawn Returned is a dangerous foe for low level characters, however it might not last long in a stand up fight.
+The bizarre tunnels between rooms in this area are unlike anywhere else on this level, being cylindrical rather than rectangular in shape. The appear, and indeed may have been, eaten out of the rock by huge worms rather than carved by the elementals and other workers who built much of the dungeon. A lone Farspawn Returned who coalesced in the dungeon because of the obelisk wanders these tunnels, building crude traps and adding to it's hideous art gallery. Other sinister forces once lived here and their influence too can be found. The DM is encourage to pick their moment well when the Returned attacks, and perhaps retreat before it is properly seen for the first encounter. The Farspawn Returned is a dangerous foe for low level characters, however it might not last long in a stand up fight.
 
-Farspawn Returned (AC 4/16, HD 4, At 1d4/1d4/1d6, Mv 90/30, Sv F2 Mr 12, Al CE) Aberration
-Attacks with two claws and a bite. The returned has the abilities of a 4th level thief and also may cast confusion once a day as a 10ht level magic user. It may use it’s backstab ability on all it’s attacks when able to do so.
+Farspawn Returned (AC 4/16, HD 4, Hp 18, At 1d4/1d4/1d6, Mv 90/30, Sv F4 Mr 12, Al CE) Aberration
+Attacks with two claws and a bite. The returned has the abilities of a 4th level thief and also may cast confusion once a day as a 10th level magic user. It may use it’s backstab ability on all it’s attacks when able to do so.
 
 66. Goblin Corpse Montage : tree of bodies
 A repugnant sight greets you in middle of this twisting corridor. A tree, made from what looks like limbs and torsos of goblins reaches up almost to ceiling. It is adorned with shrivelled heads, hung like apples from the branches of the construction. 
@@ -1320,7 +1369,7 @@ Exio Coppertooth - Star Trap Gnome, Tivolak Keystaff - Star Trap Gnome</Text>
             <Text>Known Levels
 First Level - Goblinhome, Realm of The Fungus King, The Necromancers Device, The Pig-Faced Orcs, The Orange Tree, The Tomb Of Judder. 
 Sub level - The Toolizith Coven outpost
-Second level - The Black Iron Mercenary Band, Lair Of The Serpent Queen, The Poison Wells, The Meeting Post, Null Zone, The Apple Tree, The Last Temple Of The Spider God
+Second level - The Black Iron Mercenary Band, Lair Of The Serpent Queen, The Poison Wells, The Meeting Post, Null Zone, The Apple Tree, The Last Temple Of The Spider God, Astronomers of Amethyst Circle
 Third Level - The Troll Maze, The Necromancers Domain, The Otherworldly Machine, The Deep Market, The Pear Tree. 
 Fourth Level - The Lair Of The Purple Dragon, Firehome, The Crystal Caves, The Arena, Death Trap
 Fifth Level -  
@@ -1471,7 +1520,7 @@ Fighters, rangers, paladins and monks get their level as a bonus. Clerics, druid
             <Title>Stat checks</Title>
             <Text>Stat checks
 Throughout these description there are notes on making stat checks. These usually take the form ‘Roll x+ on d6 + stat’ this means the player needs to roll a d6 adding their stat bonus, and must score x or more to succeed. Players and DM are encouraged to think reasons why the player maybe better or worse at a particular roll. For example elves examining elven poetry to discern a magical trap might get a racial bonus of +1. If fact you might want to make note of what things a player character is good and bad at as time goes on to build up a more detailed profile of the PC.
-SB END</Text>
+</Text>
         </Document>
         <Document ID="52">
             <Title>goblins</Title>
@@ -1488,33 +1537,33 @@ SB END</Text>
 	6.	Brain In A Jar
 	7.	Centipede, Giant  
 	8.	Crawling Claw/Severed Hand
-	9.	Demonic Two-Headed Warthog
-	10.	Dimension Shambler
-	11.	Farspawn Returned
-	12.	Farspawn Mind Worm
-	13.	Farspawn Teeth Eel 
-	14.	Fungal Guard
-	15.	Fungal Herder
-	16.	Fungal Priest Of Decay
-	17.	Fungus King
-	18.	Gelatinous Cube
-	19.	Ghoul
-	20.	Goblin Archer
-	21.	Goblin Acolyte
-	22.	Goblin Bully
-	23.	Goblin Hexamancer
-	24.	Goblin King
-	25.	Goblin Runts
-	26.	Goblin Skull Cleavers
-	27.	Goblin Stabbers
-	28.	Goblin Strategist
-	29.	Goblin Warrior
-	30.	Grarthrax The Meddler, Lesser Demon 
-	31.	Green Slime
-	32.	Grey Ooze
-	33.	Horrible Black Tentacles
-	34.	Iron Hound
-	35.	Killer Bees
+	9.	Dimension Shambler
+	10.	Farspawn Returned
+	11.	Farspawn Mind Worm
+	12.	Farspawn Teeth Eel 
+	13.	Fungal Guard
+	14.	Fungal Herder
+	15.	Fungal Priest Of Decay
+	16.	Fungus King
+	17.	Gelatinous Cube
+	18.	Ghoul
+	19.	Goblin Archer
+	20.	Goblin Acolyte
+	21.	Goblin Bully
+	22.	Goblin Hexamancer
+	23.	Goblin King
+	24.	Goblin Runts
+	25.	Goblin Skull Cleavers
+	26.	Goblin Stabbers
+	27.	Goblin Strategist
+	28.	Goblin Warrior
+	29.	Green Slime
+	30.	Grey Ooze
+	31.	Horrible Black Tentacles
+	32.	Iron Hound
+	33.	Killer Bees
+	34.	Lesser Demon, Grarthrax The Meddler
+	35.	Lesser Demon, Two-Headed Warthog
 	36.	Maggot Wraith
 	37.	Ochre Jelly 
 	38.	Pig-faced Orc Killer 
@@ -1610,15 +1659,15 @@ Up to 5 Claws can occupy a single spot adjacent to an opponent before leaping on
 Bothersome on their own, a plague of claws can overwhelm the mightiest of heroes.
 
 Demonic Two-Headed Warthog (AC 7/13, HD 3+3, At +3 2d4/2d4/2d4,Mv 90/30, Sv F3, Mr 9, Al CE) Lesser Demon, Animal
-Attacks with two heads and a stomping attack. It may direct the gore attacks at two separate foes. Regenerates 1d6 hit points a round unless the damage is caused by spells, magical attacks or holy water which causes 1d8 damage. Maybe turned as a wraith. Immune to fire and poison. It is helpful to record normal and magical damage to the warthog separately. 
+Attacks with two heads and a stomping attack. It may direct the gore attacks at two separate foes. Regenerates 1d6 hit points a round unless the damage is caused by spells, magical attacks or holy water which causes 1d8 damage. Maybe turned as a wraith. It is helpful to record normal and magical damage to the warthog separately. 
 Only a demon lord would gift such an ill-tempered and treacherous beast to it’s followers.  
 
 Dimension Shambler (AC 7/13, HD 2, Hp 9, At +1 1d4/1d4, Mv 90/30, Sv F1, Mr 9, Al CN) Aberration
 May cast Dimension Door at will.
-Dimension shamblers appear as gorilla-like bundles of ropes and tentacles. They seem not to recognise a difference between intelligent beings, flora and beasts, consuming whatever they come across. Their common modus operandi is to Dimenion Door in groups from both in front and behind of their victims. Stargazers postulate that they do not digest food but transport to whatever horror dimension they come from for something else to eat.  
+Dimension shamblers appear as gorilla-like bundles of ropes and tentacles. They seem not to recognise a difference between intelligent beings, flora and beasts, consuming whatever they come across. Their common modus operandi is to Dimenion Door in groups in front and behind their victims. Stargazers postulate that they do not digest food but transport to whatever horror dimension they come from for something else to eat.  
 
-Farspawn Returned (AC 4/16, HD 4, Hp 18, At +3 1d4/1d4/1d6, Mv 90/30, Sv F2 Mr 12, Al CE) Aberration
-Attacks with two claws and a bite. The returned has the abilities of a 4th level thief and also may cast confusion once a day as a 10ht level magic user. It may use it’s backstab ability on all it’s attacks when able to do so.
+Farspawn Returned (AC 4/16, HD 4, Hp 18, At +3 1d4/1d4/1d6, Mv 90/30, Sv F4 Mr 12, Al CE) Aberration
+Attacks with two claws and a bite. The returned has the abilities of a 4th level thief and also may cast confusion once a day as a 10th level magic user. It may use it’s backstab ability on all it’s attacks when able to do so.
 It’s inevitable that people find an entrance to the Far Realm, but when they make it back it’s a rare event indeed and they are utterly, and chillingly changed. Madness, many eyes, and horrible purple rubbery skin marks them apart from who they might have once been.
 
 Farspawn Mind Worm (AC 5/15, HD 1, Hp 4, At +0 1pt*, Mv 90/30 Levitation, Sv F1 Mr 12, Al CE) Aberration
@@ -1829,7 +1878,7 @@ SB:</Text>
         <Document ID="39">
             <Title>Running encounters</Title>
             <Text>Running encounters
-Some encounter or groups include variations on how to run them, mostly defined as helpful, harmful or disdainful. This idea, stolen shamelessly from Robin D. Laws’ Armitage Files sourcebook, allows a GM to tailor the pace and style of the dungeon to the needs of her group. Do the PC’s need allies? Use the helpful variant. Are the players mostly interested in fighting? Use the harmful one. Do you want to introduce some themes, or knowledge but want to retain the chance to fight the monsters later? Use the disdainful version. It breaks up the relentless fighting that can be prevalent in mega-dungeons, and allows players who have want to do more roleplaying have their moments. It also serves to create greater tension in the build up to the fights, often giving more reason to why the characters should go off hunting down one particular band of monsters over another.   
+Some encounter or groups include variations on how to run them, mostly defined as helpful, harmful or disdainful. This idea, borrowed shamelessly from Robin D. Laws’ Armitage Files sourcebook, allows a GM to tailor the pace and style of the dungeon to the needs of her group. Do the PC’s need allies? Use the helpful variant. Are the players mostly interested in fighting? Use the harmful one. Do you want to introduce some themes, or knowledge but want to retain the chance to fight the monsters later? Use the disdainful version. It breaks up the relentless fighting that can be prevalent in mega-dungeons, and allows players who have want to do more roleplaying have their moments. It also serves to create greater tension in the build up to the fights, often giving more reason to why the characters should go off hunting down one particular band of monsters over another.   
 </Text>
         </Document>
         <Document ID="60">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.4.1-22817" Modified="2013-10-21 17:45:47 +0100">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2013-10-24 14:20:52 +0100">
     <Binder>
         <BinderItem ID="0" Type="DraftFolder" Created="2013-07-02 17:21:02 +0100" Modified="2013-07-02 17:21:02 +0100">
             <Title>Draft</Title>
@@ -17,14 +17,14 @@
                         <TextSelection>0,899</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="7" Type="Text" Created="2013-07-02 17:24:36 +0100" Modified="2013-09-05 09:43:40 +0100">
+                <BinderItem ID="7" Type="Text" Created="2013-07-02 17:24:36 +0100" Modified="2013-10-24 14:14:37 +0100">
                     <Title>Wandering Monsters inside corridors </Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>658,0</TextSelection>
+                        <TextSelection>1689,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="8" Type="Text" Created="2013-07-02 17:24:42 +0100" Modified="2013-08-21 11:59:55 +0100">
@@ -127,14 +127,14 @@
                         <TextSelection>12626,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="18" Type="Text" Created="2013-07-02 17:28:37 +0100" Modified="2013-10-01 17:37:49 +0100">
+                <BinderItem ID="18" Type="Text" Created="2013-07-02 17:28:37 +0100" Modified="2013-10-23 15:46:04 +0100">
                     <Title>Crawling Warrens (66-76) </Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>5159,0</TextSelection>
+                        <TextSelection>913,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="19" Type="Text" Created="2013-07-02 17:29:54 +0100" Modified="2013-07-03 14:30:42 +0100">
@@ -147,7 +147,7 @@
                         <TextSelection>2850,16</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="20" Type="Text" Created="2013-07-02 17:30:00 +0100" Modified="2013-09-30 16:48:48 +0100">
+                <BinderItem ID="20" Type="Text" Created="2013-07-02 17:30:00 +0100" Modified="2013-10-24 14:20:52 +0100">
                     <Title>The Absent Necromancer (78-82) </Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -257,14 +257,14 @@
                         <TextSelection>1189,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="32" Type="Text" Created="2013-07-02 17:36:32 +0100" Modified="2013-09-30 16:28:14 +0100">
+                <BinderItem ID="32" Type="Text" Created="2013-07-02 17:36:32 +0100" Modified="2013-10-23 16:33:20 +0100">
                     <Title>Alternative quests and mini-adventures</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1913,0</TextSelection>
+                        <TextSelection>1451,30</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="33" Type="Text" Created="2013-07-02 17:36:39 +0100" Modified="2013-08-21 16:04:28 +0100">
@@ -317,24 +317,24 @@
                         <TextSelection>591,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="71" Type="Text" Created="2013-10-21 14:35:43 +0100" Modified="2013-10-21 15:40:38 +0100">
+                <BinderItem ID="71" Type="Text" Created="2013-10-21 14:35:43 +0100" Modified="2013-10-23 16:13:38 +0100">
                     <Title>GUMSHOE investigative skills</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1512,0</TextSelection>
+                        <TextSelection>1538,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="72" Type="Text" Created="2013-10-21 14:36:45 +0100" Modified="2013-10-21 14:39:24 +0100">
-                    <Title>Overkill</Title>
+                <BinderItem ID="72" Type="Text" Created="2013-10-21 14:36:45 +0100" Modified="2013-10-23 15:42:10 +0100">
+                    <Title>Fighters abilities</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>1374,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="38" Type="Text" Created="2013-07-02 17:37:52 +0100" Modified="2013-07-02 17:38:05 +0100">
@@ -347,14 +347,14 @@
                         <TextSelection>512,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="39" Type="Text" Created="2013-07-02 17:37:55 +0100" Modified="2013-09-05 10:25:27 +0100">
+                <BinderItem ID="39" Type="Text" Created="2013-07-02 17:37:55 +0100" Modified="2013-10-23 16:31:41 +0100">
                     <Title>Running encounters</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>629,0</TextSelection>
+                        <TextSelection>201,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="40" Type="Text" Created="2013-07-02 17:37:59 +0100" Modified="2013-08-30 16:36:43 +0100">
@@ -367,24 +367,24 @@
                         <TextSelection>1448,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="41" Type="Text" Created="2013-07-02 17:38:03 +0100" Modified="2013-09-05 11:22:53 +0100">
+                <BinderItem ID="41" Type="Text" Created="2013-07-02 17:38:03 +0100" Modified="2013-10-23 16:33:51 +0100">
                     <Title>Known Levels</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>568,0</TextSelection>
+                        <TextSelection>389,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="45" Type="Text" Created="2013-07-03 11:16:04 +0100" Modified="2013-10-03 14:44:17 +0100">
+                <BinderItem ID="45" Type="Text" Created="2013-07-03 11:16:04 +0100" Modified="2013-10-24 14:15:04 +0100">
                     <Title>Monster Manual</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>8082,0</TextSelection>
+                        <TextSelection>23155,99</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="60" Type="Text" Created="2013-08-21 15:06:06 +0100" Modified="2013-09-30 16:46:18 +0100">
@@ -696,7 +696,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-07-02 17:21:02 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="257" Characters="1607" Date="2013-10-21 14:33:48 +0100"></PreviousSession>
+        <PreviousSession Words="337" Characters="1767" Date="2013-10-24 12:30:10 +0100"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
