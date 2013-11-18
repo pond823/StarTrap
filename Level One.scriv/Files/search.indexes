@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="53">
-            <Title>Gutso The Fat</Title>
-            <Text>Gutso The Fat</Text>
+        <Document ID="39">
+            <Title>Running encounters</Title>
+            <Text>Running encounters
+Some encounter or groups include variations on how to run them, mostly defined as helpful, harmful or disdainful. This idea, borrowed shamelessly from Robin D. Laws’ Armitage Files sourcebook, allows a GM to tailor the pace and style of the dungeon to the needs of her group. Do the PC’s need allies? Use the helpful variant. Are the players mostly interested in fighting? Use the harmful one. Do you want to introduce some themes, or knowledge but want to retain the chance to fight the monsters later? Use the disdainful version. It breaks up the relentless fighting that can be prevalent in mega-dungeons, and allows players who have want to do more roleplaying have their moments. It also serves to create greater tension in the build up to the fights, often giving more reason to why the characters should go off hunting down one particular band of monsters over another.   
+</Text>
         </Document>
         <Document ID="61">
             <Title>Magic Items</Title>
@@ -270,8 +272,7 @@ Wandering Monsters inside corridors
 	8.	3d4 Crawling Claws, waiting to pounce.
 	9.	1d3 Ghouls hunting for scraps.
 	10.	2d4 Giant Rats looking for food.
-	11.	A Rat Swarm fleeing something nasty.
-	12.	1d3 Corpse Rat Swarms, spreading disease.   
+	11.	A Rat Swarm fleeing something nasty.  
 	13.	2d4 Goblin runts and a Goblin Skullcleaver, searching for treasure against orders.
 	14.	1d4 Goblin stabbers and 1 Goblin Hexer, sticking to the shadows.
 	15.	1D6 Goblin Warriors, 2 Goblin Sharpshooters and a Goblin skull cleaver out on patrol.
@@ -705,11 +706,11 @@ The animated brain of an early rival to Thandrak floats in one of the jars. Driv
 Brain in a Jar
 
 80. The Necromancers Device : undead, device, secret door
-A scene of utter nightmare greets you in this chamber. Sitting in the middle of the large room is a machine of evil. Made from wood, bone and brass the device is covered in grabbers, conveyor belts, pistons and gears, all clanking away, while from somewhere inside a dull bell tolls occasionally. At least 20 feet square on each side, the machine glows with a blood red light in places, while necromantic imagery adorns it. Rotting limbs hang from various hooks all over the device, while body parts are fed into it by zombies that work from a pile of corpses. Severed hands swarm over over the device, pulling levers and adjusting dials, while skulls that have sprouted spider like boney legs oversee operation. At the far end, in a belch of foetid gas, a skeletal warrior steps out a picks up a rusty spear, joining the other undead that lurk here. Then they seem to notice you and move to attack.  
+A scene of utter nightmare greets you in this chamber. Sitting in the middle of the large room is a machine of evil. Made from wood, bone and brass the device is covered in grabbers, conveyor belts, huge needles, bubbling cauldrons, pistons and gears, all clanking away, while from somewhere inside a dull bell tolls occasionally. At least 20 feet square on each side, the machine glows with a blood red light in places, while necromantic imagery adorns it. Rotting limbs hang from various hooks all over the device, while body parts are fed into it by zombies that work from a pile of corpses. Severed hands swarm over over the device, pulling levers and adjusting dials, while skulls that have sprouted spider like boney legs oversee operation. At the far end, in a belch of foetid gas, a skeletal warrior steps out a picks up a rusty spear, joining the other undead that lurk here. Then they seem to notice you and move to attack.  
 
-The device is of course highly magical, a mixture of both arcane magic and spells dedicated to the demon lord of undeath. Most clerics and paladins will consider a matter of the upmost urgency to destroy the device, which is the reason why the undead patrol the halls of the dungeon, ever searching for fresh victims to feed into the device. However it’s guarded by its latest creations, and is as powers of it’s own.  
+The device is of course highly magical, a mixture of both arcane magic and spells dedicated to the demon lord of undeath. Most clerics and paladins will consider a matter of the upmost urgency to destroy the device, which is the reason why the undead patrol the halls of the dungeon, ever searching for fresh victims to feed into the device. However it’s guarded by its latest creations, and has powers of it’s own.  
 
-The device can shoot rays of enervating death magic once ever other turn. There are 1d4 rays, and hit anyone within the room who must make a save versus death magic or lose 1d4 points of strength. Anyone reduced to 2 or less strength collapses, unable to move themselves. Obviously heavily armoured characters will fall more quickly. Strength returns at 1 point a turn. 
+The device can shoot rays of enervating death magic once ever other round. There are 1d4 rays, and hit anyone within the room who must make a save versus death magic or lose 1d4 points of strength. Anyone reduced to 2 or less strength collapses, unable to move themselves. Obviously heavily armoured characters will fall more quickly. Strength returns at 1 point a turn. 
 
 The machine counts as creature in terms of trying to destroy it. It has an AC 4/16 HD 8 Hps 40 Saves as a 5th level Cleric and is immune to mind affecting, poison, disease, death magic and take half damage from cold and lightning. 
 
@@ -1562,8 +1563,8 @@ Throughout these description there are notes on making stat checks. These usuall
 	31.	Horrible Black Tentacles
 	32.	Iron Hound
 	33.	Killer Bees
-	34.	Lesser Demon, Grarthrax The Meddler
-	35.	Lesser Demon, Two-Headed Warthog
+	34.	Lesser Demon, Demonic Two-Headed Warthog
+	35.	Lesser Demon, Grarthrax The Meddler
 	36.	Maggot Wraith
 	37.	Ochre Jelly 
 	38.	Pig-faced Orc Killer 
@@ -1578,7 +1579,6 @@ Throughout these description there are notes on making stat checks. These usuall
 	47.	Pig-faced Orc Teeth Caster 
 	48.	Rat, Giant
 	49.	Rat, Swarm
-	50.	Rat, Corpse Swarm
 	51.	Rot spider
 	52.	Shrieker
 	53.	Skeleton
@@ -1613,7 +1613,7 @@ Insect
 Insects have very low, instinctive intelligence. They usually enjoy lowlight vision. 
 
 Undead
-Spirits that have either failed to enter the realm of the dead or have been summoned back are very often malign and hateful of the living. Depending on the strength of will undead go from being of low intelligence to supra-geniuses. They are immune to mind effecting spells such as charm and suggestion. Undead also take 1d8 points of damage per level of the creator from being splashed by holy or blessed water.  
+Spirits that have either failed to enter the realm of the dead or have been summoned back are very often malign and hateful of the living. Depending on the strength of will undead go from being of low intelligence to supra-geniuses. They are immune to mind effecting spells such as sleep, charm, hold person and suggestion. Undead also take 1d8 points of damage per level of the creator from being splashed by holy or blessed water.  
 
 Aberration
 Aberrations are beings from the horror dimensions that exist at the furtherest edges of reality. They some how interface with the dreams of those who come from the material realm, are loosely connected to star beings and astronomy. They come in sizes from tiny to unimaginably vast. Because of their alien nature they are immune to mind affecting spells.  
@@ -1626,6 +1626,9 @@ Oozes are strange creatures, displaying magical, animal, plant and fungoid attri
 
 Minion
 Minions make up many of the armies from below. While the fight just as well as others in their band, they are weak, fall injured, flee or feign death after the first solid hit they receive and only have 1 hit point for game purposes. However they don’t take any damage from things like spells that cause half on a successful save, as long as they make that save.   
+
+Swarm
+Swarms of smaller creatures that band together to overwhelm foes have some special rules. They take double damage from damaging area effect spells, and are immune to spells that effect single targets. 
 
 Angry Owlbear (AC 5/15 HD 5, hp 25, At +4 1d8/1d8/1d6 or screech, Mv 60/20,SV F5 Mr 8, Al N) Magical Animal
 Screech attack: All within 10ft radius of Owlbear makes save versus paralysis or be held for a 1d3 rounds) Monster
@@ -1759,9 +1762,24 @@ Killer Bees (AC 7/13, HD 1d4, Hps 2, At −1 1d3 + poison, Mv 90/30, Sv H0, Mr 9
 Poison, save versus poison or die in 1d6 rounds. Stinging an opponent kills the bee.
 Killer Bees get mighty angry.  
 
+Lesser Demon, Demonic Two-Headed Warthog (AC 7/13, HD 3+3, At +3 2d4/2d4/2d4,Mv 90/30, Sv F3, Mr 10, Al CE) Lesser Demon, Animal
+Attacks with two heads and a stomping attack. It may direct the gore attacks at two separate foes. Regenerates 1d6 hit points a round unless the damage is caused by spells, magical attacks or holy water which causes 1d8 damage. Maybe turned as a wraith. It is helpful to record normal and magical damage to the warthog separately. 
+Only a demon lord would gift such an ill-tempered and treacherous beast to it’s followers.  
+
+Lesser Demon, Grarthrax The Meddler
+(AC 5/15, HD 3, At +2 1d6, Mv 90/30 fly, Sv F3, Mr 8, Al CE) Lesser Demon
+Bite attack which contains paralysis poison, save vs poison or be paralysed for 1d6 turns. May cast Shield, Garble (reversed Tongues) and Weakness (reverse Strength) at will at 9th level. 
+Grarthrax is a three eyed winged imp from the Abyss sent to sow discord and miscommunication. He loves his job, but has waited a long time to be free to do it. 
+
+
 Maggot Wraith (AC 7/13, HD 1, Hps 4, At +0 1d3, Mv 60/20, Sv C1, Mr 12, Al NE) Undead
-Takes no damage from non-magical weapons. Creatures killed by the enervating effects of the Maggot’s burying turn into wraiths in 1d4 rounds. They can be turned as ghouls.
+Takes no damage from non-magical weapons and half from silver. Creatures killed by the enervating effects of the Maggot’s burying turn into wraiths in 1d4 rounds. They can be turned as ghouls.
 Foot long half-real maggots? Ugh! 
+
+Ochre Jelly (AC 8/1w, HD 5, Hps 30, At +4 2d6, Mv 30/10, Sv F5, Mr 12, Al N) Ooze
+Acid dripping tendril does 2d6 damage. Eats through organic matter such as leather and wood in one round. Cloths, shields and armour are affected. Lightning splits Ochre Jellies into 1d4+1 Jellies, each with HD 2, Hps 9 that do At +1 1d6 damage. Ochre jellies can become almost flat and seep through small cracks. 
+Hey kid, that yellow pool over there, don’t go near it. It ate the wood shed last Holyday. 
+  
 
 Pig-faced Orc Killer (AC 6/14, HD 1, Hps 5, At +0 1d6 or 1d4, Mv 90/30, SV F1, Mr 8, Al CE) Humanoid
 Leather armour, shield, hand weapon (Short sword, spear, hand axe, mace), throwing dagger.
@@ -1802,9 +1820,16 @@ Pig-faced Orc Teeth Caster (AC 9/11, HD 2, Hps 8, At +1 1d4, Mv 90/30, Sv M2, Mr
 Fang rod of office. May cast Shocking Grasp, Unseen Servant &amp; Ray Of Enfeeblement once per day. Orcish spell book contains those spells and Detect Magic, Detect Good and ESP which can be swapped out as required after resting as per a 3rd level wizard.
 Orcish wizards apprenticeship is chaotic and self taught, up to a point. However the moment a rare individual makes progress all manner of demons offer patronship.  
 
+Rat, Giant (AC 7/13, HD 1-1, Hp 2, At −1, 1d4 + disease, Mv 120/40, Sv h0, Mr 6, Al N) Animal
+One in twenty giant rats carry living rot disease. Save vs disease or be at −2 to all d20 rolls. Each day make a further save or increase the penalty by 1. If the character gets to −10 they die as their rotting organs completely fail. However each save they succeed they reduce the penalty by 1 and when the get to 0 they are cured. 
+Rats eat anything. You look like anything. 
+
+Rat, Swarm (AC 5/15, HD 3, Hp 10, At +2, 1d8, Mv 90/30, Sv h0, Mr 7, Al N0) Animal, Swarm
+Rat packs 
+
 Rot spider (AC 5/15, HD 3, Hp 12, At +2 2d4 + rot, Mv 90/30, Sv F2, Mr 12, Al NE) Undead
 Rot spiders necromantic venom causes those bitten to make a save against poison each round until they are dead or make the save. Failure means taking an additional 1d4 damage from rot.
-Rot spiders chitin is pitted with festering stinking sores, which they pass on through their venom. Animated as a terror weapon by ancient Necromancers, these giant spiders are thankfully little understood, and apprentice wizards will pay gold for the details of one.   
+Rot spiders chitin is pitted with festering stinking sores, which they pass on through their venom. Animated as a terror weapon by ancient Necromancers, these giant spiders are thankfully little understood. Apprentice wizards will pay gold for the details of one.   
 
 Shrieker (AC 7/13, HD 3, Hp 16, At none, Mv 9/3, Sv F1, Mr 12, Al N) Fungoid
 If a Shrieker detects light within 60 feet or movement within 30 feet it will emitting a loud piercing sound for 1d3 rounds, that will attract Fungal folk. The sound might even stun creatures sensitive to loud noise. Save vs Spells or be held for 1d4 rounds.  
@@ -1826,19 +1851,27 @@ Skeleton, Ramshackle (AC 7/13, HD 1, Hp 1, At +0 1d6, Mv 90/30, Sv F1, Mr 12, Al
 Hand weapon.
 Even bones get old and falter. 
 
+Skeleton, Spiderskull (AC 7/13, HD 1, Hp 3, At +0 1d4, Mv 90/30 Climb 30/10, Sv F1, Mr 12, Al NE) Undead
+Bite d4. Skullspiders can occupy a small space and tend to gather together to overrun foes . Can climb as spiders and will often drop from the ceiling.
+Finger bones for legs, and a nasty skull for a body, this undead creations are creepy abominations.  
+
 Snake, Pit Viper (AC 6/14, HD 2, hp 8, At +1 1d4 + poison, Mv 120/40, Sv F1, Mr 7, Al N) Animal
 Bite injects poison, save or die within 1d6 turns. Has +4 initiative.
-Sometimes called lightning snakes, these reptiles are blindingly fast and treat offense as the best form of defence. 
+Sometimes called lightning snakes, these reptiles are blindingly fast and treat offence as the best form of defence. 
   
 Vile Creeper, Barbed (AC 6/14, HD 1+1, hp 6, At +1 1d6/1d4, Mv 120/40, Sv F1, Mr 8, Al N) Aberration
 Barbed attack, bite attacked. Bite attack only after a successful barb attack, but at +2 to hit. 
-Half leech, half tentacle Vile Creepers are universally hated and hunted by other dungeon denizens despite being inedable. The barbed variety are over a metre long, and other types get much much bigger. 
+Half leech, half tentacle Vile Creepers are universally hated and hunted by other dungeon denizens despite being inedible. The barbed variety are over a metre long, and other types get much much bigger. 
 
 Vile Creeper, Suckered (AC 6/14, HD 1+1, hp 6, At +1 1d4 + poison, Mv 120/40, Sv F1, Mr 8, Al N) Aberration
 Sucker attack does no damage but injects paralysis poison, save or be paralysed for 1d4 turns, bite attacked. 
 Suckered Vile Creepers look even more like leeches than their cousins and have both a toothy maw at one end and a unpleasant series of suckers at the other.
  Wolf (AC 7/13, HD 2+2, hp 11, At +2 1d6, Mv 180/60, Sv F1, Mr 8, Al N) Animal
 Wolves don’t eat people. Or at least nobody has ever returned to report a wolf attack.  
+
+Wraith (AC 3/17, HD 4, hp 16, At +3 1d6, Mv Fly 240/80, Sv F4, Mr 12, Al NE) Undead
+Shivering necromantic touch does d6 damage and drains 1 level of experience or a hit dice from foe. Foes drained to 0 lvl die and rise as Wraiths in 1d4 days. Immune to non-magic weapons and take half damage from silver weapons. 
+Ghostly, malevolent spirits that retain a twisted intelligence and memory of their former selves. Wraiths are often the souls of those who died power hungry and unfulfilled.  
 
 Zombie (AC 8/12, HD 2, hp 10, At +1 1d6, Mv 60/20, Sv F1, Mr 12, AL CE) Undead
 Attacks last, critical hit instantly kills it, two successive hits on an opponent means the Zombie does not need to roll to hit and does 1d6 biting damage a round.
@@ -1872,15 +1905,6 @@ SB END
 
 SB:</Text>
         </Document>
-        <Document ID="46">
-            <Title>npcs</Title>
-        </Document>
-        <Document ID="39">
-            <Title>Running encounters</Title>
-            <Text>Running encounters
-Some encounter or groups include variations on how to run them, mostly defined as helpful, harmful or disdainful. This idea, borrowed shamelessly from Robin D. Laws’ Armitage Files sourcebook, allows a GM to tailor the pace and style of the dungeon to the needs of her group. Do the PC’s need allies? Use the helpful variant. Are the players mostly interested in fighting? Use the harmful one. Do you want to introduce some themes, or knowledge but want to retain the chance to fight the monsters later? Use the disdainful version. It breaks up the relentless fighting that can be prevalent in mega-dungeons, and allows players who have want to do more roleplaying have their moments. It also serves to create greater tension in the build up to the fights, often giving more reason to why the characters should go off hunting down one particular band of monsters over another.   
-</Text>
-        </Document>
         <Document ID="60">
             <Title>New Spells</Title>
             <Text>Contact Zhulbluhb'Tck'Nere
@@ -1906,6 +1930,13 @@ Summon Horrible Black Tentacles
 Duration until used.
 
 This spell is cast upon an object and creates a magical trap upon. Unless a password is spoken while touching the object, horrible black tentacles appear out of the it, one for each level of the caster and attack anyone nearby. The object must be large enough to support the tentacles, which are 6 inches across. The spell lasts until it is activated and the wizard can only have one such spell in operation at a time. See horrible black tentacles in the Star Trap monster manual.  </Text>
+        </Document>
+        <Document ID="53">
+            <Title>Gutso The Fat</Title>
+            <Text>Gutso The Fat</Text>
+        </Document>
+        <Document ID="46">
+            <Title>npcs</Title>
         </Document>
     </Documents>
 </SearchIndexes>
