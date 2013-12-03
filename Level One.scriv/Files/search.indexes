@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="39">
-            <Title>Running encounters</Title>
-            <Text>Running encounters
-Some encounter or groups include variations on how to run them, mostly defined as helpful, harmful or disdainful. This idea, borrowed shamelessly from Robin D. Laws’ Armitage Files sourcebook, allows a GM to tailor the pace and style of the dungeon to the needs of her group. Do the PC’s need allies? Use the helpful variant. Are the players mostly interested in fighting? Use the harmful one. Do you want to introduce some themes, or knowledge but want to retain the chance to fight the monsters later? Use the disdainful version. It breaks up the relentless fighting that can be prevalent in mega-dungeons, and allows players who have want to do more roleplaying have their moments. It also serves to create greater tension in the build up to the fights, often giving more reason to why the characters should go off hunting down one particular band of monsters over another.   
-</Text>
+        <Document ID="53">
+            <Title>Gutso The Fat</Title>
+            <Text>Gutso The Fat</Text>
         </Document>
         <Document ID="61">
             <Title>Magic Items</Title>
@@ -1096,10 +1094,28 @@ Knife or improvised weapon.
 57. Goblin living quarters
 Nondescript living quarters greet you here. A number of goblin children rush around casing mice with sticks. 
 
+The goblins, despite out numbering the party, are cowardly and unlikely to attack. They’ll probably throw things at the party and rush around screaming.
 12 Goblin Runts (AC 7/13, HD 1-1, hp 1, At −1 1d4, Mv 90/30, Sv h0, Mr 6, Al CE) Humanoid, minion
 Knife or improvised weapon.
 
 58. Guard chambers and casino
+Goblins stand around resting on spears watching another group seeming to be playing some sort of game that involves dice and crude wooden miniatures. A great deal of shouting, pointing and dice rolling is going on, all orchestrated by a larger goblin that seems to have the biggest pile of wooden figures. A crude playing board is chalked out on the table they sit around. 
+
+The goblins are so absorbed in their game that don’t notice a party that attempts to quietly enter the room. If they are disturbed they’ll take to their arms, seemingly fired up by whatever the game is that they’re playing. The goblin bully is in charge of the game.
+
+2 Goblin Archer (AC 7/13, HD 1-1, hp 3, At +0 1d6 or 1d4, Mv 90/30, Sv 0h, Mr 7, Al CE) Humanoid
++1 to hit with their short bows due to dexterity adjustment, dagger.  Short bow, 1d12 arrows, daggers.
+
+3 Goblin Warrior (AC 6/14, HD 1-1, hp 4, At −1 1d6, Mv 90/30, Sv 0h, Mr 7, Al CE) Humanoid
+Spear and Shield. 
+
+1 Goblin Stabber (AC 6/14, HD 1-1, hp 3, At −1 1d4, Mv 90/30, Sv T1, Mr 7, Al CE) Humanoid
+Stabbers have the abilities of a 1st level thief. Daggers and throwing knives.
+
+1 Goblin Bully (AC 6/14, HD 2, hp 10, At +1 1d8, Mv 90/30, Sv F1, Mr 8, Al CE) Humanoid
+Battleaxe, shield.
+
+
 59. Musterhall and Chamberlain Gutso The Fat’s room
 60. Guards of the King
 Shriekers
@@ -1530,6 +1546,8 @@ Throughout these description there are notes on making stat checks. These usuall
             <Title>Monster Manual</Title>
             <Text>Monster Manual
 
+Here is a list of creatures that wander the halls or reside in the south section of the first level of the Star Trap dungeon. Statistics are presented after them
+
 	1.	Angry Owlbear
 	2.	Banshaer Hermit
 	3.	Barghest, Juvenile
@@ -1579,22 +1597,45 @@ Throughout these description there are notes on making stat checks. These usuall
 	47.	Pig-faced Orc Teeth Caster 
 	48.	Rat, Giant
 	49.	Rat, Swarm
-	51.	Rot spider
-	52.	Shrieker
-	53.	Skeleton
-	54.	Skeleton Archer
-	55.	Skeleton Legionnaire
-	56.	Skeleton, Ramshackle 
-	57.	Skeleton, Skullspider
-	58.	Snake, Pit Viper
-	59.	Vile Creeper, Barbed
-	60.	Vile Creeper, Suckered
-	61.	Wolf
-	62.	Wraith
-	63.	Zombie
-	64.	Zombie Rotter
-	65.	Zombie, Famine
-	66.	
+	50.	Rot spider
+	51.	Shrieker
+	52.	Skeleton
+	53.	Skeleton Archer
+	54.	Skeleton Legionnaire
+	55.	Skeleton, Ramshackle 
+	56.	Skeleton, Skullspider
+	57.	Snake, Pit Viper
+	58.	Vile Creeper, Barbed
+	59.	Vile Creeper, Suckered
+	60.	Wolf
+	61.	Wraith
+	62.	Zombie
+	63.	Zombie Rotter
+	64.	Zombie, Famine
+
+Monster Statistics
+
+Monsters are presented first using their statistics in the form
+
+Name (AC Descending/Ascending, Hit Dice, example hit points, Attack bonus followed by damage dice, Movement, Save type Morale, Alignment) Monster types.
+
+This is followed by a description of their attacks, special abilities they have and a brief flavour sentence or two to help kickstart the imagination of the Dungeon Master. 
+
+Armour class is described in the old-school descending style and the more modern ascending target system value. The target system has the advantage of allowing the DM to know instantly if a player has hit the creature by scoring equal to or above the armour class with a d20 plus their to hit bonus. 
+
+Hit Dice can be used to describe the level of the creature and accordingly it’s used to generate hit points. If you decide to roll your own hit points, use d8 for each hit dice the creature has.
+
+Hit Points represent the damage the creature can take before falling unconscious, dissolving or dying depending on what the dungeon master thinks will make the situation more interesting. Typically monster manuals do not list the hit points of monsters, but to help the Dungeon Master with random monsters and to add or detract emphasis on the toughness of monsters with the same general hit dice a number is given. Monsters who fit a tougher idea might be slightly higher than average, while weaker ones might have slightly less than average.
+
+The Attack value is the to-hit bonus a monster receives when it rolls a d20 to strike a foe. The damage dice represent the number of attacks the foe can make each round and what damage dice to do. 
+
+Movement is given in how many feet the creature can move in a combat round, first moving as fast as possible and secondly at normal speed. If you’re using miniatures and grid maps, you can divide this by 5 to get the number of grid squares in can move in a round. For a creature to move and attack in the same round it has to use the slower movement rate to figure how much distance it can travel before attacking. 
+
+Save type indicates what saving throws the creature would have if was a PC. This uses F to represent the Fighter classes table, C to represent the Cleric classes, T for the Thief classes table and M for the Magic-user table. Nm means normal man. 
+
+Morale indicates how brave the creatures are. They make morale roll, on a d10 at three points during a combat, once when they are attacked by superior numbers, once when the are down to half their hit points and once when an ally is dropped to zero hit points in their proximity. Dungeon masters, as always, can ignore this is favour of fun and story. If they score below their morale they will retreat, flee, surrender or disappear depending on their nature. 
+
+Alignment. These rules use the extended organised or lawful - disorganised or chaotic and good-evil axis. Organised creatures are more likely to follow a plan, look to their leaders and work well together when directed. Chaotic creatures care little for orders and can work counter productively to each other, however they adapt well to changing environments and don’t need to be led. Good creatures are sympathetic to humans and demi-humans, neutral creatures have a wait and see attitude, and react often depending what advantages they can gain, while evil creatures see humans and their like as foes. Some creatures, such as demons, drow and undead, are intrinsically and unremittingly evil, while others like goblins and orcs are just subjectively or culturally evil.   
 
 Monster types.
 
@@ -1613,7 +1654,7 @@ Insect
 Insects have very low, instinctive intelligence. They usually enjoy lowlight vision. 
 
 Undead
-Spirits that have either failed to enter the realm of the dead or have been summoned back are very often malign and hateful of the living. Depending on the strength of will undead go from being of low intelligence to supra-geniuses. They are immune to mind effecting spells such as sleep, charm, hold person and suggestion. Undead also take 1d8 points of damage per level of the creator from being splashed by holy or blessed water.  
+Spirits that have either failed to enter the realm of the dead or have been summoned back are very often malign and hateful of the living. Depending on the strength of will undead go from being of low intelligence to geniuses. They are immune to mind effecting spells such as sleep, charm, hold person and suggestion. Undead also take 1d8 points of damage per level of the creator from being splashed by holy or blessed water.  
 
 Aberration
 Aberrations are beings from the horror dimensions that exist at the furtherest edges of reality. They some how interface with the dreams of those who come from the material realm, are loosely connected to star beings and astronomy. They come in sizes from tiny to unimaginably vast. Because of their alien nature they are immune to mind affecting spells.  
@@ -1625,7 +1666,7 @@ Ooze
 Oozes are strange creatures, displaying magical, animal, plant and fungoid attributes. They are almost always non-intelligent and ever hungry for organic material to consume. They are immune to mind affecting spells universally and often have other immunities too. 
 
 Minion
-Minions make up many of the armies from below. While the fight just as well as others in their band, they are weak, fall injured, flee or feign death after the first solid hit they receive and only have 1 hit point for game purposes. However they don’t take any damage from things like spells that cause half on a successful save, as long as they make that save.   
+Minions make up many of the armies from below. While they fight just as well as others in their band, they are weak and will fall injured, flee or feign death after the first solid hit they receive and only have 1 hit point for game purposes. However they don’t take any damage from things like spells that cause half on a successful save, as long as they make that save.   
 
 Swarm
 Swarms of smaller creatures that band together to overwhelm foes have some special rules. They take double damage from damaging area effect spells, and are immune to spells that effect single targets. 
@@ -1638,9 +1679,9 @@ Banshaer Hermit (AC 5/15, HD 3+3, hp 17, At +3 1d8, Mv 90/30 fly 90/30, Sv C5, M
 May cast the following spells as a 5th level druid : Insect swarm, Barkskin &amp; Heat Metal. 
 Odd and solitary, these tall humanoid grasshoppers follow strange rituals and collect unusual things.
 
-Barghest, Juvenile (AC 4/16, HD 3, hp 14, At +2 1d8+2 or 1d6+1, Mv 90/30 or 180/60, Mr 10, Al CE) Lesser Demon
+Barghest, Juvenile (AC 4/16, HD 3, hp 14, At +2 1d8+2 or 1d6+1, Mv 90/30 or 180/60, Sv F3 Mr 10, Al CE) Lesser Demon
 May switch each turn between Goblin king and wolf form. In Goblin king form they may cast Protection from Good 10’r at will. In wolf form they may cast Invisibility once a day. +1 Battle axe. 
-Barghests are demonic shapeshifters from the nether planes. They feed and grow on the souls of the good. This is just a younger one.   
+Barghests are demonic shapeshifters from the nether planes. They feed and grow on the souls of the good. This is just a young one.   
 
 Beetle, Fire (AC 4/16, HD 1+2, Hp 7, At +1 2d4, Mv 60/20, Sv F1, Mr 7 Al N) Insect
 When in danger fire beetle pump chemicals into their head and body that cause them to appear to burning up inside, and make their bite extremely hot. These gland may be removed from a dead beetle and used as an unquenchable torch for 1d6 days. 
@@ -1653,7 +1694,7 @@ Brain In A Jar (AC 0/20, HD 3, Hp 12, At none, Mv 90/30 levitation, Sv M5, Mr 8 
 The Brain is a 5th level wizard, and can cast the following spells: Charm Person x2, Unseen Servant, Amnesia, Ray Of Enfeeblement, Suggestion. The Jar acts as a Broach Of Shield with 101 charges. Communicates via Telepathy and believes incorrectly it can read minds. He can use the Unseen Servant to throw objects that have +0 to hit and do 1d4 damage if they strike the target, up to a range of 20 ft feet away.
 Insane, paranoid, egomaniacal and delusional, the brain in a jar is more fun to play with than a box full of kittens.  
 
-Centipede, Giant (AC 8/12, HD 1d4, Hp 1, At +0 1d4 + poison, Mv 60/20, Sv H0, Mr 7, Al N) Insect
+Centipede, Giant (AC 8/12, HD 1d4, Hp 1, At -1 1d4 + poison, Mv 60/20, Sv H0, Mr 7, Al N) Insect
 A giant centipede’s poison cause the it’s victim to be sick for 1d6 days, and they half all their to dice rolls and movement rates while affected. The poison is mild, so +1 to save and takes 1d4 rounds to take affect.
 One day these feet are going to walk all over you.
 
@@ -1669,7 +1710,7 @@ Dimension Shambler (AC 7/13, HD 2, Hp 9, At +1 1d4/1d4, Mv 90/30, Sv F1, Mr 9, A
 May cast Dimension Door at will.
 Dimension shamblers appear as gorilla-like bundles of ropes and tentacles. They seem not to recognise a difference between intelligent beings, flora and beasts, consuming whatever they come across. Their common modus operandi is to Dimenion Door in groups in front and behind their victims. Stargazers postulate that they do not digest food but transport to whatever horror dimension they come from for something else to eat.  
 
-Farspawn Returned (AC 4/16, HD 4, Hp 18, At +3 1d4/1d4/1d6, Mv 90/30, Sv F4 Mr 12, Al CE) Aberration
+Farspawn Returned (AC 4/16, HD 4, Hp 18, At +3 1d4/1d4/1d6, Mv 90/30, Sv T4 Mr 12, Al CE) Aberration
 Attacks with two claws and a bite. The returned has the abilities of a 4th level thief and also may cast confusion once a day as a 10th level magic user. It may use it’s backstab ability on all it’s attacks when able to do so.
 It’s inevitable that people find an entrance to the Far Realm, but when they make it back it’s a rare event indeed and they are utterly, and chillingly changed. Madness, many eyes, and horrible purple rubbery skin marks them apart from who they might have once been.
 
@@ -1684,14 +1725,14 @@ Teeth Eels slip and slide through dimensions eating anything they come across wi
 Fungal Guard (AC 8/12, HD 2+2, hp 10, At +2 1d6, Mv 60/20, Sv F1, Mr 7, Al N) Fungoid
 Fungal guards hit you with clubs until you go away.
 
-Fungal Herder (AC 8/12, HD 1+1, hp 3, At +1 1d4, Mv 60/20, Sv H0, Mr 6, Al N) Fungoid
+Fungal Herder (AC 8/12, HD 1+1, hp 5, At +1 1d4, Mv 60/20, Sv H0, Mr 6, Al N) Fungoid
 The mushroom herders are experts in growing all sorts of fungi.  
 
-Fungal Priest Of Decay (AC 8/12, HD 3+3, hp 15, At +3 1d6, Mv 60/20, Sv C1, Mr 7, Al N) Fungoid
+Fungal Priest Of Decay (AC 8/12, HD 3+3, hp 17, At +3 1d6, Mv 60/20, Sv C1, Mr 7, Al N) Fungoid
 May cast bless once a day. The priest of decay may lose 1d4 hit points and add 1d4 hit points to all fungoid allies with 20’ at will.  
 Priests of decay rot themselves for the good of their colony.
 
-Fungus King (AC 7/13, HD 4+4, hp 22, At +4 1d6/1d6, Mv 60/20, Sv F4, Mr 9, Al N) Fungoid
+Fungus King (AC 7/13, HD 4+4, hp 25, At +4 1d6/1d6, Mv 60/20, Sv F4, Mr 9, Al N) Fungoid
 May cast charm person, sleep and protection from evil 10’ radius and speak with plants (fungi) once a day. All Fungus folk with 20’ radius of the Fungus King gain +1 to saves. Communicates using telepathy. 
 The fungus king is the most inquisitive fungus folk of their colony, and it just keeps growing because of it. It’s spores have various mind-altering effects.  
 
@@ -1704,7 +1745,7 @@ Ghoul (AC 6/4, HD 2, hp 9, At +1 1-3/1-3/1-3, Mv 90/30, Sv F2, Mr 9, Al CE) Unde
 Any successful attack causes paralysis on a failed save for 2d4 turns. Any form form of curative magic removes the paralysis. 
 Taunt grey skin, a screaming face and claws like iron, the ghoul is 
 
-Goblin Archer (AC 7/13, HD 1-1, hp 3, At −1 1d6 or 1d4, Mv 90/30, Sv 0h, Mr 7, Al CE) Humanoid
+Goblin Archer (AC 7/13, HD 1-1, hp 3, At +0 1d6 or 1d4, Mv 90/30, Sv 0h, Mr 7, Al CE) Humanoid
 +1 to hit with their short bows due to dexterity adjustment, dagger.  Short bow, 1d12 arrows, daggers.
 Goblins with good eyes and steady aim are given short bows and told to stand at the back shooting wizards. They enjoy this work immensely.   
 
@@ -1716,7 +1757,7 @@ Goblin Bully (AC 6/14, HD 2, hp 10, At +1 1d8, Mv 90/30, Sv F1, Mr 8, Al CE) Hum
 Battleaxe, shield. 
 Goblin bullies are the under bosses of the Goblin king, and bullying is their speciality
 
-Goblin Hexamancer (AC 7/13, HD 1-1, hp 3, At −1 1d4 or spell, Mv 90/30, Sv M1, Mr 8, Al CE) Humanoid
+Goblin Hexamancer (AC 7/13, HD 1-1, hp 3, At +0 1d4 or spell, Mv 90/30, Sv M1, Mr 8, Al CE) Humanoid
 May cast from the following lists once a day, 1-2 Darkness and Ventriloquism or 3-4 Sleep and Hold Portal. May use devices as a magic user. Dagger. 
 Hexamancers are often deranged
 
@@ -1724,7 +1765,7 @@ Goblin King (AC 3/17, HD 3, hp 15, At +2 1d8, Mv 90/30, Sv F3, Mr 9, Al CE) Huma
 Battleaxe, chainmail, shield. Maybe order 1d4 goblins a round to fight with more vigor, these goblins gain +1 to hit for that round. 
 Big, fat and not at all regal. Goblin kings are top of the heap, and lord it over everyone else.
 
-Goblin Runts (AC 7/13, HD 1-1, hp 1, At −1 1d4, Mv 90/30, Sv h0, Mr 6, Al CE) Humanoid, minion
+Goblin Runts (AC 7/13, HD 1d4, hp 1, At −1 1d4, Mv 90/30, Sv h0, Mr 6, Al CE) Humanoid, minion
 Knife or improvised weapon.
 Runts are the lowest goblin dregs capable of holding a weapon. 
 
@@ -1744,10 +1785,10 @@ Goblin Warrior (AC 6/14, HD 1-1, hp 4, At −1 1d6, Mv 90/30, Sv 0h, Mr 7, Al CE
 Spear, hand axe, club or short sword, Shield. 
 Goblin warriors make up the bulk of goblin forces, having survived enough clan brawls to be considered useful by their king. 
 
-Green Slime (AC na, HD 2, hp 6, At +1 special, Mv 3/1, Sv F1, Mr 12, Al N) Ooze
+Green Slime (AC na, HD 2, hp 6, At +1 special, Mv 1/1, Sv F1, Mr 12, Al N) Ooze
 Green slime dissolves anything non-magical it touches in 1d4 rounds, including armour and bodies.  They are immune to mind affecting spells, disease, non-magical weapons, cold and lighting. Fire does double damage and cure disease spells kills them instantly.
 
-Grey Ooze (AC 8/12, HD 3, hp 11, At +2 2d8, Mv 10/3, Sv F2, Mr 12, Al N) Ooze
+Grey Ooze (AC 8/12, HD 3, hp 11, At +2 2d8, Mv 3/3, Sv F2, Mr 12, Al N) Ooze
 The first hit from a Grey Ooze doesn’t do damage but destroys the armour of the victim, if they are wearing any. They are immune to mind affecting spells, disease, fire and cold.  Grey is the colour of stone and grey is the colour of your doom.
 
 Horrible Black Tentacles (AC 5/15, HD 1, Hps 1, At +0 1d6 + slow, Mv special, Sv F1, Mr 12, Al N) Aberration
@@ -1905,6 +1946,15 @@ SB END
 
 SB:</Text>
         </Document>
+        <Document ID="46">
+            <Title>npcs</Title>
+        </Document>
+        <Document ID="39">
+            <Title>Running encounters</Title>
+            <Text>Running encounters
+Some encounter or groups include variations on how to run them, mostly defined as helpful, harmful or disdainful. This idea, borrowed shamelessly from Robin D. Laws’ Armitage Files sourcebook, allows a GM to tailor the pace and style of the dungeon to the needs of her group. Do the PC’s need allies? Use the helpful variant. Are the players mostly interested in fighting? Use the harmful one. Do you want to introduce some themes, or knowledge but want to retain the chance to fight the monsters later? Use the disdainful version. It breaks up the relentless fighting that can be prevalent in mega-dungeons, and allows players who have want to do more roleplaying have their moments. It also serves to create greater tension in the build up to the fights, often giving more reason to why the characters should go off hunting down one particular band of monsters over another.   
+</Text>
+        </Document>
         <Document ID="60">
             <Title>New Spells</Title>
             <Text>Contact Zhulbluhb'Tck'Nere
@@ -1930,13 +1980,6 @@ Summon Horrible Black Tentacles
 Duration until used.
 
 This spell is cast upon an object and creates a magical trap upon. Unless a password is spoken while touching the object, horrible black tentacles appear out of the it, one for each level of the caster and attack anyone nearby. The object must be large enough to support the tentacles, which are 6 inches across. The spell lasts until it is activated and the wizard can only have one such spell in operation at a time. See horrible black tentacles in the Star Trap monster manual.  </Text>
-        </Document>
-        <Document ID="53">
-            <Title>Gutso The Fat</Title>
-            <Text>Gutso The Fat</Text>
-        </Document>
-        <Document ID="46">
-            <Title>npcs</Title>
         </Document>
     </Documents>
 </SearchIndexes>
