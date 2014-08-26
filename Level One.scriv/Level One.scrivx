@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2014-08-26 09:18:20 +0100">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2014-08-26 16:34:54 +0100">
     <Binder>
         <BinderItem ID="0" Type="DraftFolder" Created="2013-07-02 17:21:02 +0100" Modified="2013-07-02 17:21:02 +0100">
             <Title>Draft</Title>
@@ -671,17 +671,17 @@
                         <TextSelection>2155,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="84" Type="Text" Created="2013-07-02 17:27:35 +0100" Modified="2014-08-22 15:53:31 +0100">
+                <BinderItem ID="84" Type="Text" Created="2013-07-02 17:27:35 +0100" Modified="2014-08-26 09:57:34 +0100">
                     <Title>Fungus Caves (35-46) </Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>14355,0</TextSelection>
+                        <TextSelection>14636,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="85" Type="Text" Created="2013-07-02 17:28:15 +0100" Modified="2014-08-22 15:59:39 +0100">
+                <BinderItem ID="85" Type="Text" Created="2013-07-02 17:28:15 +0100" Modified="2014-08-26 10:58:33 +0100">
                     <Title>Domain Of The First To Eat Clan (47-65) </Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -689,7 +689,7 @@
                         <IconFileName>To Do.tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>14920,0</TextSelection>
+                        <TextSelection>14990,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="86" Type="Text" Created="2013-07-02 17:28:37 +0100" Modified="2013-10-23 15:46:04 +0100">
@@ -942,7 +942,7 @@
                         <TextSelection>389,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="111" Type="Text" Created="2013-07-03 11:16:04 +0100" Modified="2013-11-26 15:29:20 +0000">
+                <BinderItem ID="111" Type="Text" Created="2013-07-03 11:16:04 +0100" Modified="2014-08-26 16:34:54 +0100">
                     <Title>Monster Manual</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
