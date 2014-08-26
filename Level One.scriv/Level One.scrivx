@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2014-08-22 13:10:04 +0100">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2014-08-26 09:18:20 +0100">
     <Binder>
         <BinderItem ID="0" Type="DraftFolder" Created="2013-07-02 17:21:02 +0100" Modified="2013-07-02 17:21:02 +0100">
             <Title>Draft</Title>
@@ -625,70 +625,71 @@
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
-                        <IconFileName>To Do.tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>19488,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="80" Type="Text" Created="2013-07-02 17:25:28 +0100" Modified="2014-08-22 13:10:02 +0100">
+                <BinderItem ID="80" Type="Text" Created="2013-07-02 17:25:28 +0100" Modified="2014-08-22 14:36:36 +0100">
                     <Title>Angry Owlbear (17-18)</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1718,0</TextSelection>
+                        <TextSelection>3275,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="81" Type="Text" Created="2013-07-02 17:25:33 +0100" Modified="2014-02-06 13:49:53 +0000">
+                <BinderItem ID="81" Type="Text" Created="2013-07-02 17:25:33 +0100" Modified="2014-08-22 15:29:06 +0100">
                     <Title>Playground Of Osenzenein (19-29)</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3764,0</TextSelection>
+                        <TextSelection>5661,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="82" Type="Text" Created="2013-07-02 17:25:45 +0100" Modified="2013-07-03 14:31:49 +0100">
+                <BinderItem ID="82" Type="Text" Created="2013-07-02 17:25:45 +0100" Modified="2014-08-22 15:30:29 +0100">
                     <Title>The Pit : wind, depth (30)</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>833,0</TextSelection>
+                        <TextSelection>1153,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="83" Type="Text" Created="2013-07-03 14:31:15 +0100" Modified="2013-07-03 14:31:17 +0100">
+                <BinderItem ID="83" Type="Text" Created="2013-07-03 14:31:15 +0100" Modified="2014-08-22 15:35:56 +0100">
                     <Title>Forgotten Chambers Of Ancient Seers (31-34)</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>To Do.tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,45</TextSelection>
+                        <TextSelection>2155,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="84" Type="Text" Created="2013-07-02 17:27:35 +0100" Modified="2013-07-02 17:31:22 +0100">
+                <BinderItem ID="84" Type="Text" Created="2013-07-02 17:27:35 +0100" Modified="2014-08-22 15:53:31 +0100">
                     <Title>Fungus Caves (35-46) </Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>18281,0</TextSelection>
+                        <TextSelection>14355,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="85" Type="Text" Created="2013-07-02 17:28:15 +0100" Modified="2013-11-27 09:42:56 +0000">
+                <BinderItem ID="85" Type="Text" Created="2013-07-02 17:28:15 +0100" Modified="2014-08-22 15:59:39 +0100">
                     <Title>Domain Of The First To Eat Clan (47-65) </Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>To Do.tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>18111,0</TextSelection>
+                        <TextSelection>14920,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="86" Type="Text" Created="2013-07-02 17:28:37 +0100" Modified="2013-10-23 15:46:04 +0100">
@@ -946,6 +947,7 @@
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>To Do.tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>9652,0</TextSelection>
@@ -1260,7 +1262,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-07-02 17:21:02 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="3" Date="2014-08-22 11:12:48 +0100"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2014-08-26 09:18:04 +0100"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
