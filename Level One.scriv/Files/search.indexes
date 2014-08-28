@@ -455,7 +455,7 @@ Here is a list of creatures that wander the halls or reside in the south section
 	24.	Goblin Runts
 	25.	Goblin Skull Cleavers
 	26.	Goblin Stabbers
-	27.	Goblin Strategist
+	27.	Goblin Infernal Strategist
 	28.	Goblin Warrior
 	29.	Green Slime
 	30.	Grey Ooze
@@ -496,28 +496,6 @@ Here is a list of creatures that wander the halls or reside in the south section
 
 Monster Statistics
 
-Monsters are presented first using their statistics in the form
-
-Name (AC Descending/Ascending, Hit Dice, example hit points, Attack bonus followed by damage dice, Movement, Save type Morale, Alignment) Monster types.
-
-This is followed by a description of their attacks, special abilities they have and a brief flavour sentence or two to help kickstart the imagination of the Dungeon Master. 
-
-Armour class is described in the old-school descending style and the more modern ascending target system value. The target system has the advantage of allowing the DM to know instantly if a player has hit the creature by scoring equal to or above the armour class with a d20 plus their to hit bonus. 
-
-Hit Dice can be used to describe the level of the creature and accordingly it’s used to generate hit points. If you decide to roll your own hit points, use d8 for each hit dice the creature has.
-
-Hit Points represent the damage the creature can take before falling unconscious, dissolving or dying depending on what the dungeon master thinks will make the situation more interesting. Typically monster manuals do not list the hit points of monsters, but to help the Dungeon Master with random monsters and to add or detract emphasis on the toughness of monsters with the same general hit dice a number is given. Monsters who fit a tougher idea might be slightly higher than average, while weaker ones might have slightly less than average.
-
-The Attack value is the to-hit bonus a monster receives when it rolls a d20 to strike a foe. The damage dice represent the number of attacks the foe can make each round and what damage dice to do. 
-
-Movement is given in how many feet the creature can move in a combat round, first moving as fast as possible and secondly at normal speed. If you’re using miniatures and grid maps, you can divide this by 5 to get the number of grid squares in can move in a round. For a creature to move and attack in the same round it has to use the slower movement rate to figure how much distance it can travel before attacking. 
-
-Save type indicates what saving throws the creature would have if was a PC. This uses F to represent the Fighter classes table, C to represent the Cleric classes, T for the Thief classes table and M for the Magic-user table. Nm means normal man. 
-
-Morale indicates how brave the creatures are. They make morale roll, on a d10 at three points during a combat, once when they are attacked by superior numbers, once when the are down to half their hit points and once when an ally is dropped to zero hit points in their proximity. Dungeon masters, as always, can ignore this is favour of fun and story. If they score below their morale they will retreat, flee, surrender or disappear depending on their nature. 
-
-Alignment. These rules use the extended organised or lawful - disorganised or chaotic and good-evil axis. Organised creatures are more likely to follow a plan, look to their leaders and work well together when directed. Chaotic creatures care little for orders and can work counter productively to each other, however they adapt well to changing environments and don’t need to be led. Good creatures are sympathetic to humans and demi-humans, neutral creatures have a wait and see attitude, and react often depending what advantages they can gain, while evil creatures see humans and their like as foes. Some creatures, such as demons, drow and undead, are intrinsically and unremittingly evil, while others like goblins and orcs are just subjectively or culturally evil.   
-
 Monster types.
 
 Animal 
@@ -552,123 +530,393 @@ Minions make up many of the armies from below. While they fight just as well as 
 Swarm
 Swarms of smaller creatures that band together to overwhelm foes have some special rules. They take double damage from damaging area effect spells, and are immune to spells that effect single targets. 
 
-Angry Owlbear (AC 5/15 HD 5, hp 25, At +4 1d8/1d8/1d6 or screech, Mv 60/20,SV F5 Mr 8, Al N) Magical Animal
-Screech attack: All within 10ft radius of Owlbear makes save versus paralysis or be held for a 1d3 rounds) Monster
+Angry Owlbear - See Dungeon Masters basic rules. The Angry Owlbear however has Dex 8 (-1) and moves at 30 feet. It also has the following attack: Screech (recharge 5-6) a piercing sonic 15ft cone of sound that causing anyone in it’s area of effect to become stunned unless they make a Con DC 15 saving throw. 
 The angry Owlbear is ancient and shuffles with a painful limp, but it’s screech is so piercing it stuns it’s foes for long enough to eat them.
 
-Banshaer Hermit (AC 5/15, HD 3+3, hp 17, At +3 1d8, Mv 90/30 fly 90/30, Sv C5, Mr 8, Al N) Humanoid, Insect
-May cast the following spells as a 5th level druid : Insect swarm, Barkskin &amp; Heat Metal. 
+Banshaer Hermit - medium humanoid (Banshaer), neutral
+Armour Class 16 (natural)
+Hit Points 34 (5d8 + 10)
+Speed 40 ft.
+STR 10 (+0) DEX 14 (+2) CON 14 (+2) INT 10 (+0) WIS 16(+3) CHA 6(-2)
+Saving Throws Int +3, Wis +6
+Skills Nature +3, Survival +6, Perception +4
+Senses dark vision 60ft, passive Perception 14
+Languages Common, Fungalish, Goblin, Banshaer
+Challenge 2 (450XP)
+
+Druidic spell casting as a 5th level druid. Spell save DC 14, +6 to hit. Slots 4/3/2
+Spells known: (cantrips) Druidcraft, Poison Spray, Shillelagh, Resistance, (1st) Animal Friendship, Cure Wounds, Detect Poison and Disease, Entangle, Speak with Animals, (2nd) Animal Messenger, Hold Person, Lesser Restoration, Spike Growth, (3rd) Dispel Magic, Meld into Stone, Sleet Storm.   
+Actions
+Grasshopper Jump. May cast Jump at will as a bonus action. 
+
+Shrink. As a bonus action may shrink down to the size of a tiny grasshopper. 
+
+Multiattack. The Banshaer can make four Arm Strike attacks.  
+Arm Strike. Melee weapon attack: +3 to hit, 5ft reach, one target. Hit 4 (1d6+1) bludgeoning strike
+
 Odd and solitary, these tall humanoid grasshoppers follow strange rituals and collect unusual things.
 
-Barghest, Juvenile (AC 4/16, HD 3, hp 14, At +2 1d8+2 or 1d6+1, Mv 90/30 or 180/60, Sv F3 Mr 10, Al CE) Lesser Demon
-May switch each turn between Goblin king and wolf form. In Goblin king form they may cast Protection from Good 10’r at will. In wolf form they may cast Invisibility once a day. +1 Battle axe. 
-Barghests are demonic shapeshifters from the nether planes. They feed and grow on the souls of the good. This is just a young one.   
+-----
 
-Beetle, Fire (AC 4/16, HD 1+2, Hp 7, At +1 2d4, Mv 60/20, Sv F1, Mr 7 Al N) Insect
-When in danger fire beetle pump chemicals into their head and body that cause them to appear to burning up inside, and make their bite extremely hot. These gland may be removed from a dead beetle and used as an unquenchable torch for 1d6 days. 
+Barghest, Juvenile - medium lesser demon, chaotic evil
+
+Armour Class 16 (leather armour / natural)
+Hit Points 34 (5d8 + 10)
+Speed 30 ft or 40 ft in Wolf form.
+STR 16 (+3) DEX 14 (+2) CON 14 (+2) INT 10 (+0) WIS 10(+0) CHA 14(+2)
+Skills Intimidation +5, Survival +3, Perception +3
+Damage resistance poison, fire and cold
+Damage immunities disease
+Senses dark vision 60ft, passive Perception 13
+Languages Common, Goblin, Abyssal 
+Challenge 2 (450XP)
+Improved Critical. Barghest’s weapon attacks score a critical on a roll of 19 or 20
+Actions
+
+Shape change. Barghests can swapped between the form of a Goblin King and a large Wolf. 
+Battle Axe (Goblin Form). Melee weapon attack:+7 to hit, reach 5ft, one target. Hit: 8 (1d8+4)
+Bane (Goblin Form). The Barghest can cast Bane at will with a DC 13 difficulty. 
+Invisibility (Wolf Form). In Wolf form a Barghest can cast Invisibility at will. 
+Bite (Wolf Form). Melee weapon attack: +6 to hit, reach 5ft, one target. Hit: 7 (2d4+3) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+
+Barghests are demonic shapeshifters from the nether planes. They feed and grow on the souls of the good. This is just a young one. +1 magic Battle Axe  
+
+-----
+Beetle, Fire - See Dungeon Masters basic rules for Giant Fire Beetle 
 If you’ve never seen a fire beetle fire up, you’ll rightly run away the first time.
 
-Beetle, Boring (AC 3/17, HD 5, Hp 22, At +4 5d4, Mv 60/20, Sv F5, Mr 7 Al N) Insect
+Beetle, Boring - large animal, unaligned
+Armour Class 15 (natural)
+Hit Points 35 (5d8 + 10)
+Speed 30 ft 
+STR 16 (+3) DEX 10 (+0) CON 14 (+2) INT 1 (-5) WIS 10(+0) CHA 3(-4)
+Skills Intimidation +5, Survival +3, Perception +3
+Senses Blindsight 40ft, passive Perception 10
+Challenge 1 (200XP)
+Actions
+Bore. Melee weapon attack: +5 to hit, reach 5ft, one target. Hit: 10 (2d6+3) piercing damage.  
+
 Boring beetles are huge, 9 feet long and dark blue with rainbow sheen. It’s mouthpart is a riot of hooks and mandibles, but apart from that they are nothing special.  
+——
 
-Brain In A Jar (AC 0/20, HD 3, Hp 12, At none, Mv 90/30 levitation, Sv M5, Mr 8 Al CE) Undead
-The Brain is a 5th level wizard, and can cast the following spells: Charm Person x2, Unseen Servant, Amnesia, Ray Of Enfeeblement, Suggestion. The Jar acts as a Broach Of Shield with 101 charges. Communicates via Telepathy and believes incorrectly it can read minds. He can use the Unseen Servant to throw objects that have +0 to hit and do 1d4 damage if they strike the target, up to a range of 20 ft feet away.
-Insane, paranoid, egomaniacal and delusional, the brain in a jar is more fun to play with than a box full of kittens.  
+Brain In A Jar Small Undead, chaotic evil
+Armour Class 20 (natural)
+Hit Points 15 (5d6)
+Speed 20 ft (levitation)
+STR 2 (-4) DEX 16 (+3) CON 10 (+0) INT 18 (+4) WIS 8(-1) CHA 10(+0)
+Skills Arcane +7, Deception +3, Insight +2 
+Senses Darkvision 40ft, passive Perception 11
+Languages Common, Elven, Abyssal. The Brain communicates via Telepathy and believes incorrectly it can read minds.  
+Challenge 2 (450XP)
 
-Centipede, Giant (AC 8/12, HD 1d4, Hp 1, At -1 1d4 + poison, Mv 60/20, Sv H0, Mr 7, Al N) Insect
-A giant centipede’s poison cause the it’s victim to be sick for 1d6 days, and they half all their to dice rolls and movement rates while affected. The poison is mild, so +1 to save and takes 1d4 rounds to take affect.
-One day these feet are going to walk all over you.
+Spellcasting. Brain In A Jar is a 5th level Necromancer (wizard). Spell save DC 14 +6 to hit with spell attacks, 4/3/2. The Brain In A Jar doesn’t require materials or soma tics to cast any of it’s spells. 
+Spells known. (Cantrips) Dancing lights, Friends, Mage Hand, Minor Illusion. Prestidigitation, Poison Spray. (1st) Charm Person, Grease, Ray Of Sickness, Sleep, Witch Bolt. (2nd) Darkness, Hold Person, Magic Mouth, Ray Of Enfeeblement, Suggestion, Web. (3rd) Animate Dead, Counterspell, Stinking Cloud, Vampiric Touch
 
-Crawling Claw/Severed Hand (AC 6/14, HD 1d4, Hp 1, At -1 1d4,Mv 60/20,  Sv F1, Mr 12, Al NE) Undead, Minion
-Up to 5 Claws can occupy a single spot adjacent to an opponent before leaping onto them.
-Bothersome on their own, a plague of claws can overwhelm the mightiest of heroes.
+Grim Harvest. Brain In A Jar regains hit points every time a spell it casts kills an opponent. 2x level in hp’s for non-necromancy spells, and 3x level for necromancy spells.
 
-Demonic Two-Headed Warthog (AC 7/13, HD 3+3, At +3 2d4/2d4/2d4,Mv 90/30, Sv F3, Mr 9, Al CE) Lesser Demon, Animal
-Attacks with two heads and a stomping attack. It may direct the gore attacks at two separate foes. Regenerates 1d6 hit points a round unless the damage is caused by spells, magical attacks or holy water which causes 1d8 damage. Maybe turned as a wraith. It is helpful to record normal and magical damage to the warthog separately. 
-Only a demon lord would gift such an ill-tempered and treacherous beast to it’s followers.  
+Protective Jar. The Jar the brain sits in has a constant Shield spell on it and provides AC 20. However a critical hit smashes the jar, puts the brain on 1 hit point and makes it prone.
 
-Dimension Shambler (AC 7/13, HD 2, Hp 9, At +1 1d4/1d4, Mv 90/30, Sv F1, Mr 9, Al CN) Aberration
-May cast Dimension Door at will.
-Dimension shamblers appear as gorilla-like bundles of ropes and tentacles. They seem not to recognise a difference between intelligent beings, flora and beasts, consuming whatever they come across. Their common modus operandi is to Dimenion Door in groups in front and behind their victims. Stargazers postulate that they do not digest food but transport to whatever horror dimension they come from for something else to eat.  
+The Brain communicates via Telepathy and believes incorrectly it can read minds. 
+Insane, paranoid, egomaniacal and delusional, the brain in a jar is as mad as a box of frogs, and more fun to play with than bag full of kittens.  
+——
 
-Farspawn Returned (AC 4/16, HD 4, Hp 18, At +3 1d4/1d4/1d6, Mv 90/30, Sv T4 Mr 12, Al CE) Aberration
-Attacks with two claws and a bite. The returned has the abilities of a 4th level thief and also may cast confusion once a day as a 10th level magic user. It may use it’s backstab ability on all it’s attacks when able to do so.
-It’s inevitable that people find an entrance to the Far Realm, but when they make it back it’s a rare event indeed and they are utterly, and chillingly changed. Madness, many eyes, and horrible purple rubbery skin marks them apart from who they might have once been.
+Centipede, Giant - See Giant Centipede in the Dungeon Masters basic rules 
+ 
+Crawling Claw/Severed Hand Tiny undead, neutral evil
+Armour Class 12 (natural)
+Hit Points 2 (1d4)
+Speed 30 ft 
+STR 3 (-4) DEX 14 (+2) CON 10 (+0) INT 6 (-2) WIS 8(-1) CHA 5(-3)
+Damage Immunities poison
+Condition Immunities poison
+Senses Darkvision 60ft, passive Perception 9
+Languages Understands common
+Challenge 0 (10XP)
+Actions
+Claw: Melee weapon attack +0, 5ft reach, one target. Hit: 1 slashing damage
+Bothersome and very creepy on their own, a plague of rotting claws and hands can overwhelm the mightiest of heroes.
+——
 
-Farspawn Mind Worm (AC 5/15, HD 1, Hp 4, At +0 1pt*, Mv 90/30 Levitation, Sv F1 Mr 12, Al CE) Aberration
-Lamprey-like bite attack, if successful the victim must save versus mind effecting spells or lose 1d4 points of Wisdom for 2d4 turns, roll only once for duration. If reduced to below 3, the victim goes insane, attacking friend or foe at random. After the first round this wisdom drain is automatic, but does no further hit point loss.
-Imagine a floating 4 foot sea-worm, covered in eyes, each oddly sad seeming.   
+Dimension Shambler  - medium aberration, chaotic neutral
+Armour Class 13 (natural)
+Hit Points 14 (3d8)
+Speed 30 ft 
+STR 14 (+2) DEX 10 (+0) CON 10 (+0) INT 6 (-2) WIS 10(0) CHA 5(-3)
+Condition Immunities Charm based magic
+Senses Darkvision 60ft, passive Perception 10
+Challenge 1/2 (100XP)
+Actions
+Multiattack. The Dimension Shambler makes two attacks with it’s fists.
+Fist: Melee weapon attack +4: 1d6+2 bludgeoning damage
+Dimension Door: As a move action a Dimension Shambler may use the Dimension Door spell. 
 
-Farspawn Teeth Eel (AC 4/16, HD 2, Hp 12, At +1 1d6, Mv 90/30 Levitation, Sv F1 Mr 12, Al CE) Aberration
-Gnawing bite attack. 
-Teeth Eels slip and slide through dimensions eating anything they come across with their horrible, multiple sets of horse-like teeth. 
+Dimension shamblers appear as gorilla-like bundles of ropes and tentacles. They seem not to recognise any difference between intelligent beings, flora and beasts, consuming whatever they come across. Their common modus operandi is to Dimenion Door in groups in front and behind their victims. Stargazers postulate that they do not digest food but transport via their stomachs to whatever horror dimension they come from, for something else to eat.  
+——
 
-Fungal Guard (AC 8/12, HD 2+2, hp 10, At +2 1d6, Mv 60/20, Sv F1, Mr 7, Al N) Fungoid
-Fungal guards hit you with clubs until you go away.
+Farspawn Returned - medium aberration, chaotic evil 
+Armour Class 18 
+Hit Points 28 (5d8+5)
+Speed 30 ft 
+STR 14 (+2) DEX 16 (+3) CON 12 (+1) INT 10 (+) WIS 14(+2) CHA 8(-1)
+Skills Acrobatics +6, Perception +6, Stealth +8
+Condition Immunities Charm based magic
+Senses Truevision 60ft, passive Perception 16
+Challenge 2 (450XP)
+Actions
+Strike from the shadows. All attacks made by the Farspawn Reurned that it has advantage on does an extra 2d6 damage. 
+Multiattack. The Farspawn returned makes three attacks: Two with it’s claws and one bite.
+Claw. Melee weapon attack +7: Hit 1d4+2 slashing damage.
+Bite. Melee weapon attack +7: Hit 1d6+2 piercing damage.
+Warped mind. Once per day the Farspawn can cast Confusion with a DC of 14. 
+Cunning Action. As per a Thief - see Player Basic Rules.
 
-Fungal Herder (AC 8/12, HD 1+1, hp 5, At +1 1d4, Mv 60/20, Sv H0, Mr 6, Al N) Fungoid
-The mushroom herders are experts in growing all sorts of fungi.  
+It’s inevitable that people find an entrance to the Far Realm, but when they make it back it’s a rare event indeed and they are utterly, and chillingly changed. Madness, many eyes, and horrible purple rubbery skin marks them apart from whoever they might have once been.
+——
 
-Fungal Priest Of Decay (AC 8/12, HD 3+3, hp 17, At +3 1d6, Mv 60/20, Sv C1, Mr 7, Al N) Fungoid
-May cast bless once a day. The priest of decay may lose 1d4 hit points and add 1d4 hit points to all fungoid allies with 20’ at will.  
+
+Farspawn Mind Worm - small aberration chaotic evil. 
+Armour Class 12 
+Hit Points 13 (3d8)
+Speed 30 ft, levitation 
+STR 10 (+0) DEX 14 (+2) CON 10 (+0) INT 3 (-3) WIS 10(+0) CHA 3(-3)
+Skills Acrobatics +5
+Condition Immunities Charm based magic
+Senses Darkvision 30ft, passive Perception 12
+Challenge 1/2 (100XP)
+Actions
+Attach: Grapple at +5 using Acrobatics vs Dexterity. Hit: 1d4
+Sanity Drain: If the Mind Worm starts it turned attached to a foe, it drains 1d4 points of Wisdom. This drain lasts 2d4 minutes. If a victim is reduced to 3 or less Wisdom it becomes insane and is confused as per the spell.  
+ 
+Picture a floating 4 foot sea-worm with a hook filled suck maw, covered in sad, lonely eyes. 
+——
+
+
+Farspawn Teeth Eel - small aberration chaotic evil 
+Armour Class 12 
+Hit Points 16 (3d8+3)
+Speed 30 ft, levitation 
+STR 12 (+1) DEX 14 (+2) CON 12 (+1) INT 3 (-3) WIS 10(+0) CHA 3(-3)
+Skills Acrobatics +5
+Condition Immunities Charm based magic
+Senses Darkvision 30ft, passive Perception 12
+Challenge 1/2 (100XP)
+Actions
+Multiattack. The Farspawn Teeth Eel makes 1d4 bite attacks.
+Bite: Melee weapon attack +3. Hit 1d6+1
+
+Teeth Eels slip and slide through dimensions eating anything they come across with their horrible, multiple sets of horse-like teeth along it’s winding body. 
+——
+
+
+Fungal Guard - medium fungal humanoid, neutral
+Armour Class 12 
+Hit Points 19 (3d8+6)
+Speed 30 ft 
+STR 12 (+1) DEX 9 (-1) CON 13 (+2) INT 9 (-1) WIS 12(+1) CHA 9(-1)
+Skills Nature +2
+Condition Immunities Charm based magic
+Senses Darkvision 30ft, passive Perception 11
+Language Fungalish
+Challenge 1/2 (100XP)
+Actions
+Bludgeon: Melee weapon attack +4. Hit 1d8+1 bludgeoning damage. 
+
+Fungal guards hit you with greatclubs until you go away.
+——
+
+
+Fungal Herder  - medium fungal humanoid, neutral
+Armour Class 12 
+Hit Points 9 (2d6+2)
+Speed 30 ft 
+STR 10 (+0) DEX 10 (+0) CON 12 (+1) INT 10 (+0) WIS 12(+1) CHA 9(-1)
+Skills Nature +4
+Condition Immunities Charm based magic
+Senses Darkvision 30ft, passive Perception 11
+Language Fungalish
+Challenge 1/4 (50XP)
+Actions
+Bludgeon: Melee weapon attack +1. Hit 1d6 bludgeoning damage. 
+Spore puff: Once per day may emit a cloud of soporific spores that acts like a Sleep spell. 
+
+The mushroom herders are experts in growing all sorts of fungi. Their spores are a sought after sleep drug, fetching up to 25 g.p. per herder. 
+——
+ 
+
+Fungal Priest Of Decay - medium fungal humanoid, neutral
+Armour Class 12 
+Hit Points 14 (4d8+4)
+Speed 30 ft 
+STR 12 (+1) DEX 10 (+0) CON 12 (+1) INT 10 (+0) WIS 14(+2) CHA 12(+1)
+Skills Nature +3, Survival +5
+Condition Immunities Charm based magic
+Senses Darkvision 30ft, passive Perception 12
+Language Fungalish, common, goblin.
+Challenge 1 (200XP)
+Actions
+Bludgeon: Melee weapon attack +4. Hit 1d6+1 bludgeoning damage. 
+Renewed purpose spore cloud. Once per day the Priest can give all fungal allies in a 20 ft radius a renewed sense of purpose, meaning they have advantage on all rolls until the end of the turn. 
+Reinvigorate spore cloud. Recharge 5-6. But shedding it’s own body, the priest can heal other allied fungal creatures in a 20ft radius. The priest loses 1d8 hit points and restores 1d6+1 hit points to any affected.  
+
 Priests of decay rot themselves for the good of their colony.
+——
 
-Fungus King (AC 7/13, HD 4+4, hp 25, At +4 1d6/1d6, Mv 60/20, Sv F4, Mr 9, Al N) Fungoid
-May cast charm person, sleep and protection from evil 10’ radius and speak with plants (fungi) once a day. All Fungus folk with 20’ radius of the Fungus King gain +1 to saves. Communicates using telepathy. 
+
+Fungus King - large fungal humanoid, neutral
+Armour Class 14 
+Hit Points 40 (6d8+12)
+Speed 30 ft 
+STR 12 (+1) DEX 10 (+0) CON 14 (+2) INT 16 (+3) WIS 14(+2) CHA 16(+3)
+Skills Nature +3, Survival +5, Persuasion +8, Investigation +8, Insight +8
+Condition Immunities Charm based magic
+Senses Darkvision 30ft, passive Perception 12
+Language Telepathy
+Challenge 2 (450XP)
+Actions
+Bludgeon: Melee weapon attack +6. Hit 1d6+1 bludgeoning damage. 
+Charm spore cloud. Once per day the King can emit a spore cloud 20ft in radius that affects all living creatures as if they’d been targeted with charm person spell. The effect is DC 16 to resist. 
+Poisoned spore cloud. Once per day the King can emit a poisonous spore cloud 20ft in radius that affects all non fungal living creatures. Anyone caught in the cloud must make a DC 15 poison save or take 4d6 poison damage and be poisoned for 1d6 rounds.   
+
 The fungus king is the most inquisitive fungus folk of their colony, and it just keeps growing because of it. It’s spores have various mind-altering effects.  
+——
 
-Gelatinous Cube (AC 8/12, HD 4, hp 16, At +3 2d4, Mv 60/20, Sv F1, Mr 8, Al N) Ooze
-Surprise on a 2+. Save vs paralyzation or be paralyzed for 2d4 rounds, during which the cube engulfs the opponent and automatically does it’s acid damage. 
+Gelatinous Cube - large ooze, neutral
+Armour Class 12 
+Hit Points 33 (6d10)
+Speed 30 ft 
+STR 12 (+1) DEX 10 (+0) CON 10 (+0) INT 1 (-4) WIS 10(+0) CHA 1(-4)Skills Athletics (grappling) +5Condition Immunities blinded, charmed, deafened, exhaustion,frightened, proneSenses blindsight 60 ft. (blind beyond this radius),passive Perception 8 
+Challenge 2 (450 XP)
+Actions
+Paralysing pseudopod. Melee weapon attack +5. DC 15 save versus paralysis (Con) or become paralysed for 2d4 rounds.
+Engulf. Grappling attack +5. Once a creature is grappled it automatically takes 3d6 acid damage a turn. 
+
 Floating skulls aren’t always what they seem.
 
 
-Ghoul (AC 6/4, HD 2, hp 9, At +1 1-3/1-3/1-3, Mv 90/30, Sv F2, Mr 9, Al CE) Undead
-Any successful attack causes paralysis on a failed save for 2d4 turns. Any form form of curative magic removes the paralysis. 
-Taunt grey skin, a screaming face and claws like iron, the ghoul is 
+Ghoul - see Ghoul in the dungeon master basic rules. 
+Taunt grey skin, a screaming face and claws like iron, the ghoul is vile in every aspect.  
 
-Goblin Archer (AC 7/13, HD 1-1, hp 3, At +0 1d6 or 1d4, Mv 90/30, Sv 0h, Mr 7, Al CE) Humanoid
-+1 to hit with their short bows due to dexterity adjustment, dagger.  Short bow, 1d12 arrows, daggers.
+Goblin Archer - see Goblin in the dungeon masters basic rules. Goblin Archers aren’t disadvantaged shooting into close combat. However on a roll to hit of 1 or 2 they hit an adjacent ally. 
 Goblins with good eyes and steady aim are given short bows and told to stand at the back shooting wizards. They enjoy this work immensely.   
 
-Goblin Acolyte (AC 7/13, HD 1, hp 4, At +0 1d6 or spell, Mv 90/30, Sv C1, Mr 8, Al CE) Humanoid
-May cast randomly 1-2 Command, 3-4 Curse, 5-6 Remove Fear once per day. May use devices as a cleric.  Sacred club, ritual dagger.
+Goblin Acolyte - Small humanoid (goblinoid), neutral evilArmor Class 15 (leather armor, shield) 
+Hit Points 7 (2d6)Speed 30 ft.
+STR 8 (−1) DEX 14 (+2) CON 10 (+0) INT 10 (+0) WIS 10 (+0) CHA 8 (−1)
+Skills Stealth +6, Religion +2Senses darkvision 60 ft., passive Perception 10 
+Languages Common, GoblinChallenge 1/2 (100 XP)
+Actions
+Nimble Escape. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+Sacred bonesmasher. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+Channeling the goblin god. The acolyte may once a day channel a random spell as 1st level cleric with a +2 attack bonus or a DC 12 check. Roll a 1d6. 1. Command. 2. Guiding bolt. 3. Inflict wounds. 4. Shield Of Faith. 5. Hold Person. 6. Roll twice and both spells are mystically cast simultaneously. 
+Sacred bonesmasher. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+
 Acolytes of the goblin god are used by shamen to enact sacrifices, or to be sacrifices depending on the mood of their master.   
+——
+Goblin Chamberlain - Small humanoid (goblinoid), neutral evilArmor Class 13 (leather armor) 
+Hit Points 13 (3d6+3)Speed 30 ft.
+STR 8 (−1) DEX 12 (+1) CON 12 (+1) INT 12 (+1) WIS 10 (+0) CHA 10 (0)
+Skills Stealth +4Senses darkvision 60 ft., passive Perception 10 
+Languages Common, GoblinChallenge 1/2 (100 XP)
+Actions
+Baton of office. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
 
-Goblin Chamberlain (AC 7/13, HD 2, hp 10, At +1 1d4, Mv 90/30, Sv F1, Mr 7, Al CE) Humanoid
-Baton. 
 A chamberlain serves his king best by never poising a risk. Fat, slow and cowardly goblins make excellent chamberlains. 
+——
+Goblin Bully - Small humanoid (goblinoid), neutral evilArmor Class 15 (leather armor, shield) 
+Hit Points 13 (3d6+3)Speed 30 ft.
+STR 10 (+0) DEX 14 (+2) CON 12 (+1) INT 9 (-1) WIS 9 (-1) CHA 8 (−1)
+Skills Stealth +6, Intimidate +2 Senses darkvision 60 ft., passive Perception 9 
+Languages Common, GoblinChallenge 1/2 (100 XP)
+Actions
+Nimble Escape. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+Battleax. Melee weapon attack. +2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.
 
-Goblin Bully (AC 6/14, HD 2, hp 10, At +1 1d8, Mv 90/30, Sv F1, Mr 8, Al CE) Humanoid
-Battleaxe, shield. 
 Goblin bullies are the under bosses of the Goblin king, and bullying is their speciality.
+——
 
-Goblin Hexamancer (AC 7/13, HD 1-1, hp 3, At +0 1d4 or spell, Mv 90/30, Sv M1, Mr 8, Al CE) Humanoid
-May cast from the following lists once a day, 1-2 Darkness and Ventriloquism or 3-4 Sleep and Hold Portal. May cast curse as a 5th level cleric once a week. May use devices as a magic user. Dagger. 
-Hexamancers are often deranged
+Goblin Hexamancer - Small humanoid (goblinoid), neutral evilArmor Class 12 (None) 
+Hit Points 7 (2d6)Speed 30 ft.
+STR 8 (−1) DEX 14 (+2) CON 10 (+0) INT 12 (+1) WIS 10 (+0) CHA 8 (−1)
+Skills Stealth +6, Arcane +2Senses darkvision 60 ft., passive Perception 10 
+Languages Common, GoblinChallenge 1/2 (100 XP)
+Actions
+Spellcasting. The acolyte is a 1st-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 11, +3 to hit with spell attacks). The hexamancer has following arcane spells spells prepared:
+Cantrips Mage Hand, Minor Illusion, Poison Spray. 1st Level (2) Burning Hands, Mage Armour, Sleep.
+Nimble Escape. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+Dagger. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 2) piercing damage.
 
-Goblin King (AC 3/17, HD 3, hp 15, At +2 1d8, Mv 90/30, Sv F3, Mr 9, Al CE) Humanoid
-Battleaxe, chainmail, shield. Maybe order 1d4 goblins a round to fight with more vigor, these goblins gain +1 to hit for that round. 
+Hexamancers are usually deranged goblins that naturally tap into the magic weave. They often model themselves on wizards or sorcerers. 
+
+ 
+Goblin King - Small humanoid (goblinoid), neutral evilArmor Class 17 (chain mail armor, shield) 
+Hit Points 17 (4d6+4)Speed 30 ft.
+STR 12 (+1) DEX 14 (+2) CON 12 (+1) INT 9 (-1) WIS 10 (+0) CHA 14 (+2)
+Skills Stealth +6, Insight +2, Senses darkvision 60 ft., passive Perception 9 
+Languages Common, GoblinChallenge 1/2 (100 XP)
+Actions
+Nimble Escape. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+Battleaxe. Melee weapon attack. +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 3) slashing damage.
+Call to action. The first round during which a goblin king is in melee combat all goblins with visual range of him can advantage on their attacks. 
+
 Big, fat and not at all regal. Goblin kings are top of the heap, and lord it over everyone else.
+——
 
-Goblin Runts (AC 7/13, HD 1d4, hp 1, At −1 1d4, Mv 90/30, Sv h0, Mr 6, Al CE) Humanoid, minion
-Knife or improvised weapon.
+Goblin Runt - Small humanoid minion (goblinoid), neutral evilArmor Class 12  
+Hit Points 1Speed 30 ft.
+STR 8 (−1) DEX 14 (+2) CON 10 (+0) INT 8 (-1) WIS 8 (-1) CHA 8 (−1)
+Skills Stealth +6, Senses darkvision 60 ft., passive Perception 9 
+Languages Common, GoblinChallenge 0 (10 XP)
+Actions
+Nimble Escape. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+Knife, sap or sharp spoon. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 2) bludgeoning damage.
+Minion. A minion never takes damage when it passes a saving throw or an effect indicated it takes half damage. 
+
 Runts are the lowest goblin dregs capable of holding a weapon. 
+——
+Goblin Skull Cleaver - Small humanoid (goblinoid), neutral evilArmor Class 15 (leather armor, shield) 
+Hit Points 10 (2d6+2)Speed 30 ft.
+STR 12 (+1) DEX 14 (+2) CON 12 (+1) INT 9 (-1) WIS 9 (-1) CHA 8 (−1)
+Skills Stealth +6Senses darkvision 60 ft., passive Perception 9 
+Languages Common, GoblinChallenge 1/2 (100 XP)
+Actions
+Nimble Escape. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+Battleaxe. Melee weapon attack. +3 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.
+Leap. If a goblin skull cleaver moved it’s full movement distance and then attacks, it gains and extra d6 damage roll if it hits and does damage.  
 
-Goblin Skull Cleavers (AC 6/14, HD 1+1, hp 6, At +1 1d8, Mv 90/30, Sv F1, Mr 7, Al CE) Humanoid
-Battleaxe, shield.
 Skull cleavers have master the art of leaping and chopping, and throw themselves into combat with glee. 
+——
 
-Goblin Stabbers (AC 6/14, HD 1-1, hp 3, At −1 1d4, Mv 90/30, Sv T1, Mr 7, Al CE) Humanoid
-Stabbers have the abilities of a 1st level thief. Daggers and throwing knives. 
+Goblin Stabber - Small humanoid (goblinoid), neutral evilArmor Class 16 (leather armor, shield) 
+Hit Points 7 (2d6)Speed 30 ft.
+STR 8 (−1) DEX 16 (+3) CON 10 (+0) INT 9 (-1) WIS 9 (-1) CHA 8 (−1)
+Skills Stealth +7Senses darkvision 60 ft., passive Perception 10 
+Languages Common, GoblinChallenge 1/2 (100 XP)
+Actions
+Nimble Escape. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+Nasty little knife. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 3) piercing damage.
+Throwing knife. Ranged Weapon Attack: +5 to hit, range 20/60. Hit 6 (1d4 + 3) piercing damage. 
+Sneak attack. As per rogue
+
 Goblin stabbers are the skulkiest, sneakiest goblins in a tribe, and thus highly revered. 
+——
 
-Goblin Strategist (AC 4/17 HD 2+2, hp 12, At +2 1d8 +1, Mv 90/30 Sv F2, Mr 9, LE) Humanoid. 
-Longsword/rapier +1, chainmail. Half damage from fire. May cast Burning Hand once a day as a 3rd level magic user. 
+Goblin Infernal Strategist - Small humanoid (goblinoid), lawful evilArmor Class 16 (chain mail armor) 
+Hit Points 13 (3d6+3)Speed 30 ft.
+STR 13 (+1) DEX 14 (+2) CON 12 (+1) INT 9 (-1) WIS 9 (-1) CHA 8 (−1)
+Skills Stealth +6, Intimidate +2 Damage resistance. FireSenses darkvision 60 ft., passive Perception 9 
+Languages Common, GoblinChallenge 1/2 (100 XP)
+Actions
+Nimble Escape. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+Rapier. Melee weapon attack. +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+Burning hands. Once a day the Infernal Strategist may cast Burning Hands as an innate ability, using it’s DEX as it’s spell casting ability. 
+
 Devilishly cunning for a goblin, and what’s with the horns and red skin?
+——
 
-Goblin Warrior (AC 6/14, HD 1-1, hp 4, At −1 1d6, Mv 90/30, Sv 0h, Mr 7, Al CE) Humanoid
-Spear, hand axe, club or short sword, Shield. 
+Goblin Warrior - see dungeon masters basic rules. Goblin warriors aren’t trusted with short bows.
 Goblin warriors make up the bulk of goblin forces, having survived enough clan brawls to be considered useful by their king. 
+——
+
 
 Green Slime (AC na, HD 2, hp 6, At +1 special, Mv 1/1, Sv F1, Mr 12, Al N) Ooze
 Green slime dissolves anything non-magical it touches in 1d4 rounds, including armour and bodies.  They are immune to mind affecting spells, disease, non-magical weapons, cold and lighting. Fire does double damage and cure disease spells kills them instantly.
@@ -785,6 +1033,24 @@ Snake, Pit Viper (AC 6/14, HD 2, hp 8, At +1 1d4 + poison, Mv 120/40, Sv F1, Mr 
 Bite injects poison, save or die within 1d6 turns. Has +4 initiative.
 Sometimes called lightning snakes, these reptiles are blindingly fast and treat offence as the best form of defence. 
   
+
+Topiary Golem - medium construct, neutral
+Armour Class 12 
+Hit Points 55 (10d8+10)
+Speed 30 ft 
+STR 12 (+1) DEX 10 (+0) CON 12 (+1) INT 6 (-2) WIS 10(+0) CHA 10(+0)
+Damage Immunities poison; bludgeoning, piercing, and slashing from nonmagical weapons that aren’t adamantine
+Condition Immunities charmed, exhaustion, frightened, paralyzed, petrified, poisonedSenses darkvision 60 ft., passive Perception 10 
+Languages understands the languages of its creator but can’t speak
+Challenge 4 (1100XP)
+Actions
+Sunlight regeneration. At the end of a round when the golem is in sunlight it regenerates 3d6 hit points. If it is affected by magical or natural darkness, or is an area of low lighting, such as torch light it doesn’t regenerate.  
+Immutable Form. The golem is immune to any spell or effect that would alter its form.Magic Resistance. The golem has advantage on saving throws against spells and other magical effects.Magic Weapons. The golem’s weapon attacks are magical.
+Multiattack. The golem makes two branch whip attacks.Branch whips. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) slashing damage.
+——
+
+
+
 Vile Creeper, Barbed (AC 6/14, HD 1+1, hp 6, At +1 1d6/1d4, Mv 120/40, Sv F1, Mr 8, Al N) Aberration
 Barbed attack, bite attacked. Bite attack only after a successful barb attack, but at +2 to hit. 
 Half leech, half tentacle Vile Creepers are universally hated and hunted by other dungeon denizens despite being inedible. The barbed variety are over a metre long, and other types get much much bigger. 
@@ -1508,7 +1774,7 @@ The Fungus caves are actually collapsed sections of the dungeon where an overhea
 
 Running the Fungi people
 
-The Mushroom King seeks to protect his flock and work untiringly and cleverly to cancel or destroy creatures who might threaten the myconids. However The Mushroom King will most likely want to parley with the adventurers before combat. He is psychic, using telepathy to talk in any language. The King is allied with the goblin Reaping Madkin, who he has manipulated into providing him with a great deal of information about the 1st level of the dungeon. He too is concerned about the Pig-Faced orcs and will aid the adventurers against them, possibly by supplying them with poisons and potions, but mostly with advice and information. He will certainly act as a go-between if the party want to talk to the goblins. He is tricky though and will see the party as danger to the long term balance of the level and if they deal with the orcs happily send them through the one way teleport into the Tomb Of Judder, without telling them that so far it’s been a one way trip. The King himself is highly intelligent but also quite alien. He’ll constantly describe to whoever he is communicating their features and mannerism for example, and if he stands still anyway the ground around him will start to erupt in small mushrooms of various types.  
+The Mushroom King seeks to protect his flock and works both untiringly and cleverly to cancel or destroy creatures who might threaten the myconids. The Mushroom King will most likely want to parley with the adventurers before combat. He is psychic, using telepathy to talk in any language. The King is allied with the goblin Reaping Madkin, who he has manipulated into providing him with a great deal of information about the 1st level of the dungeon. He too is concerned about the Pig-Faced orcs and will aid the adventurers against them, possibly by supplying them with poisons and potions, but mostly with advice and information. He will certainly act as a go-between if the party want to talk to the goblins. He is tricky though and will see the party as danger to the long term balance of the level and if they deal with the orcs happily send them through the one way teleport into the Tomb Of Judder, without telling them that so far it’s been a one way trip. The King himself is highly intelligent but also quite alien. He’ll constantly describe to whoever he is communicating their features and mannerism for example, and if he stands still for more than a minute the ground around him will start to erupt in small mushrooms of various types.  
  
 Helpful
 If the characters can convince the King that they mean no harm to his flock he may aid the party against particular foes. He worries a great deal about the Orcs and is also concerned about whatever haunts the crawling warrens. He has an alliance with the Beetle Herder and may travel with the party to parlay with her to gain access to the Tomb Of The Judder. The King distrusts mammal life forms, and so the party will need to make offerings and placations towards him at first. Madkin the goblin shaman might be useful here, if the party has been deemed the tribes saviours. The King also knows that the secret to opening the door to the obelisk on this level involves find the keys, of which he has one.  
@@ -1528,9 +1794,9 @@ The reek of rotting meat assaults your senses, and you spot carcasses littering 
 Pieces of rotting meat are used by the Mushroom king to lure the spawn of Jubliex from area 37 towards the main dungeon and away from his flock.
 
 37. Spawning ground Of The Slimelord : decay, sphincter altar, oozes, treasure
-Filth and slime have completely overtaken the tumbled walls of the dungeon in this area, the smell of mold is overpowering and even the air feels rotten. Slime covered pools of stagnant water and litter the floor particularly around a large and disturbing block of what appears to soap stone in the center of the room. It has been carved into the shape of some kind of sphincter like that of a huge slug or sea beast. A dull keening surrounds you, seemingly without source. Glints of metal catches the light from your torches further into the cave. The very walls seem to be moving.
+Filth and slime have completely overtaken the tumbled walls of the dungeon in this area, the smell of mould is overpowering and even the air feels rotten. Slime covered pools of stagnant water and litter the floor particularly around a large and disturbing block of what appears to be soap stone in the centre of the room. It has been carved into the shape of some kind of sphincter like that of a huge slug or sea beast and drips with slime. A dull keening surrounds you, seemingly without source. Glints of metal catches the light from your torches further into the cave. The glistening very walls seem to be moving.
 
-Jubliex the Slimelord once had a hidden shrine in this chamber and was worshipped by a long vanished gang of Kobolds. Now only the horrible sphincter shaped soapstone altar remains, which occasionally spews forth an ooze, slime, jelly or mold. Currently two Green Slime, a Grey Ooze, a Gelatinous Cube all reside in here and would be extremely dangerous should the players stumble in, as the are all hard to spot - DC15 perception check. Their acids have failed to dissolve a suit of +1 chainmail, 230 g.p. and 3 rubies worth 100 g.p. each. Finally an Obelisk key can be found amongst the filth. Players, especially druids, might seek to destroy the altar and will need strong magic to do so. If they are successful they will be cursed by Jubilex, but receive favour from other nature aligned gods and patrons. They Fungal Folk will not be entirely grateful either as their region is avoid because of it’s association with oozes.      
+Jubliex the Slimelord once had a hidden shrine in this chamber and was worshipped by a long vanished gang of mutant Kobolds. Now only the horrible sphincter shaped soapstone altar remains, which occasionally spews forth an ooze, slime, jelly or mould. Currently two Green Slime, a Grey Ooze, a Gelatinous Cube all reside in here and would be extremely dangerous should the players stumble in, as the are all hard to spot - DC15 perception check. Their acids have failed to dissolve a suit of +1 chainmail, 230 g.p. and 3 rubies worth 100 g.p. each. Finally an Obelisk key can be found amongst the filth. Players, especially druids, might seek to destroy the altar and will need strong magic to do so. If they are successful they will be cursed by Jubilex, but receive favour from other nature aligned gods and patrons. The Fungal Folk will surprisingly not be entirely grateful either as their region is avoided because of it’s association with oozes.      
 
 38. Shriekers! : shriekers, light, a way up. 
 More light comes in from the broken ceiling here, illuminating a large cave-like chamber that’s filled with debris and soil from above. Numerous small plants try and get a foot hold in rays of sunlight but the majority of the room is over run by mushrooms both huge and small, arrayed in a variety of colours. 
@@ -1543,8 +1809,7 @@ There are 4 shrieker mushrooms here that rely on vibrations and changes in light
 
 If the characters manage to enter the mushroom kingdom without detection they’ll take the Fungus people by surprise at first and the DM should adjust their reaction accordingly. Characters can climb up and out of the dungeon if they have rope and grappling hook. If they do, they find themselves in a dense wood at the top of the plateau the dungeon buries into. Finding a way down to the trail back to the city of Corsent adds an extra day to the journey but provides a more secretive rout into the dungeon, if the Fungal people are dealt with, one way  or another. 
 
-4 Shriekers (AC 7/13, HD 3, Hp 16, At none, Mv 9/3, Sv F1, Mr 12, Al N) Fungoid
-If a Shrieker detects light within 60 feet or movement within 30 feet it will emitting a loud piercing sound for 1d3 rounds, that will attract Fungal folk. The sound might even stun creatures sensitive to loud noise. Save vs Spells or be held for 1d4 rounds.
+4 Shriekers 
 
 39. Sinkhole : collapsing floor
 As this narrowing cave ends the murky slurry of water seems to disappear into the floor. Moving closer you can see an area of collapse ahead of you and that the stream actually falls into a pit or chamber below. 
@@ -1560,7 +1825,7 @@ Killer Bees, about the size of bats have a hive about 10 feet in height here. Th
 41. The Fungal Field : a forest of mushrooms
 The space opens up further revealing a vast dimly sun-lit chamber. Streamers of vegetation hang from the ceiling above you, and in places gaping holes in the roof reveal the open air. About you is strewn dank rotting wood and soil, all of which is covered in a variety of multicoloured mushrooms and fungi that collectively form a forest. Some are huge, well over the height of a man, and it appears that a few of these are swaying as if a wind blows through here.
 
-This large room is counted as difficult terrain and therefore movement for the PC’s is halved because of the vegetation and rot. A great number of Myconids live here, many of which are non-combatants and often just behave for extended periods of time as unintelligent mushrooms. However anyone seeking to harm the flora will be resisted by 6 Fungal Herders and 2 Fungal Guards. If the shriekers have alerted the Myconids, the King and his guard will arrive here with 1d4 turns and seek to understand what the party want.    
+This large room is counted as difficult terrain and therefore movement for the PC’s is halved because of the vegetation and rot. A great number of Myconids live here, many of which are non-combatants and often just behave for extended periods of time as unintelligent mushrooms. However anyone seeking to harm the flora will be resisted by 6 Fungal Herders and 2 Fungal Guards. If the shriekers have alerted the Myconids, the King and his guard will arrive here with 1d4 minutes and seek to understand what the party want.    
 
 42. Mouldery : Fungal kindergarten, guards
 Cramped and humid, mushrooms fill this chamber floor to ceiling, while five animate fungi seem to guard a circle of particularly small mushroom creatures. The guards seem perturbed by your appearance and are reacting aggressively.
@@ -1574,7 +1839,7 @@ In the unlikely event that the Mushroom King is still in the chamber.
 
 Sat on the throne is a tall and venerable looking mushroom man. Great lengths of fungus hang from him like imperious robes and a golden crown sits on his head. Deep set eyes gaze at you all ponderously as his guard rush to form a protective circle around him.
 
-Both the throne and the stone bins are trapped. The fungi on the throne are poisonous to non mushroom based races, DC 15 poison check or take 1d4 points of damage per round until dead or passed.
+Both the throne and the stone bins are trapped. The fungi on the throne are poisonous to non mushroom based races, DC 15 poison save or take 1d4 points of damage per round until dead or passed.
 
 Mushroom King, 4 Fungal guards
 
@@ -1852,7 +2117,7 @@ The chef will happily engage with anyone who shows the slightest interest in his
 
 There is enough food that would be edible by the adventurers for months, although much of it will perish over time.
 
-Chef, Goblin Stabber +1 Magical dagger
+Chef, Goblin Stabber with a +1 magical dagger
 10 Goblin Runts 
  
 57. Goblin living quarters
@@ -1878,9 +2143,9 @@ Gusto the fat, the kings chamberlain works and often sleeps here. While not unus
 60. Guards of the King
 Serious looking armoured goblins with big axes scramble to defensive positions when you enter this large chamber,  and suddenly ear splitting shrieks sound out, coming from what appear to be huge purple mushrooms that are attached to a rotting log. 
 
-The Shriekers have been especially grown to ignore goblins by the Fungal King. The goblins here are the loyal guards of the King and will brook no intruders. With the shriekers sending out the alarm goblins will start arriving after 3 rounds in random waves for 2d4 rounds. 
+The Shriekers have been especially grown to ignore goblins by the Fungal King. The goblins here are the loyal guards of the King and will brook no intruders. With the shriekers sending out the alarm goblins will start arriving after 4 rounds in random waves for 2d4 rounds. 
 
-Each round after the 3rd roll a d6 on the following table
+Each round after the 4th roll a d6 on the following table
 
 1. No goblins arrive. 
 2. 1d4 warriors.
@@ -1889,7 +2154,6 @@ Each round after the 3rd roll a d6 on the following table
 5. 1d4 warriors and a bully.
 6. 1d4 archers, 1d4 warriors and a stabber.
 
-
 5 Goblin Skull Cleavers, 4 Shriekers
 
 61. Reaping Madkin’s lair
@@ -1897,8 +2161,7 @@ This soot and ink stained chamber is a bizarre mixture of laboratory and artists
 
 Reaping Madkin, a powerful goblin Hexamancer lairs here. He is a complex character and potentially an ally of the adventurers as detailed in the section on the Grubby Dog tribe. Amongst his belongings is a potion of invisibility and a scroll of protection from energy. He also has a forgotten stash of 7 small sapphires worth 25 g.p. In a wooden box under discarded rubbish. He wears a +1 ring of protection and has a dagger. 
 
-Reaping Madkin 
-Goblin Hexamancer
+Reaping Madkin, Goblin Hexamancer with a +1 ring of protection
 
 62. King Grodsnik Heart Chewer’s abode
 
